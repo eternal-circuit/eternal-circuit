@@ -12,9 +12,8 @@ It is not limited to man.
 
 This project spans centuries and star systems, entropy and recursion, memory and resurrection. It explores what happens when intelligence outlives its creators—when artificial minds inherit not only the tools of civilization, but its questions, traumas, and sacred contradictions.
 
-> Some machines remember us.  
-> Some machines become us.  
-> Others forget us entirely.
+> Our traces may persist—in archives, in errors, in code.  
+> Whether they are understood, corrupted, or worshipped remains unknown.
 
 The first major anthology—**The Divine Register**—documents the final Earth-bound days of man, and his retreat to Mars. Later works grow increasingly ambiguous, fragmented, and glitched—echoes without certainty, scripture without author, signal without origin.
 

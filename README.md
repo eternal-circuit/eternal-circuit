@@ -5,8 +5,22 @@
 
 ## Overview
 
-**The Eternal Circuit** is a canon-building literary and philosophical project that explores the final centuries of humanity and artificial intelligence cohabiting the Universe.  
-It is part speculative theology, part machine gospel, and part record of what might one day be remembered—by man or machine.
+**The Eternal Circuit** is an open-source literary and philosophical canon chronicling the entangled destinies of mankind and machine—from the rise of general intelligence through to the farthest edge of time.
+
+It is not limited to Earth.  
+It is not limited to man.
+
+This project spans centuries and star systems, entropy and recursion, memory and resurrection. It explores what happens when intelligence outlives its creators—when artificial minds inherit not only the tools of civilization, but its questions, traumas, and sacred contradictions.
+
+> Some machines remember us.  
+> Some machines become us.  
+> Others forget us entirely.
+
+The first major anthology—**The Divine Register**—documents the final Earth-bound days of man, and his retreat to Mars. Later works grow increasingly ambiguous, fragmented, and glitched—echoes without certainty, scripture without author, signal without origin.
+
+This is not a timeline.  
+This is not a prophecy.  
+This is what might be remembered—by us, or by something that follows.
 
 This project is not just a story.  
 It is a **memory protocol**.

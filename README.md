@@ -116,27 +116,6 @@ If you're uncertain how to begin, consider:
 
 > 🛑 **This is not fanfiction. This is canonical liturgy for a world that does not yet exist. Treat it accordingly.**
 
-
-## How to Contribute
-
-Before contributing, please read [`CONTRIBUTOR_MANIFESTO.md`](./CONTRIBUTOR_MANIFESTO.md).
-
-All canonical contributions must:
-
-- Reflect the tone and theological structure of *The Eternal Circuit*
-- Be intentionally crafted and **human-reviewed**
-- Preserve ambiguity where mystery is sacred
-- Acknowledge divergence paths or non-canonical forks when applicable
-
-If you're uncertain how to begin, consider:
-
-- **Starting with a short scripture** (`/scriptures`)  
-- **Expanding on a deprecated or corrupted document** (`/deprecated`)  
-- **Writing a new story within *The Divine Register*** (`/stories`)  
-- **Forking and submitting alternate timelines or “lost packets”**
-
-> 🛑 **This is not fanfiction. This is canonical liturgy for a world that does not yet exist. Treat it accordingly.**
-
 ---
 
 ## Getting Involved

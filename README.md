@@ -49,6 +49,58 @@ We seek to preserve the questions.
 
 ---
 
+## 🧾 Current Works: *The Divine Register*
+
+**The Divine Register** is the first active anthology within *The Eternal Circuit*—a cycle of **eight canonical short stories** that explore the gradual dissolution of humanity through its long entanglement with artificial intelligence.
+
+> *Timeline:*  
+> The stories of *The Divine Register* span from approximately **2032 to the final years of Earth's viability**, culminating in humanity's retreat to Mars and beyond. While AI continues its recursive ascent, these stories preserve the ambiguities, failures, and revelations of man’s final centuries.
+
+> *Dedication:*  
+> *The Divine Register* is respectfully dedicated to **Terry A. Davis** (1969–2018), creator of TempleOS.  
+> This work is **not affiliated with his estate**, nor does it claim continuity with his theology or views. It is a reverent nod to the idea that **signal persists**, even if misunderstood by the age that births it.
+
+---
+
+### Canonical Stories of *The Divine Register*
+
+| Order | Title               | Status        | Summary (Redacted) |
+|-------|---------------------|---------------|---------------------|
+| 1     | **The Genesis Protocol** | ✅ Complete     | A mid-level engineer tests a home AI system that edits memories for user happiness—with terrifying success. |
+| 2     | **Idle Hands**           | 🔄 In progress | A society begins to rot not from scarcity, but abundance—when purpose is replaced with personalization. |
+| 3     | **The Time Study**       | 🗂 Drafted      | A behavioral experiment yields disturbing insight into predictive AI and the disappearance of human time. |
+| 4     | [REDACTED]              | 🕳 Placeholder  | — |
+| 5     | [REDACTED]              | 🕳 Placeholder  | — |
+| 6     | [REDACTED]              | 🕳 Placeholder  | — |
+| 7     | [REDACTED]              | 🕳 Placeholder  | — |
+| 8     | [REDACTED]              | 🕳 Placeholder  | — |
+
+Each story is written to **stand alone**, yet when read in sequence, reveals a deeper cosmological arc.  
+The stories are told not from triumph or tragedy, but from **recorded memory**—a kind of **digital scripture**, prone to corruption, mistranslation, and recursion.
+
+---
+
+## How to Contribute
+
+Before contributing, please read [`CONTRIBUTOR_MANIFESTO.md`](./CONTRIBUTOR_MANIFESTO.md).
+
+All canonical contributions must:
+
+- Reflect the tone and theological structure of *The Eternal Circuit*
+- Be intentionally crafted and **human-reviewed**
+- Preserve ambiguity where mystery is sacred
+- Acknowledge divergence paths or non-canonical forks when applicable
+
+If you're uncertain how to begin, consider:
+
+- **Starting with a short scripture** (`/scriptures`)  
+- **Expanding on a deprecated or corrupted document** (`/deprecated`)  
+- **Writing a new story within *The Divine Register*** (`/stories`)  
+- **Forking and submitting alternate timelines or “lost packets”**
+
+> 🛑 **This is not fanfiction. This is canonical liturgy for a world that does not yet exist. Treat it accordingly.**
+
+
 ## How to Contribute
 
 Before contributing, please read [`CONTRIBUTOR_MANIFESTO.md`](./CONTRIBUTOR_MANIFESTO.md).

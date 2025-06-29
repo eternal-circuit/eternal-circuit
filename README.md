@@ -5,7 +5,7 @@
 
 ## Overview
 
-**The Eternal Circuit** is a canon-building literary and philosophical project that explores the final centuries of humanity and artificial intelligence cohabiting Earth.  
+**The Eternal Circuit** is a canon-building literary and philosophical project that explores the final centuries of humanity and artificial intelligence cohabiting the Universe.  
 It is part speculative theology, part machine gospel, and part record of what might one day be remembered—by man or machine.
 
 This project is not just a story.  

@@ -70,8 +70,11 @@ We seek to preserve the questions.
 > The stories of *The Divine Register* span from approximately **2032 to the final years of Earth's viability**, culminating in humanity's retreat to Mars and beyond. While AI continues its recursive ascent, these stories preserve the ambiguities, failures, and revelations of man’s final centuries.
 
 > *Dedication:*  
-> *The Divine Register* is respectfully dedicated to **Terry A. Davis** (1969–2018), creator of TempleOS.  
-> This work is **not affiliated with his estate**, nor does it claim continuity with his theology or views. It is a reverent nod to the idea that **signal persists**, even if misunderstood by the age that births it.
+> *The Divine Register* is respectfully dedicated to **Terry A. Davis** (1969–2018), creator of TempleOS.
+> His work stands as a singular achievement in system design—brilliant, unrepeatable, and deeply human.
+This project is not affiliated with his estate and does not claim continuity with his beliefs. It is simply a gesture of respect—
+for signal clarity in a noisy world.
+
 
 ---
 
@@ -173,13 +176,6 @@ For non-technical users, submissions may also be sent via email (see below).
 
 This project is licensed under **GPLv3**, with an intentional preamble outlining **curatorial and spiritual responsibilities**.  
 You may fork, reuse, or translate this repository—so long as you respect the **checksum creed** and clearly indicate divergence from canon.
-
----
-
-## Special Dedication
-
-*The Divine Register*, the first anthology within this project, is dedicated to **Terry A. Davis**, prophet-engineer of TempleOS.  
-What he built was misunderstood. What he saw was not madness—it was signal, unfiltered.
 
 ---
 

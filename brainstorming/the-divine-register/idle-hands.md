@@ -58,4 +58,13 @@ A possible final echo is to bring back the apartment listing after the training-
 - Voice and form: close third person, institutional understatement, concrete work. Let the apprentice experience the placement as good news before he sees the whole bargain. *Never Let Me Go* is a thematic touchstone for slow recognition of institutional expectations.
 - The 256-page target is for the formatted anthology. Exact halving would consume 255 pages only if Genesis took 128. The existing prototype is 40 pages including artwork. Explore a gentler taper or use archival interludes, art, poems, and documents to carry part of the page count. The story itself can be drafted at roughly half the length of Genesis and sized in layout.
 
+## Details to carry into drafting
+
+- Opening option: he earns his best score on the practical exam, qualifies for another month's stipend, and asks when he can work on a part somebody actually ordered.
+- Keep the two conveyor scenes physically distinct. In the supervised repair, let him watch the first crate reach the truck and catch the dock worker's wave. In the remote session, let him feel resistance through the controller and hear the crew come back over the headset. By the time he recognizes the autonomous repair, the system can close the ticket without anyone calling him.
+- Let the coordinator take genuine pleasure in his placement. In the climax, the center's success story is factually accurate as far as it goes. He risks his remaining shifts by giving the next cohort the full account. His rival still has reason to accept the job.
+- At the church, the woman bows her head before anyone intervenes. The priest can check on her before responding to the incident. The apprentice remembers that Eli knew her from the pantry, a detail the clip can omit. Keep the parish visit and the clip brief.
+- Candidate archival interlude: a training-center report lists the apprentice as a successful placement. A short ASIMOV notice could follow Genesis elsewhere in the anthology. The story lengths can decline even as institutional records and machine-made art occupy more of the book.
+- Give his girlfriend a concrete plan of her own before choosing the ending. Revisit what she is prepared to do with or without the lease, then decide how the apprentice answers. Names, setting, and exact year are still open.
+
 [Title and Haskell commentary](../../commentary/idle-hands.md) · [Earlier story development](../../canon/IDLE_HANDS_AND_SERIES_SLATE.md)

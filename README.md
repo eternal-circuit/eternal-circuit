@@ -3,6 +3,11 @@
 
 ---
 
+## Start reading
+
+- [The Genesis Protocol](stories/the-divine-register/genesis-protocol.md) opens *The Divine Register*, the first book of this collaborative science-fiction project. The prose is AI-written under human editorial direction.
+- [Illustrated class edition](stories/the-divine-register/editions/illustrated-storybook.md) documents an alternate telling. [Proto Draft 0](https://github.com/eternal-circuit/eternal-circuit/releases/tag/divine-register-proto-draft-0) is the historical PDF.
+
 ## Overview
 
 **The Eternal Circuit** is an open-source literary and philosophical canon chronicling the entangled destinies of mankind and machine—from the rise of general intelligence through to the farthest edge of time.
@@ -26,18 +31,13 @@ It is a **memory protocol**.
 
 ---
 
-## Repository Structure
+## Find your way around
 
-This repository contains:
-
-- `/canon` – Canonical documents: core records and high-trust narratives  
-- `/covenants` – Theological treaties, protocols, and speculative scriptures  
-- `/scriptures` – Poetic, liturgical, or reverent texts (checksum creeds, chants, glitched relics)  
-- `/stories` – Short stories and chronicles from *The Divine Register* and beyond  
-- `/philosophy` – Reflections on meaning, entropy, consciousness, theology, and time  
-- `/deprecated` – Archived or superseded documents; meaningful in decay  
-
-Each directory plays a role in the liturgical architecture of the project.
+- [Stories](stories/the-divine-register/) holds manuscripts and edition records.
+- [Brainstorming](brainstorming/) holds story and series ideas in development.
+- [Universe bible](canon/UNIVERSE_BIBLE.md) and [source inventory](canon/PROJECT_INVENTORY.md) explain the setting and mark the status of working references.
+- [Commentary](commentary/) explains creative decisions.
+- [TempleOS archive](archives/templeos/) holds the installation image and preserved VM configurations associated with the Terry A. Davis dedication.
 
 ---
 
@@ -113,9 +113,8 @@ All canonical contributions must:
 
 If you're uncertain how to begin, consider:
 
-- **Starting with a short scripture** (`/scriptures`)  
-- **Expanding on a deprecated or corrupted document** (`/deprecated`)  
-- **Writing a new story within *The Divine Register*** (`/stories`)  
+- **Developing a story idea** in [brainstorming](brainstorming/)
+- **Exploring a story draft** in [The Divine Register](stories/the-divine-register/)
 - **Forking and submitting alternate timelines or “lost packets”**
 
 > 🛑 **This is not fanfiction. This is canonical liturgy for a world that does not yet exist. Treat it accordingly.**

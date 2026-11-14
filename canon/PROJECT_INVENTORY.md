@@ -22,7 +22,7 @@ The Markdown uses the baseline’s paragraph breaks and the PDF’s chapter head
 
 Use Markdown for manuscript edits. Attach approved PDF snapshots to versioned GitHub Releases. Preserve the historical text for byte-offset work.
 
-Other tracked materials include `README.md`, `CONTRIBUTOR_MANIFESTO.md`, `LICENSE`, `LICENSE.md`, the TempleOS ISO and VM configurations, and `seed0` and `seed1`.
+Other tracked materials include `README.md`, `CONTRIBUTOR_MANIFESTO.md`, `LICENSE`, `LICENSE.md`, the [TempleOS ISO and VM configurations](../archives/templeos/), and `seed0` and `seed1`.
 
 ## Other available materials
 A project-supplied PDF titled *The Divine Register - Michael Pass.pdf* contains the Genesis Protocol story, Chapters 1–8, and editorial TODOs; separate chapter illustration and logo images were also supplied. Their relationship to committed assets has not yet been compared. Prior discussions refer to a universe bible, economics/theme notes, a Book 2 interplanetary AI concept, theological glossary, and liturgical constructs; the *actual files* for these have not yet been verified as present.

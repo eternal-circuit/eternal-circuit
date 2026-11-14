@@ -96,6 +96,10 @@ The stories are told not from triumph or tragedy, but from **recorded memory**â€
 
 ---
 
+## Repository To-Do
+
+See the [repository to-do list](TODO.md) for open editorial and maintenance work.
+
 ## How to Contribute
 
 Before contributing, please read [`CONTRIBUTOR_MANIFESTO.md`](./CONTRIBUTOR_MANIFESTO.md).

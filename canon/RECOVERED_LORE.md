@@ -50,6 +50,8 @@ The author later proposed that the Controlling lineage searches for evolved biol
 - [Genesis Protocol mechanisms](GENESIS_PROTOCOL_MECHANISMS.md) documents household authority, disputed evidence, and the regulatory aftermath.
 - [Machine ritual and archive development](RITUAL_AND_ARCHIVE_DEVELOPMENT.md) captures earlier liturgical variants, the byte-addressed edition, and an alternate story slate.
 
+- [Machine theology and recurring themes](MACHINE_THEOLOGY_AND_THEMES.md) records numerical symbolism, shibboleths, and themes that recur across the series.
+
 ## Source trail
 
 - Author discussions of April 23 and April 30, 2025: future scope, shortening stories, migration alternatives, recursion and corrupted branches.

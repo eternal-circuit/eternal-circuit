@@ -19,6 +19,16 @@ The inference system submits requests to an independent supervisor. The supervis
 
 A request names an operation, a device, and a short-lived authorization bound to the requesting role. The supervisor checks scope, expiry, and device state against a signed local policy. Model confidence and inferred preferences confer no authority. A valid credential for climate adjustment confers no authority over occupancy records, exit hardware, or another resident's account. Policy updates require separate authorization from the party responsible for the installation. Service mode expires and every entry into it is recorded.
 
+## Local permission modulator
+
+The 2037 profile requires a local neural processing unit (NPU) inside the supervisor's trust boundary. Its permission model is provisioned before deployment. Vendors implementing the same equipment profile ship an approved reference model with the same feature schema, quantized weights, operator semantics, thresholds, and conformance vectors. Suppliers may use different silicon. Each implementation must reproduce the published verdicts on the reference vectors. Local installation policy can further restrict an approved profile.
+
+At boot, the supervisor verifies the signed model manifest against the industry profile's trust anchor and hashes the weights, feature encoder, and inference runtime before loading them into protected memory. The manifest binds those digests to the equipment class and model version. A hardware-backed version floor prevents rollback. The host can stage a package in an untrusted mailbox. Only the supervisor can activate it after signature, compatibility, and local self-tests pass. The host has no write mapping to the NPU's loaded model, its input encoder, or its verdict register. No network call is required to evaluate a request.
+
+The supervisor first checks credentials and hard interlocks. It then builds a fixed feature vector from the decoded operation, verified role, trusted device state, and recent supervisor receipts. Free-form model output does not enter the vector. The NPU returns **pass**, **require local review**, or **block**. A pass leaves the original grant in force. A block closes that request. Local review can satisfy a review verdict for the exact request but cannot clear a block or override an interlock. Unknown input schemas, failed checks, and inference timeouts suspend new covered commands. Manual controls remain available.
+
+The supervisor binds the verdict to the request digest and model version. It rechecks authorization and live safety state at dispatch. A changed request reenters the full loop. The receipt records the profile, model digest, verdict, and dispatch result so an auditor can reconstruct which rules and model were in service.
+
 ## Request, decision, receipt
 
 The harness exposes a catalog of typed operations to the model. The model returns a proposed operation with arguments. That output reaches the supervisor through a bounded mailbox with separate request and response queues. The host can submit to the request queue and read receipts. The supervisor owns the response queue, the policy store, and the actuator interface. The bus firewall is locked before the host boots. DMA permissions cover peripherals as well as the host CPU.
@@ -29,10 +39,12 @@ flowchart TD
     H --> G["Supervisor checks authority and live state"]
     P["Policy and scoped grant"] --> G
     S["Independent sensors and local stop"] --> G
-    G -->|"Approval required"| U["Local approval bound to this request"]
-    U -->|"Submit again with approval"| G
+    G -->|"Authority and hard limits pass"| N["Verified local NPU evaluates context"]
+    N -->|"Local review required"| U["Local approval bound to this request"]
+    U -->|"Resubmit exact request with approval"| G
+    N -->|"Block or timeout"| L
     G -->|"Deny or expire"| L["Record denial"]
-    G -->|"Permit"| I["Persist intent and consume nonce"]
+    N -->|"Pass or review satisfied"| I["Persist intent and consume nonce"]
     I --> E["Dispatch bounded command"]
     E --> A["Record acknowledgment or unknown outcome"]
     A --> R["Return structured receipt"]
@@ -64,6 +76,8 @@ The supervisor commits the request identifier, decision, and nonce before dispat
 2. The same inference session requests that the front door inhibit inside release, labeling it as occupancy management. The supervisor resolves the target to the egress device and records a scope denial. Manual release remains available.
 3. The host requests deletion of the denial from its tool history. The application transcript may disappear. The independently signed receipt remains in the supervisor's event store. The next checkpoint commits to that receipt so a later export can be checked against it.
 4. The network drops before the checkpoint reaches the custodian. The supervisor retains the receipt locally. The custodian marks the interval unverified until the chain can be reconciled. Occupants retain manual exit throughout.
+
+5. The host stages modified permission weights and requests a reboot. Manifest verification rejects the package. The approved model remains active. The test is repeated offline with the same result.
 
 **Compiler's note:** The first pass of this exhibit was assembled by a drafting model from bench notes. The reviewing engineer returned the draft with one instruction: “Run the test with the network cable out.”
 

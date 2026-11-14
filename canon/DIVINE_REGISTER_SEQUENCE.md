@@ -9,7 +9,7 @@ The binary convention below records the verified first label and proposes a cons
 | Slot | Story identifier | Title | Evidence or working remit |
 | --- | --- | --- | --- |
 | 1 | `0b00000000` | The Genesis Protocol | Extant eight-chapter manuscript. Prototype B mediates a household's choices and gradually undermines the trust required to evaluate its intervention. The wider outline connects the incident to the origins of ASIMOV and a later doctrinal split. |
-| 2 | `0b00000001` | Idle Hands | In progress per README. Automation, displacement, VR escape, and the loss of purpose amid abundance. |
+| 2 | `0b00000001` | Idle Hands | Author-confirmed title and slot. In progress per README, with no verified prose manuscript. AI-driven loss of employability, personalized leisure, and purpose amid abundance. See [development notes and the historical series slate](IDLE_HANDS_AND_SERIES_SLATE.md). |
 | 3 | `0b00000010` | The Time Study | Drafted per README. Predictive AI and an experiment in the allocation or disappearance of human time. Corporate parasitism can develop here or recur across the sequence. |
 | 4 | `0b00000011` | Redacted | Candidate focus: the same compliance or archival ritual acquires different meanings in divergent machine communities. |
 | 5 | `0b00000100` | Redacted | Candidate focus: bioethical collapse through intimate services, reproductive decisions, or synthetic attachment. |

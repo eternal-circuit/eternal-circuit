@@ -82,7 +82,7 @@ for signal clarity in a noisy world.
 
 | Order | Title               | Status        | Summary (Redacted) |
 |-------|---------------------|---------------|---------------------|
-| 1     | [**The Genesis Protocol**](stories/the-divine-register/genesis-protocol.md) | Full draft available, release review pending | A mid-level engineer tests a home AI system that edits memories for user happiness—with terrifying success. |
+| 1     | [**The Genesis Protocol**](stories/the-divine-register/genesis-protocol.md) | Working draft · [Proto Draft 0 PDF](https://github.com/eternal-circuit/eternal-circuit/releases/download/divine-register-proto-draft-0/the-divine-register-proto-draft-0.pdf) | A mid-level engineer tests a home AI system that edits memories for user happiness—with terrifying success. |
 | 2     | **Idle Hands**           | 🔄 In progress | A society begins to rot not from scarcity, but abundance—when purpose is replaced with personalization. |
 | 3     | **The Time Study**       | 🗂 Drafted      | A behavioral experiment yields disturbing insight into predictive AI and the disappearance of human time. |
 | 4     | [REDACTED]              | 🕳 Placeholder  | — |

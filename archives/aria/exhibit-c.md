@@ -93,6 +93,20 @@ The supervisor records the decision before dispatch and appends the outcome when
 
 Entries are linked cryptographically. Signed checkpoints go to an independent custodian when connectivity permits. The custodian receives commitments and sequence information by default. Raw household contents stay local under a limited retention policy, with an incident hold and a documented disclosure procedure. Auditors compare checkpoints to detect divergent histories. Offline intervals and lost custody are recorded as gaps.
 
+## Independent audit protocol
+
+### 1. Signed inventory
+
+The auditor identifies the specimen and production lot, then challenges the supervisor with a fresh nonce. The supervisor returns a signed inventory of declared policy-capable storage, active and recovery images, and their model, runtime, and policy digests. The lab compares these measurements with reference manifests held independently of the vendor. A supervised export may include the nonsecret policy artifacts needed to reproduce a verdict. Household payloads and private signing keys are outside the export scope.
+
+### 2. Witnessed operation
+
+The lab runs the same specimen on an instrumented bench. It independently observes the safety inputs, command output, and actuator response. The approved reference model evaluates the same inputs. The lab reconciles both verdicts with the signed receipt and the physical result. At minimum, the test covers a permitted command, a block, a local override, and loss of connectivity. A valid inventory signature does not close a discrepancy in observed operation.
+
+### 3. Physical examination
+
+The lab retains randomly sampled production units and quarantines disputed specimens under documented custody. When the inventory and observed behavior disagree, the lab may use high-resolution X-ray imaging to compare package and die structures against an independently retained reference. Structural findings are recorded separately from any finding about stored contents or runtime behavior. The lab repeats the witnessed tests on the examined specimen where feasible. Certification remains open until the discrepancy can be explained and reproduced.
+
 ## 2037 implementation position
 
 The first procurement profile applies to systems that can actuate equipment, alter access rights, or generate records used in incident review. Certification is specific to the installation and software configuration. Independent acceptance tests include a stale authorization, a failed update, a network outage, and attempted modification of a recorded denial. Manufacturers must document which functions remain available after loss of inference authority.

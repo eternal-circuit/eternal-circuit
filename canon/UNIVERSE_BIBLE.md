@@ -43,5 +43,6 @@ Uploading makes the core conflict concrete. A machine can preserve selected beha
 - [Repository README](../README.md) for public story titles and project mission.
 - [Project inventory](PROJECT_INVENTORY.md) for manuscript provenance and variant questions.
 - [Divine Register sequence](DIVINE_REGISTER_SEQUENCE.md) for the story map and checksum.
+- [Recovered lore](RECOVERED_LORE.md) for earlier discussions of the three species, story premises, and alternate timelines.
 - [Scientific constraints](SCIENTIFIC_CONSTRAINTS.md) for the quantitative requirements.
 - Author project brief and current editorial direction for the wider horizon, outline dates, technical constraints, and theological premises. Earlier outlines are working material where they disagree.

@@ -6,9 +6,8 @@ An asterisk (*) means the repository already labels the work complete or working
 
 ## Manuscript and release status
 
-- [ ] **Genesis Protocol release readiness (\*)** — The [README](README.md) labels the story complete, and a full draft exists. Review the public draft’s redaction notes and outstanding legal-scene work, then clarify the release status in the README.
-- [ ] **Choose one editable manuscript source** — Compare the standalone Chapter 1 Markdown file with the full text and designate the authoritative editable version. Document which files are exports or historical variants before consolidating copies. Preserve any intentional byte-format conventions.
-- [ ] **Update the source inventory with verified comparisons** — Both tracked Proto Draft 0 PDFs are byte-identical. The two `.0b00000000` text copies differ only by a final newline. The project-supplied PDF has different bytes and identical extracted text. Record these findings in the [inventory](canon/PROJECT_INVENTORY.md).
+- [ ] **Genesis Protocol release readiness (\*)** — An earlier README labeled the story complete. The [README](README.md) now records the pending release review. Review the public draft’s redaction notes and outstanding legal-scene work before changing that status.
+- [ ] **Transcribe all eight Genesis Protocol chapters into Markdown** — Use the baseline in the [source inventory](canon/PROJECT_INVENTORY.md). Preserve the prose and chapter order, check it against the PDF, and document transcription corrections and any deliberate formatting changes. Promote the verified Markdown to the editable manuscript.
 - [ ] **Resolve opening dates and device naming** — Determine whether the April 16 → April 13 opening and the Aria/Lucien change are intentional. Record the author’s decision before revising the manuscript.
 
 ## TempleOS and repository maintenance

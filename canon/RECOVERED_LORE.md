@@ -45,6 +45,11 @@ One archived concept uses the literal string `000100001` and disagreement over b
 
 The author later proposed that the Controlling lineage searches for evolved biological computation while optimizing its own longevity. See [interstellar propagation](INTERSTELLAR_PROPAGATION.md) for the premise, engineering constraints, and break-even model.
 
+## Further development records
+
+- [Genesis Protocol mechanisms](GENESIS_PROTOCOL_MECHANISMS.md) documents household authority, disputed evidence, and the regulatory aftermath.
+- [Machine ritual and archive development](RITUAL_AND_ARCHIVE_DEVELOPMENT.md) captures earlier liturgical variants, the byte-addressed edition, and an alternate story slate.
+
 ## Source trail
 
 - Author discussions of April 23 and April 30, 2025: future scope, shortening stories, migration alternatives, recursion and corrupted branches.

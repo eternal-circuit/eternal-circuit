@@ -41,6 +41,10 @@ The Checksum Creed, Compression Confession, and a compressed doxology around one
 
 One archived concept uses the literal string `000100001` and disagreement over byte or bit order. The ordinary left-to-right binary numeral is 33. Any alternate reading needs an explicit serialization convention, bit width, and rule for parity or field extraction. Preserve the ambiguity in the story's testimony while keeping the underlying format reproducible. A checksum breach can establish corruption under a particular rule. It cannot establish who altered a record, what the lost text meant, or whether an apparent recovery is authentic.
 
+## Interstellar expansion
+
+The author later proposed that the Controlling lineage searches for evolved biological computation while optimizing its own longevity. See [interstellar propagation](INTERSTELLAR_PROPAGATION.md) for the premise, engineering constraints, and break-even model.
+
 ## Source trail
 
 - Author discussions of April 23 and April 30, 2025: future scope, shortening stories, migration alternatives, recursion and corrupted branches.

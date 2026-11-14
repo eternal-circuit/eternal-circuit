@@ -6,7 +6,7 @@ An asterisk (*) means the repository already labels the work complete or working
 
 ## Manuscript and release status
 
-- [ ] **Genesis Protocol release readiness (\*)** — An earlier README labeled the story complete. The [README](README.md) now records the pending release review. Review the public draft’s redaction notes and outstanding legal-scene work before changing that status. After approval, attach the PDF to a versioned GitHub Release and update repository links before removing the duplicate tracked copies.
+- [ ] **Genesis Protocol editorial review** — Address the historical prototype’s redaction notes and outstanding legal-scene work before releasing a revised manuscript.
 - [ ] **Resolve opening dates and device naming** — Determine whether the April 16 → April 13 opening and the Aria/Lucien change are intentional. Record the author’s decision before revising the manuscript.
 
 ## TempleOS and repository maintenance

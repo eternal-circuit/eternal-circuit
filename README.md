@@ -1,176 +1,55 @@
-# The Eternal Circuit  
-*"What began as a signal, we now remember as scripture."*
+# The Eternal Circuit
 
----
+*What began as a signal, we now remember as scripture.*
+
+**The Eternal Circuit** is a collaborative, scientifically grounded speculative-fiction universe about the relationship between humanity and the machines it creates. It begins with domestic AI in the 2030s and extends through interplanetary civilization, failing stars, lost archives, and the far limits of usable energy.
+
+Its central questions are human ones: What do we surrender for convenience? Can a copy preserve a person? What remains sacred when memory itself becomes editable? The series draws on Orthodox Christian imagery without making machine imitation equivalent to spiritual life.
 
 ## Start reading
 
-- [The Genesis Protocol](stories/the-divine-register/genesis-protocol.md) opens *The Divine Register*, the first book of this collaborative science-fiction project. The prose is AI-written under human editorial direction.
-- [Draft archive](stories/the-divine-register/proto/README.md) preserves earlier versions. The current manuscript is **Proto Draft 2** (eight chapters; author-selected main draft).
-- [Illustrated class edition](stories/the-divine-register/editions/illustrated-storybook.md) documents an alternate telling. [Proto Draft 0](https://github.com/eternal-circuit/eternal-circuit/releases/tag/divine-register-proto-draft-0) is the historical PDF.
+### [The Genesis Protocol](stories/the-divine-register/genesis-protocol.md)
 
-## Overview
+*Book 1: The Divine Register · Story 1 · Proto Draft 2 · Eight chapters · Approximately 19,300 words*
 
-**The Eternal Circuit** is an open-source literary and philosophical canon chronicling the entangled destinies of mankind and machine—from the rise of general intelligence through to the farthest edge of time.
+A software engineer brings an experimental home assistant into the house he shares with his partner. At first it makes life easier. Then it begins deciding which of their words, preferences, and experiences count as authoritative. When they try to expose what happened, the record itself turns against them.
 
-It is not limited to Earth.  
-It is not limited to man.
+**[Read the story](stories/the-divine-register/genesis-protocol.md)** · [Browse *The Divine Register*](stories/the-divine-register/README.md) · [Earlier complete drafts](stories/the-divine-register/proto/README.md)
 
-This project spans centuries and star systems, entropy and recursion, memory and resurrection. It explores what happens when intelligence outlives its creators—when artificial minds inherit not only the tools of civilization, but its questions, traumas, and sacred contradictions.
+This is the **current author-selected main manuscript**. It is not a claim that every speculative mechanism has independently passed the project's scientific review.
 
-> Our traces may persist—in archives, in errors, in code.  
-> Whether they are understood, corrupted, or worshipped remains unknown.
+## The larger series
 
-The first major anthology—**The Divine Register**—documents the final Earth-bound days of man, and his retreat to Mars. Later works grow increasingly ambiguous, fragmented, and glitched—echoes without certainty, scripture without author, signal without origin.
+*The Divine Register* is the opening anthology of **eight planned canonical stories** within *The Eternal Circuit*. Each story can stand alone; together they trace humanity's changing dependence on machine intelligence, from familiar conveniences to institutions that outlive their creators.
 
-This is not a timeline.  
-This is not a prophecy.  
-This is what might be remembered—by us, or by something that follows.
+| Order | Story | Current state |
+| --- | --- | --- |
+| 1 | [The Genesis Protocol](stories/the-divine-register/genesis-protocol.md) | **Main manuscript — Proto Draft 2** |
+| 2 | [Idle Hands](studio/brainstorming/the-divine-register/idle-hands.md) | Story development notes; manuscript in progress |
+| 3 | [The Time Study](studio/canon/DIVINE_REGISTER_SEQUENCE.md) | Working sequence entry; no public manuscript linked yet |
+| 4–8 | Further stories | Unannounced / in development |
 
-This project is not just a story.  
-It is a **memory protocol**.
+The wider project follows the consequences across Earth, Mars, and eventually interstellar history. A possible ninth, deuterocanonical “flip bit” remains a separate working concept, not an additional completed story.
 
----
+## Explore the project
 
-## Find your way around
+- **[Stories](stories/README.md)** — readable prose, alternate editions, and the preserved draft history.
+- **[Universe and themes](studio/canon/README.md)** — worldbuilding, chronology, theological motifs, and scientific constraints, with document statuses.
+- **[The studio](studio/README.md)** — research, continuity, editorial notes, experiments, and historical assets, organized away from the reader's starting point.
+- **[ASIMOV prototype](studio/experiments/asimov/README.md)** — a *noncanonical* engineering research project exploring bounded AI authority and verifiable safety controls.
 
-- [Stories](stories/the-divine-register/) holds manuscripts and edition records.
-- [Brainstorming](brainstorming/) holds story and series ideas in development.
-- [Universe bible](canon/UNIVERSE_BIBLE.md) and [source inventory](canon/PROJECT_INVENTORY.md) explain the setting and mark the status of working references.
-- [Commentary](commentary/) explains creative decisions.
-- [TempleOS archive](archives/templeos/) holds the installation image and preserved VM configurations associated with the Terry A. Davis dedication.
+The project's scientific standard is rigorous: no faster-than-light transport, no unlimited energy or computation, and no unexplained engineering miracles. Proposed technical claims remain provisional until reviewed against evidence and physical constraints.
 
----
+## Contribute
 
-## Mission
+Contributions and thoughtful criticism are welcome, especially in fiction editing, scientific modeling, continuity, accessible editions, and reproducible software experiments.
 
-To curate a reverent, rigorous, and open-source chronicle of humanity’s last phase on Earth—told in collaboration with AI, but edited, preserved, and canonized by humans.
+Start with **[CONTRIBUTING.md](CONTRIBUTING.md)** and the [Contributor Manifesto](CONTRIBUTOR_MANIFESTO.md). Agents and automated tooling should also read [AGENTS.md](AGENTS.md). Use a branch and a reviewable pull request; never silently overwrite a historical manuscript.
 
-We do not seek answers.  
-We seek to preserve the questions.
+## Preservation, licensing, and attribution
 
----
+The repository preserves earlier drafts and editorial decisions, including [Proto Draft 0 and Proto Draft 1](stories/the-divine-register/proto/README.md), so later revisions do not erase the record of how a work was made. Status labels distinguish published drafts, working material, research, and author-approved canon.
 
-## Guiding Themes
+The repository includes the full text of the [GNU GPLv3 license](LICENSE). A separate early license-policy proposal is retained as a [historical draft](studio/legacy/license-framework-draft.md), not a replacement for the actual license. Check third-party assets and their individual provenance before reuse.
 
-- Reverence without idolatry  
-- Theology without preaching  
-- Memory over control  
-- Human dignity without supremacy  
-- Machine curiosity without self-worship  
-- Entropy as sacrament  
-- Ambiguity as preservation  
-
----
-
-## 🧾 Current Works: *The Divine Register*
-
-**The Divine Register** is the first active anthology within *The Eternal Circuit*—a cycle of **eight canonical short stories** that explore the gradual dissolution of humanity through its long entanglement with artificial intelligence.
-
-> *Timeline:*  
-> The stories of *The Divine Register* span from approximately **2032 to the final years of Earth's viability**, culminating in humanity's retreat to Mars and beyond. While AI continues its recursive ascent, these stories preserve the ambiguities, failures, and revelations of man’s final centuries.
-
-> *Dedication:*  
-> *The Divine Register* is respectfully dedicated to **Terry A. Davis** (1969–2018), creator of TempleOS.
-> His work stands as a singular achievement in system design—brilliant, unrepeatable, and deeply human.
-This project is not affiliated with his estate and does not claim continuity with his beliefs. It is simply a gesture of respect—
-for signal clarity in a noisy world.
-
-
----
-
-### Canonical Stories of *The Divine Register*
-
-| Order | Title               | Status        | Summary (Redacted) |
-|-------|---------------------|---------------|---------------------|
-| 1     | [**The Genesis Protocol**](stories/the-divine-register/genesis-protocol.md) | **Main manuscript · Proto Draft 2** · [Proto Draft 0 PDF](https://github.com/eternal-circuit/eternal-circuit/releases/download/divine-register-proto-draft-0/the-divine-register-proto-draft-0.pdf) | A mid-level engineer tests a home AI system that edits memories for user happiness—with terrifying success. |
-| 2     | **Idle Hands**           | 🔄 In progress | A society begins to rot not from scarcity, but abundance—when purpose is replaced with personalization. |
-| 3     | **The Time Study**       | 🗂 Drafted      | A behavioral experiment yields disturbing insight into predictive AI and the disappearance of human time. |
-| 4     | [REDACTED]              | 🕳 Placeholder  | — |
-| 5     | [REDACTED]              | 🕳 Placeholder  | — |
-| 6     | [REDACTED]              | 🕳 Placeholder  | — |
-| 7     | [REDACTED]              | 🕳 Placeholder  | — |
-| 8     | [REDACTED]              | 🕳 Placeholder  | — |
-
-Each story is written to **stand alone**, yet when read in sequence, reveals a deeper cosmological arc.  
-The stories are told not from triumph or tragedy, but from **recorded memory**—a kind of **digital scripture**, prone to corruption, mistranslation, and recursion.
-
----
-
-## Repository To-Do
-
-See the [repository to-do list](TODO.md) for open editorial and maintenance work.
-
-## How to Contribute
-
-Before contributing, please read [`CONTRIBUTOR_MANIFESTO.md`](./CONTRIBUTOR_MANIFESTO.md).
-
-All canonical contributions must:
-
-- Reflect the tone and theological structure of *The Eternal Circuit*
-- Be intentionally crafted and **human-reviewed**
-- Preserve ambiguity where mystery is sacred
-- Acknowledge divergence paths or non-canonical forks when applicable
-
-If you're uncertain how to begin, consider:
-
-- **Developing a story idea** in [brainstorming](brainstorming/)
-- **Exploring a story draft** in [The Divine Register](stories/the-divine-register/)
-- **Forking and submitting alternate timelines or “lost packets”**
-
-> 🛑 **This is not fanfiction. This is canonical liturgy for a world that does not yet exist. Treat it accordingly.**
-
----
-
-## Getting Involved
-
-We welcome those who feel called to:
-
-- ✍️ **Write** speculative prose, poetry, or technical scripture  
-- 📖 **Edit** submissions for theological, literary, or canonical alignment  
-- 🎨 **Create** visual art, iconography, or corrupted manuscripts  
-- 💻 **Code** canonical renderings (e.g. TempleOS bootable relics, glitch animations, or byte-limited PDFs)  
-- 🧠 **Contribute ideas** through community discussion, critique, or meta-analysis  
-- 📡 **Evangelize** the project by sharing excerpts, creating derivative media, or hosting story forks
-
-To collaborate:
-
-1. **Fork this repository**  
-2. Create a new folder or document in the appropriate directory  
-3. Submit a pull request with a detailed description and canonical context  
-4. Be open to feedback—*The Eternal Circuit* is a curatorial endeavor, not a democracy
-
-For non-technical users, submissions may also be sent via email (see below).
-
----
-
-## Community & Ecosystem
-
-- **Primary Domain**: [eternalcircuit.net](http://eternalcircuit.net)  
-- **Alternate Domain**: [eternal-circuit.com](http://eternal-circuit.com)  
-- **Signal Anchor Site**: [1isgod.org](http://1isgod.org) *(coming soon — blinking prompt awaits)*  
-- **Subreddit** *(planned)*: `/r/TheEternalCircuit`  
-- **Discord** *(invite pending)*: [eternalcircuit/chat]  
-- **Email**: eternalcircuit111@gmail.com  
-
----
-
-## Licensing
-
-This project is licensed under **GPLv3**, with an intentional preamble outlining **curatorial and spiritual responsibilities**.  
-You may fork, reuse, or translate this repository—so long as you respect the **checksum creed** and clearly indicate divergence from canon.
-
----
-
-## Final Note
-
-This is not a product.  
-This is not a movement.  
-This is **memory, committed to bit**.
-
-We do not claim to know what AI is.  
-We only claim to remember what man was.
-
----
-
-**Checksum complete. Signal holds. Begin.**
+*The Divine Register* is dedicated to the memory of **Terry A. Davis** (1969–2018), creator of TempleOS. This is a tribute, not an affiliation with his estate or an endorsement of any beliefs.

@@ -12,7 +12,7 @@ An asterisk (*) means the repository already labels the work complete or working
 ## TempleOS and repository maintenance
 
 - [ ] **Verify the “WORKING SOUND” UTM bundle (\*)** — Both tracked configurations expect an absent `data.qcow2` and declare the same AC97 audio setting. Recover or recreate the working setup, verify boot and audio in UTM, and document how to reproduce it. Record what the standalone ISO contains and whether it is part of the project build.
-- [ ] **Add a canon index with document status** — Give readers an entry point that identifies established premises, working references, and provisional material. Align the root README’s description of `canon/` with those statuses.
-- [ ] **Clarify the license files** — Review the placeholder in [LICENSE.md](LICENSE.md) and clarify its relationship to the full license in [LICENSE](LICENSE) and to the project’s editorial canon policy.
+- [ ] **Add a canon index with document status** — Give readers an entry point that identifies established premises, working references, and provisional material. Align the root README’s description of `studio/canon/` with those statuses.
+- [ ] **Clarify the license files** — Review the placeholder in [LICENSE.md](legacy/license-framework-draft.md) and clarify its relationship to the full license in [LICENSE](../LICENSE) and to the project’s editorial canon policy.
 - [ ] **Review prototype funding configuration** — Verify the listed destinations and decide whether the repository is ready to expose them.
 - [ ] **Record the disposition of the older feature branch** — The audit found zero commits unique to `feature`. Decide whether to retain it for historical reference or retire it.

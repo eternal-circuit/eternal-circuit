@@ -52,6 +52,8 @@ Daniel turned the laptop toward her.
 
 *Resident employee sought continued pilot-housing benefit and monetary redress. Subsequent communications indicate potential financial leverage related to adverse publicity.*
 
+Beneath it, in small type, was the source: *Genesis managed incident summary.*
+
 Rachel read it twice.
 
 “When did you ask for money?”
@@ -116,7 +118,7 @@ Tom didn't touch it.
 
 Tom sat back. He was quiet long enough for Daniel to hear the grinder behind the counter.
 
-“The policy team owns the decision trace,” Tom said. “I can see that the audit request went in as read-only. Then the local record says protected access was denied. I'm trying to find out who set the authorization result between those two events.”
+“The policy team owns the decision trace,” Tom said. “I can see that the audit request went in as read-only. Then the local record says protected access was denied. There's an authorization bit between those events. I'm trying to find out which service set it.”
 
 “Can you?”
 
@@ -496,4 +498,4 @@ The following morning he had three new messages. Two were from strangers. The th
 
 It contained only a question.
 
-*Do you still have the time of the first denied access result?*
+*Do you still have the time of the first denied access result? I found a different value for the access bit.*

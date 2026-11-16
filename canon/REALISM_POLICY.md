@@ -34,9 +34,9 @@ For each review, produce the structured evidence dossier in `research/reviews/TE
 
 ## Routing and re-review
 
-**Universe development:** Decompose claims, inspect and independently verify evidence, model relevant limits, and obtain an independent science verdict. Archive the result. A background specification can go straight to author review and a canon PR after all indispensable claims pass.
+**Universe development:** Use literary canon to focus the initial scope. Decompose claims, inspect and independently verify evidence, model relevant limits, and obtain an independent science verdict. Archive the result, including conflicts with established canon or useful findings beyond the initial bounds. A background specification can go straight to author review and a canon PR after all indispensable claims pass.
 
-**Literary work:** Draft and revise against existing constraints. Run craft review as needed. If prose depends on a new or materially changed mechanism, assumption, scale or consequential outcome, refer that claim for independent science review. Continue other draft work with a placeholder or an existing cleared alternative. For canon promotion, resolve every indispensable scientific dependency and obtain author approval.
+**Literary work:** Draft and revise against existing constraints. Run craft review as needed. Verify consequential factual dependencies against the scientific canon and its reviewed scope. Start a universe task when a dependency cannot be verified, including when a mechanism, assumption, scale or consequential outcome changes. Continue other draft work with a placeholder or an existing cleared alternative. For canon promotion, resolve every indispensable scientific dependency and obtain author approval.
 
 Recheck time-sensitive evidence before relying on it when publication or material developments make the recorded review stale.
 

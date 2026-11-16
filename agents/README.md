@@ -25,9 +25,9 @@ No agent self-certifies. No role silently rewrites a source manuscript. Reviews 
 
 ## Routing
 
-- **Universe development:** Use the full evidence and review workflow for substantive new setting claims. The canon keeper checks chronology, continuity and provenance alongside the research. The archivist preserves verdicts, dissent and rejected variants.
+- **Universe development:** Use the full evidence and review workflow for substantive new setting claims. The canon keeper uses established literary facts to focus the initial question and flags implications for continuity as evidence develops. The archivist preserves verdicts, dissent and rejected variants.
 - **Literary work:** The author and writer handle the draft. Bring in a story editor, reader or literary adversary for a specific craft question when useful. A canon keeper can check a focused continuity issue. See the [literary workflow](LITERARY_WORKFLOW.md).
-- **Crossing between workflows:** Hand off approved setting facts and pinned scientific verdicts to the writer. Return only new or materially changed factual dependencies to the science path.
+- **Crossing between workflows:** Hand off approved setting facts and pinned scientific verdicts to the writer. Verify consequential claims against those records. Start a universe task for any consequential dependency the literary check cannot verify. Return the result to the passage that raised it.
 - **Project operations:** Record editorial policy and naming decisions as such. Link any accompanying technical assertions to their research status.
 
 See the [runbook](RUNBOOK.md) and [claim template](../research/reviews/TEMPLATE.md).

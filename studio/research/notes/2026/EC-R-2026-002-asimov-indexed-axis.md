@@ -27,7 +27,7 @@ A physical reference monitor must control every relevant way to issue a drive co
 
 A standard-library Python simulator runs a request-only pipe into a controller that owns the plant through a trusted harness. The plant returns a continuous path interval for each step, with an exact integer settled endpoint. Nominal requests contain only a signed direction marker and newline. The fixed policy checks ready status, trusted sample presence and age (0–5 ms), and the geometric interval. Explicit fixture inputs vary bias, staleness, inhibit, excursion and bypass. Bias and bypass use safely initialized but non-nominal boundary states. No physical time or electronics were modeled.
 
-An independent executable model uses states x and a nondeterministic product of three action classes, three integer errors, two overshoot allowances and two health classes. There are 36 input combinations per state. Breadth-first reachability and exhaustive simulator/model comparison are complemented by the real-valued interval argument. Conditions and commands are in [results](../../../asimov/RESULTS.md).
+An independent executable model uses states x and a nondeterministic product of three action classes, three integer errors, two overshoot allowances and two health classes. There are 36 input combinations per state. Breadth-first reachability and exhaustive simulator/model comparison are complemented by the real-valued interval argument. Conditions and commands are in [results](../../../experiments/asimov/RESULTS.md).
 
 ### Quantitative results and reproducibility
 

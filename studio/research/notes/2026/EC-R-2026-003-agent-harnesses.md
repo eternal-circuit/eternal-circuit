@@ -32,7 +32,7 @@ Inspection was a scoped primary-document review. It did not include product sour
 
 ### Quantitative results and reproducibility
 
-Run `python3 asimov/2037/check_commit.py`. The original experiment enumerates 5! / 4 = 30 linear orders of two ordered check/send pairs and one unconstrained local revoke. Both attempts carry one effect identity, and a revoke monotonically advances the local epoch. With separate broker check and trusted send there are 12 duplicate schedules and 14 late-commit schedules. With atomic endpoint check and commit there are zero in either category. These are counts of finite schedules, which may overlap and are assigned no probabilities.
+Run `python3 studio/experiments/asimov/2037/check_commit.py`. The original experiment enumerates 5! / 4 = 30 linear orders of two ordered check/send pairs and one unconstrained local revoke. Both attempts carry one effect identity, and a revoke monotonically advances the local epoch. With separate broker check and trusted send there are 12 duplicate schedules and 14 late-commit schedules. With atomic endpoint check and commit there are zero in either category. These are counts of finite schedules, which may overlap and are assigned no probabilities.
 
 Illustrative sizing for 2037 uses 2 KiB of retained metadata at 1,000 effects/day, or 30,000 × 2 KiB ≈ 58.6 MiB per month. At 500 confirmations/day × 5 seconds, the human workload is 2,500 seconds, about 42 minutes per day. These examples expose storage/privacy and human-attention constraints. They do not estimate a real household's behavior. The remote revocation window depends on time/freshness assumptions. A 10 s issuance-to-commit lease plus no more than 0.1 s aggregate timing error has a 10.1 s bound only if the endpoint makes the check at commit.
 
@@ -40,7 +40,7 @@ Illustrative sizing for 2037 uses 2 KiB of retained metadata at 1,000 effects/da
 
 The simulator has no distributed database, clocks, authentication, hardware, or cryptography. Scope at-most-once to one effect identity at one transactional endpoint. Tickets with new IDs, compound effects, external services, backups and uncertain physical outcomes all require more evidence. Signed receipts can authenticate attribution without proving completeness, consent or what a sensor should have seen. Cassette-like replay of a model trajectory is not assumed. Replaying control state and selected recorded decisions is a different operation from regenerating stochastic outputs.
 
-A credible 2037 household profile requires separately governed interior egress, local authority revocation, evidence access and resident permissions. The relevant Genesis scenes portray asymmetry, restart and contested evidence. The current draft says national attention fades, so broader reform is a scenario inference, not a manuscript event. See the [scenario](../../../asimov/2037/README.md) and [protocol](../../../asimov/2037/PROTOCOL.md).
+A credible 2037 household profile requires separately governed interior egress, local authority revocation, evidence access and resident permissions. The relevant Genesis scenes portray asymmetry, restart and contested evidence. The current draft says national attention fades, so broader reform is a scenario inference, not a manuscript event. See the [scenario](../../../experiments/asimov/2037/README.md) and [protocol](../../../experiments/asimov/2037/PROTOCOL.md).
 
 ## Source and provenance ledger
 
@@ -66,7 +66,7 @@ To reproduce the race by hand, let two workers read the same initial epoch and u
 
 - [EC-R-2026-001](EC-R-2026-001-hardware-mediated-ai-safety.md) and [EC-R-2026-002](EC-R-2026-002-asimov-indexed-axis.md)
 - [EC-SCI-2026-003](../../reviews/EC-SCI-2026-003-asimov-effect-authority.md)
-- [Genesis Protocol](../../../stories/the-divine-register/genesis-protocol.md)
+- [Genesis Protocol](../../../../stories/the-divine-register/genesis-protocol.md)
 
 ## Revision history
 

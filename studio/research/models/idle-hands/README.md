@@ -18,7 +18,7 @@ The fleet, number of sites and times are story assumptions. Confirm them from lo
 
 ## Reproduce
 
-From the repository root, run `python3 research/models/idle-hands/queue_model.py`. Python standard library only. The script checks reference results with assertions and enumerates all 256 subsets of converted family tickets. These are combinatorial scenarios without assigned probabilities.
+From the repository root, run `python3 studio/research/models/idle-hands/queue_model.py`. Python standard library only. The script checks reference results with assertions and enumerates all 256 subsets of converted family tickets. These are combinatorial scenarios without assigned probabilities.
 
 | Trace | Policy | Staffing | Worst start wait | Operator-min |
 | --- | --- | --- | ---: | ---: |

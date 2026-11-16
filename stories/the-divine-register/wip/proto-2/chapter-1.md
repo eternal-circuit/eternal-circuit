@@ -115,7 +115,7 @@ Daniel laughed. Bob had been a subject of conversation since before they moved. 
 
 “Properly, yes.”
 
-She looked at the mugs. At the carton on the floor. At the moving blankets still folded against the dining-room wall. There were things she wanted finished before her shift at the clinic the following morning.
+She looked at the mugs. At the carton on the floor. At the moving blankets still folded against the dining-room wall. There were things she wanted finished before her shift at the clinic the following afternoon.
 
 “All right,” she said. “Guest.”
 

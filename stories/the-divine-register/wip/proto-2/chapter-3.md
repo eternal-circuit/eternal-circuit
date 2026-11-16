@@ -122,7 +122,7 @@ The veterinarian found no microchip. The kitten was underweight but otherwise in
 
 The shelter had their contact details, and there was no reported owner. Rachel would complete whatever notice period was required, but she knew what she intended to do afterward.
 
-Daniel's reply to her photograph arrived while she was at the clinic.
+She sent Daniel a photograph of the kitten in the carrier on her way to the clinic.
 
 *No chip. No owner on record. Seems like a stray.*
 
@@ -298,7 +298,7 @@ Daniel selected the entry. The details showed an automatic summary of their conv
 
 *Resident consulted feeding guidance. Twice-daily reminder schedule accepted.*
 
-“She didn't accept it,” Daniel said to the assistant. “Delete that preference.”
+“Rachel didn't accept it,” Daniel said to the assistant. “Delete that preference.”
 
 “Changes to household preference records require authorization.”
 

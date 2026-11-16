@@ -41,7 +41,7 @@ She looked at the transparent film caught around his wrist. “Promising.”
 
 Outside, traffic moved along I-280, below the house and some distance away. From the patio, it was possible to watch the cars pass without hearing more than a low, continuous sound. On clear days the Stanford Dish stood above the opposite hills. Daniel had pointed it out three times during the viewing, as though it were one of the things they would own.
 
-Rachel liked the house. She liked its old oak near the driveway and the way the kitchen window looked out over the slope. It cost more than either of them had intended to spend. She was still learning which cupboards stuck and which steps creaked. She would have liked one week in it before Daniel began improving it.
+Rachel liked the house. She liked its old oak near the driveway and the way the kitchen window looked out over the slope. Cerebral subsidized the rent under the alpha trial. Rachel had made a point of reading the lease herself; Daniel preferred to talk about the view. She was still learning which cupboards stuck and which steps creaked. She would have liked one week in it before he began improving it.
 
 He worked mostly in Java now, though he still said *embedded systems* when people asked what he did. At Iowa he'd liked making a thing on a bench do something in the world. His job at Cerebral was on the integration side: accounts, household devices, the services that passed instructions among them. Other teams wrote the models. Other teams decided what they were allowed to do.
 

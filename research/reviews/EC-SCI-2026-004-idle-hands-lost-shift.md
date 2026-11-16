@@ -38,7 +38,11 @@ The literary referral uses C1 and C3a only. C2 informs credibility and does not 
 
 ## Literary gate and author decision
 
-Literary review recorded with the scene proposal. Canon status **PROPOSED**. Author approval pending for any manuscript development or promotion.
+**READY_FOR_AUTHOR.** The separate Literary Adversary initially returned **REVISE** on `0be8637318c5c0c8ee9d114a90599cc0c01013dd`. The first draft moved too quickly from recognition to the roster and had the apprentice repeat evidence already in the ticket. In the [revised scene proposal](../../brainstorming/the-divine-register/proposals/idle-hands-the-lost-shift.md), he takes satisfaction in the useful diagnosis before opening the roster, then chooses to flag the existing unloaded comparison for the local technician and asks for an export of the posted hours. The reviewer cleared `89d9a7c418f323e31ab81c7ab2db001d55af4b89` with the scientific premises intact.
+
+The Canon Keeper compared the proposal with the confirmed story-two placement, the existing workplace outline and the intended chronology. The early supervised repair and dock worker's acknowledgment remain the anchors. Diagnosis, local repair and lost roster hours are separate events. The exact year, workplace, disclosure and ultimate staffing decision remain author choices. The Archivist independently reproduced the 12 matrix rows and 256-subset sweep and checked the evidence pins.
+
+Canon status **PROPOSED**. Author approval pending. The existing outline and other manuscripts were left intact.
 
 ## Durable local research references
 

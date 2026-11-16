@@ -39,3 +39,10 @@ Strongest contradicting evidence, missing measurements, what result would dispro
 - Commentary / rejected alternatives link:
 
 **No promotion unless science PASS, literary review completed, explicit author approval, and reviewable PR.**
+
+## Durable local research references (required)
+| Local note ID and path | Pinned commit / version | Verification status | Finding used in this verdict |
+| --- | --- | --- | --- |
+| | | | |
+
+A link-only source ledger is not sufficient for scientific PASS. Deposit self-contained findings in `research/notes/` and register them in `research/index.md` first.

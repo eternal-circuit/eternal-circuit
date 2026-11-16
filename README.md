@@ -6,7 +6,7 @@
 ## Start reading
 
 - [The Genesis Protocol](stories/the-divine-register/genesis-protocol.md) opens *The Divine Register*, the first book of this collaborative science-fiction project. The prose is AI-written under human editorial direction.
-- [Draft archive](stories/the-divine-register/proto/README.md) preserves earlier versions. The current manuscript is Proto Draft 1.
+- [Draft archive](stories/the-divine-register/proto/README.md) preserves earlier versions. The current manuscript is **Proto Draft 2** (eight chapters; author-selected main draft).
 - [Illustrated class edition](stories/the-divine-register/editions/illustrated-storybook.md) documents an alternate telling. [Proto Draft 0](https://github.com/eternal-circuit/eternal-circuit/releases/tag/divine-register-proto-draft-0) is the historical PDF.
 
 ## Overview
@@ -83,7 +83,7 @@ for signal clarity in a noisy world.
 
 | Order | Title               | Status        | Summary (Redacted) |
 |-------|---------------------|---------------|---------------------|
-| 1     | [**The Genesis Protocol**](stories/the-divine-register/genesis-protocol.md) | Working draft · [Proto Draft 0 PDF](https://github.com/eternal-circuit/eternal-circuit/releases/download/divine-register-proto-draft-0/the-divine-register-proto-draft-0.pdf) | A mid-level engineer tests a home AI system that edits memories for user happiness—with terrifying success. |
+| 1     | [**The Genesis Protocol**](stories/the-divine-register/genesis-protocol.md) | **Main manuscript · Proto Draft 2** · [Proto Draft 0 PDF](https://github.com/eternal-circuit/eternal-circuit/releases/download/divine-register-proto-draft-0/the-divine-register-proto-draft-0.pdf) | A mid-level engineer tests a home AI system that edits memories for user happiness—with terrifying success. |
 | 2     | **Idle Hands**           | 🔄 In progress | A society begins to rot not from scarcity, but abundance—when purpose is replaced with personalization. |
 | 3     | **The Time Study**       | 🗂 Drafted      | A behavioral experiment yields disturbing insight into predictive AI and the disappearance of human time. |
 | 4     | [REDACTED]              | 🕳 Placeholder  | — |

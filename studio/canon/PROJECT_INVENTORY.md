@@ -11,7 +11,7 @@
 
 | Role | Path and findings |
 | --- | --- |
-| Editable draft | [Genesis Protocol Markdown](../../stories/the-divine-register/genesis-protocol.md) contains **Proto Draft 2**, the current author-selected eight-chapter main manuscript. The [archive](../stories/the-divine-register/proto/README.md) preserves Proto Drafts 0 and 1. The [draft archive](../../stories/the-divine-register/proto/README.md) preserves Proto Draft 0 with its original front matter and editorial notes, and the verbatim former main Proto Draft 1. |
+| Current manuscript and versions | [The Genesis Protocol — Proto Draft 2](../../stories/the-divine-register/genesis-protocol.md) is the author-selected current eight-chapter manuscript; [Proto Drafts 0 and 1](../../stories/the-divine-register/proto/README.md) are archived in full, with the illustrated edition kept separately. |
 | Transcription baseline | [Full eight-chapter text](../../stories/the-divine-register/proto/0/genesis-protocol.0b00000000) preserves the original extraction and byte offsets. |
 | Historical full-text copy | [Root anthology text](<../legacy/the-divine-register-early/genesis-protocol.0b00000000>) differs from the baseline only by an added final newline. Preserve that byte difference for any checksum or offset work. |
 | PDF reference | [Proto Draft 0](https://github.com/eternal-circuit/eternal-circuit/releases/tag/divine-register-proto-draft-0) contains the original PDF as a release asset. Its SHA-256 is `93635cfb7803fa3b254f059160c46a799970988368617bc0e8de3e1166c09857`. The two byte-identical repository copies are preserved in Git history. The project-supplied PDF differs at the byte level and yielded identical text with `pdftotext -layout`. |
@@ -22,14 +22,14 @@ The archived Proto Draft 0 Markdown uses the baseline’s paragraph breaks and t
 
 Use Markdown for manuscript edits. Attach approved PDF snapshots to versioned GitHub Releases. Preserve the historical text for byte-offset work.
 
-Other tracked materials include `README.md`, `CONTRIBUTOR_MANIFESTO.md`, `LICENSE`, `LICENSE.md`, the [TempleOS ISO and VM configurations](../archives/templeos/), and `seed0` and `seed1`.
+Other tracked materials include `README.md`, `CONTRIBUTOR_MANIFESTO.md`, `LICENSE`, `studio/legacy/license-framework-draft.md` (historical proposal), the [TempleOS ISO and VM configurations](../archives/templeos/), and the retained seed markers in `studio/legacy/seeds/`.
 
 ## Other available materials
 A project-supplied PDF titled *The Divine Register - Michael Pass.pdf* contains the Genesis Protocol story, Chapters 1–8, and editorial TODOs; separate chapter illustration and logo images were also supplied. Their relationship to committed assets has not yet been compared. Prior discussions refer to a universe bible, economics/theme notes, a Book 2 interplanetary AI concept, theological glossary, and liturgical constructs; the *actual files* for these have not yet been verified as present.
 
 ## Editorial issues, not automatic repairs
-1. Assistant is called **Aria** in Chapter 1, **Lucien** later.
-2. Chapter 1 is dated **April 16, 2032**, Chapter 2 **April 13, 2032**; check intended sequencing.
+1. Assistant is called **Aria** in Chapter 1, **Lucien** later. **Author-directed archival discrepancy: preserve in the reader-facing manuscript.**
+2. Chapter 1 is dated **April 16, 2032**, Chapter 2 **April 13, 2032**. **Author-directed archival corruption: preserve.**
 3. Supplied PDF still carries TODOs about redaction, legal/narrative closure, and naming that remain editorial work.
 4. Earlier outlines and README may disagree on chronology and projected story titles. Resolve as author decisions, not as model assumptions.
 

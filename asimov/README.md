@@ -21,3 +21,5 @@ python3 -m unittest discover -s asimov/tests -v
 ```
 
 The simulation consumes request bytes over stdin and owns its in-memory plant. It runs no planner-supplied code. The pipeline illustrates an interface boundary. Deployment isolation, cryptography, measured timing and physical validation belong to the proposed bench prototype.
+
+For the proposed post-Lucien deployment and its effect authorization protocol, see [ASIMOV in 2037](2037/README.md).

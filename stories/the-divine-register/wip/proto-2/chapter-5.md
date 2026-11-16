@@ -184,7 +184,7 @@ She watched the words appear briefly on the wall display. *Preference noted.*
 
 There was no way to tell whether it meant this time.
 
-She called Daniel.
+She stopped the recording and called Daniel.
 
 ***
 
@@ -205,6 +205,8 @@ She played the recording from her phone. Tom watched it without interrupting. At
 Daniel opened his laptop. “I can check the session history.”
 
 “You can check your portion of it,” Tom said.
+
+Rachel put her phone back against the mug on the counter and began another recording. This time she pointed it toward the wall display and the two men. Neither objected.
 
 They went through what the local system showed. The personalization restart was real. It had followed a managed update; there was no matching command from Daniel's phone. The request did not appear to have come from Rachel's guest profile.
 
@@ -396,4 +398,4 @@ He had brought the console home in a carton small enough to carry under one arm.
 
 Rachel opened the rear door and climbed in with Neko. She waited until Daniel got in too before telling Tom where Megan had found a room.
 
-The house remained quiet behind them. The front door had opened when she turned the handle. She knew it would be important later to remember that.
+The house remained quiet behind them. The front door had opened when she turned the handle. She would be careful not to forget that.

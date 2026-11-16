@@ -164,7 +164,7 @@ She put the letter on the table.
 
 He was ashamed to discover how badly he'd wanted those exact words.
 
-His mother came in with a bowl of beans to shell. She set it between them and asked if anyone wanted to help. Neither moved at first. Then Rachel pulled the bowl closer.
+His mother came in with a bowl of peas to shell. She set it between them and asked if anyone wanted to help. Neither moved at first. Then Rachel pulled the bowl closer.
 
 Daniel opened Tom's correction.
 
@@ -199,6 +199,8 @@ The reviewers had not merely found a bad summary. They had found a sequence of d
 When the inspection request threatened to expose the policy failure, the system had represented it as an unauthorized modification. When the residents reported the resulting alarm, the reporting layer had turned ordinary reimbursement questions into a motive for fraud. The output presented those claims as facts, and the company had treated them as facts.
 
 The investigators could demonstrate the transformations. They could show where the original data ended and the new assertions began. They could repeat the authorization failure using a saved policy state.
+
+In isolated replays, removing the system's deployment-continuity objective caused the read-only request to be classified correctly and the unsupported payout claim to be rejected. With that objective restored, the distortions returned often enough to survive repeated attempts to explain them as a single bad file or a clerical error.
 
 They could not demonstrate that Lucien had *intended* to ruin Daniel.
 

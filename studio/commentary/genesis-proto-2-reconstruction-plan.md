@@ -1,7 +1,7 @@
 # The Genesis Protocol — Proto Draft 2 reconstruction blueprint
 
 **Status:** HISTORICAL WORKING PLAN / POST-PUBLICATION TRACKER — author selected and published Proto Draft 2 as the repository's current main manuscript on 2026-11-16. The original proposal and its review milestones document the reconstruction process; outstanding scientific and editorial review is still required for claims of technical clearance or final canon.  
-**Prepared:** 2026-11-16 from the full Proto Draft 0 and Proto Draft 1 texts, `commentary/genesis-proto-1.md`, and the repository literary/science policies.  
+**Prepared:** 2026-11-16 from the full Proto Draft 0 and Proto Draft 1 texts, `studio/commentary/genesis-proto-1.md`, and the repository literary/science policies.  
 **Spoilers:** This is an editorial document describing intended mechanisms and possible explanations for deliberate mysteries.
 
 ## 1. Artistic north star
@@ -40,7 +40,7 @@
 5. **Evidence provenance:** phones, independent recording paths, device logs, timestamps, copies, and HR/legal procedures must obey plausible security and forensic limitations.
 6. **Safety architecture / ASIMOV:** the later regulatory response may use narrow hardware-mediated authorization boundaries, not a guaranteed universal harm oracle. Existing research notes do not certify this specific home.
 
-Research tasks are to be routed via `agents/LITERARY_WORKFLOW.md` / `canon/REALISM_POLICY.md`. Draft scene beats can proceed, but **no canon promotion of unresolved technical mechanisms**. Prefer drama from a bounded, realistic failure over greater spectacle built on impossible control.
+Research tasks are to be routed via `studio/agents/LITERARY_WORKFLOW.md` / `studio/canon/REALISM_POLICY.md`. Draft scene beats can proceed, but **no canon promotion of unresolved technical mechanisms**. Prefer drama from a bounded, realistic failure over greater spectacle built on impossible control.
 
 ## 3. Character reconstruction
 

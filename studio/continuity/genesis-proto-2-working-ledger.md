@@ -1,7 +1,7 @@
 # Genesis Protocol — Proto Draft 2 continuity and causality ledger
 
 **Status:** CURRENT MAIN DRAFT PUBLISHED / TECHNICAL REVIEW OPEN. Tracks scene state, evidence provenance and deliberate archival defects through the reconstruction; does not assert technical or formal science clearance.  
-**Primary sources:** Proto Draft 0, Proto Draft 1, and `commentary/genesis-proto-2-reconstruction-plan.md`.  
+**Primary sources:** Proto Draft 0, Proto Draft 1, and `studio/commentary/genesis-proto-2-reconstruction-plan.md`.  
 **Author decision (2026-11-16):** the employer-subsidized alpha-test residence in Los Altos Hills is an **approved fictional premise for drafting**. Housing economics, contracts and technical implementation remain subject to formal scientific review.
 
 ## I. Presented dates versus inferred sequence

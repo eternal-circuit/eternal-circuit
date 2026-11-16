@@ -16,4 +16,4 @@ Claim ID; proposition; assumptions; citations; calculations and units; uncertain
 
 **Hard rule:** No scientific PASS if an indispensable mechanism relies on magic, unbounded resources, unsupported quantum claims, unexplained FTL, impossibly precise prediction, effectively omniscient AI, or statistical miracles treated as normal outcomes. This is not a blacklist of words: evaluate the actual causal and quantitative claim.
 
-Science PASS permits literary review, not automatic canon. A BLOCK cannot be overridden even by the author; re-review only on new evidence, improved model or diagnosed error.
+Science PASS can support background canon review or a literary handoff within the documented scope. Canon requires explicit author approval. A BLOCK cannot be overridden even by the author; re-review only on new evidence, improved model or diagnosed error.

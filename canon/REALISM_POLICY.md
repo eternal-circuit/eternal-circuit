@@ -1,14 +1,12 @@
 # Scientific realism policy — binding editorial constitution
 
-Status: **author-directed policy proposed for adoption in PR**. Scope: The Eternal Circuit universe, all books and editions. Does not retroactively certify existing manuscripts.
+Scope includes the Eternal Circuit universe, all books and editions. Existing manuscripts retain their recorded editorial and review status.
 
-## Non-negotiable hierarchy
+## Authority and scope
 
-1. **Scientific / computational / mathematical / statistical realism (primary adversarial gate): absolute veto.** No author, orchestrator, editor, other agent, or majority vote can override a BLOCK verdict. A blocked idea can be revised, set aside as noncanonical counterfactual, or revisited when new evidence arrives; it cannot be canonized.
-2. **Literary adversarial review (secondary gate):** assesses dramatic integrity, character, language, thematic honesty and reader trust. May reject a draft for revision or recommend alternatives, but cannot authorize a scientific exception.
-3. **Author:** retains final creative and canon approval **only within the set of scientifically cleared proposals**. Neither agents nor automation may approve canon on the author's behalf.
-
-A scientific veto is *procedurally absolute*, not a claim that science is infallible: evidence can be reassessed by a new independently documented review. Reversals require new evidence or an identified reasoning error, not preference.
+1. **Scientific, computational, mathematical, statistical and economic realism has absolute veto over factual claims proposed for canon.** Apply the scientific workflow to new or materially changed setting premises, including technology, timeline feasibility, demographics and economic mechanisms. A blocked proposal can remain noncanonical research or be reconsidered on new evidence or a diagnosed error.
+2. **Literary judgment governs the story.** The [literary workflow](../agents/LITERARY_WORKFLOW.md) evaluates dramatic integrity, character, language, thematic honesty and reader trust. A cleared factual premise can be carried into multiple drafts within its reviewed scope.
+3. **The author** decides what to use and explicitly approves canon. The scientific veto continues to apply to each material premise.
 
 ## Standard of evidence
 
@@ -27,18 +25,20 @@ For consequential plot mechanisms, require an auditable causal chain, plausible 
 
 ## Verdicts and transitions
 
-- **PASS:** evidenced, internally consistent, plausible given documented assumptions and date/setting. Eligible for literary gate; **not automatically canon**.
+- **PASS:** evidenced, internally consistent, plausible given documented assumptions and date/setting. Eligible for author consideration as background or for use within its reviewed scope in literary drafting.
 - **CONDITIONAL PASS:** defined evidence/assumption or manuscript constraints required; cannot merge into canon until every condition is independently verified and upgraded to PASS.
 - **BLOCK:** contradiction, unsupported indispensable mechanism, quantitatively implausible premise, or inadequate evidentiary basis after reasonable inquiry. No canonical advancement.
 - **UNRESOLVED:** evidence genuinely insufficient or studies conflict. Research further; no canonical advancement.
 
 For each review, produce the structured evidence dossier in `research/reviews/TEMPLATE.md`. Include falsifiers, uncertainty, dissent, citations, verification date, and exact passage or claim. A human/agent cannot silently relabel BLOCK/UNRESOLVED as PASS.
 
-## Gate ordering
+## Routing and re-review
 
-Intake → claim decomposition → frontier research + independent source verification → quantitative model / assumptions → **science adversary verdict** → literary adversary verdict → author's decision → branch/PR → canon update only after checks and explicit author approval.
+**Universe development:** Decompose claims, inspect and independently verify evidence, model relevant limits, and obtain an independent science verdict. Archive the result. A background specification can go straight to author review and a canon PR after all indispensable claims pass.
 
-The science gate must be run again when a literary rewrite changes a scientific mechanism, assumption, scale, or outcome. Evidence ages: recheck fast-moving claims before publication and after material scientific developments.
+**Literary work:** Draft and revise against existing constraints. Run craft review as needed. If prose depends on a new or materially changed mechanism, assumption, scale or consequential outcome, refer that claim for independent science review. Continue other draft work with a placeholder or an existing cleared alternative. For canon promotion, resolve every indispensable scientific dependency and obtain author approval.
+
+Recheck time-sensitive evidence before relying on it when publication or material developments make the recorded review stale.
 
 ## Existing canon and regressions
 
@@ -46,4 +46,4 @@ This policy governs **new promotions and revisions**; prior text remains histori
 
 ## Failure behavior
 
-Fail closed. Missing source, absent quantitative model for pivotal claim, inaccessible frontier material, or unavailable reviewer means UNRESOLVED—not PASS. Record disagreement; do not invent consensus. The orchestrator must not permit downstream canon approval if the science verdict is anything other than PASS.
+Fail closed. Missing source, absent quantitative model for pivotal claim, inaccessible frontier material, or unavailable reviewer leaves the affected claim UNRESOLVED. Record disagreement; do not invent consensus. The orchestrator must not permit downstream canon approval if the science verdict is anything other than PASS.

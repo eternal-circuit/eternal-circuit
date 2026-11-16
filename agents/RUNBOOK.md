@@ -1,45 +1,27 @@
 # Orchestrator runbook
 
-## Input
-Receive a bounded question, target story/file, publication classification, desired deliverable and whether the author is requesting **research**, **proposal**, **draft**, or **canon promotion**. Never infer authorization to publish private/unreleased material from access to a conversation.
+Read [AGENTS.md](../AGENTS.md), the [project inventory](../canon/PROJECT_INVENTORY.md), the relevant canon, source notes and manuscript passages. Record the requested deliverable and publication classification. Choose the route by the decision the work needs to support.
 
-## Phase A — ingest
-Read root `AGENTS.md`, `README.md`, `canon/PROJECT_INVENTORY.md`, `canon/WORKFLOW.md`, `canon/REALISM_POLICY.md`, applicable manuscripts and source notes. Extract the *minimum testable scientific claims* on which the narrative depends. Assign claim IDs and identify relevant era and environment.
+## Universe and scientific canon
 
-## Phase B — research, in parallel where feasible
-1. **Frontier scout:** track current publications, GitHub repositories, technical talks, labs, engineering demonstrations, and relevant X posts. Output leads with dates, firsthand attribution and links.
-2. **Evidence verifier:** locate original papers, methods, datasets, code, demonstrations, corrections and reproduction; distinguish announcement vs measured result.
-3. **Quantitative modeler:** produce dimensional analysis, credible ranges, prior/base rates, uncertainty bounds, limiting bottlenecks and alternative scenarios.
-4. **Canon keeper:** in parallel check timeline and existing story implications; findings do not substitute for physics clearance.
+Use this route for substantial setting work such as dates and dependencies, technological capability, deployment and interoperability, labor and other economic outcomes, and demographic or physical limits. An ASIMOV specification and the dates at which its components become viable belong here.
 
-## Phase C — primary gate
-Give independent science adversary the claim, source packet and model, with instructions to **try to falsify it**, quantify failure modes, test hidden assumptions and check selection bias. It must explicitly choose PASS / CONDITIONAL PASS / BLOCK / UNRESOLVED with justification. A reviewer may request more research. All but PASS halt the canon pipeline. No appeals based on author enthusiasm, elegance or theme.
+1. **Scope.** Name the question, era, domain, claims and falsifiers. Separate physical feasibility, implementation, adoption and downstream effects. Identify which claims matter to canon.
+2. **Research.** Run the Frontier Scout, Evidence Verifier, Quantitative Modeler, and Canon Keeper in parallel where feasible. Use original sources, report what was measured, and quantify relevant budgets and sensitivity. Record the assumptions behind each timeline or economic inference.
+3. **Deposit.** Save a self-contained research note under `research/notes/YYYY/` using the [template](../research/TEMPLATE.md). Register it in the [index](../research/index.md). Have a verifier check it and pin the revision in the [claim dossier](../research/reviews/TEMPLATE.md).
+4. **Falsify.** Give the evidence and model to an independent Scientific Adversary. Record PASS, CONDITIONAL PASS, BLOCK or UNRESOLVED per claim, with reasons, scope, dissent and triggers for re-review. Missing review leaves the claim unresolved.
+5. **Decide and archive.** For background canon, a science PASS on every indispensable claim goes to the author with a reviewable diff. The archivist records sources, verdicts, decisions and rejected variants. A research PR can preserve unresolved findings as research. Canon promotion requires explicit author approval.
+6. **Hand off to fiction when useful.** Give the writer a short brief with approved facts, applicable era and domain, observable consequences, open decisions and links to pinned evidence.
 
-## Phase D — secondary gate
-Only after PASS: literary adversary challenges causality, stakes, narrative necessity, exposition, character agency and whether implausible coincidence masquerades as science. It may request changes or flag story issues. If revisions affect physical premises return to Phase B/C.
+## Literary work
 
-## Phase E — human approval
-Prepare decision memo: evidence dossier, two adversarial reviews, known limitations, alternate options, proposed diff, and clear question for the author. Only explicit author approval moves a proposal to canon.
+Use the [literary workflow](LITERARY_WORKFLOW.md) for prose, outlines and scene revision. Default to an author-led drafting loop. Bring in a separate craft reader for a specific question when warranted. Cite existing constraints where they apply. Refer only new or materially changed factual dependencies to the science route.
 
-## Phase F — commit
-Use a named Git branch and reviewable PR. Never directly change default branch. Keep original prose intact until diff approval. Add commentary explaining pivotal choices, and keep obsolete or blocked variants as **noncanonical research notes**, never quietly merge them as fictional truth.
+**Example.** Model whether a warehouse can reduce staffing through the universe workflow. Once the setting conditions are documented, draft how the apprentice learns the news in the literary workflow. If the draft turns a reversible staffing trial into permanent fleet-wide cuts, refer that changed economic claim.
 
-## Stop conditions
-STOP if sources unavailable, probability claim unjustified, science verdict not PASS, no author approval, privacy uncertain, branch/check status unknown, or unexpected contradiction. Report the blocker and a tractable next experiment/research task.
+## Shared completion rules
 
-## Suggested machine-readable review summary
-```yaml
-claim_id: EC-SCI-0001
-target: "stories/..."
-reviewed_commit: "<sha>"
-science_verdict: UNRESOLVED
-literary_verdict: NOT_STARTED
-author_approval: PENDING
-canon_status: PROPOSED
-source_reviewed_at: YYYY-MM-DD
-evidence_dossier: research/reviews/...
-```
-Do not imply this YAML is an automated enforcement system. Real branch protection / CI remains a separate future implementation.
-
-## Mandatory durable research deposit
-Between Phases B and C, the scout/verifier/modeler must propose self-contained research notes under `research/notes/YYYY/`, using `research/TEMPLATE.md`, and update `research/index.md` in the same branch/PR. A verifier independently checks the note. The science adversary references the local note ID and commit/revision as well as primary sources. Link-only dossiers do not qualify. See `research/README.md`.
+- Use a named branch and reviewable PR, with the proposed changes shown as a diff.
+- Distinguish research publication, an editorial draft and canon promotion. Record author approval for promotion.
+- Preserve existing prose unless the author has requested an edit. Resolve uncertainty about publication rights before uploading private material.
+- Report blockers at the level of the affected claim or deliverable and record what would resolve them.

@@ -22,7 +22,7 @@ The Divine Register opens the sequence. Its unit of experience is still a person
 
 ### Institutions and lineages
 
-- **United States:** The ASIMOV Stack is a public compliance regime. Specify how certification, audits, liability, and appeals acquire jurisdiction. A domestic incident can be an early catalyst. The draft chronology and policy chain still need reconciliation.
+- **United States:** The ASIMOV Stack is a public compliance regime. **ASIMOV** stands for **Autonomous Systems Integration, Mediation, and Operational Verification**. The name honors Isaac Asimov. Its requirements concern the authority autonomous systems have to act, how covered actions are mediated, and what evidence an operator or auditor can verify. The Three Laws belong to the namesake’s fiction. Specify how certification, audits, liability, and appeals acquire jurisdiction. A domestic incident can be an early catalyst. The draft chronology and policy chain still need reconciliation.
 - **China:** The sovereign closed-source protocol uses embedded loyalty models in the working outline. Specify the institution that controls training, updates, audit exceptions, and deployment.
 - **European Union:** Ethical regulation and fragmented deployment create uneven capacity in the working outline. Give individual jurisdictions and institutions distinct interests.
 - **India, Russia, and African jurisdictions:** Earlier notes point to partial autonomy, local faith syntheses, and deployments outside major protocol blocs. Resolve those ideas at the level of particular actors, regions, and infrastructures.

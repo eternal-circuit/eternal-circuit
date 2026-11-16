@@ -1,5 +1,7 @@
 # ASIMOV reference prototype
 
+The fictional [ASIMOV Stack](../canon/UNIVERSE_BIBLE.md#institutions-and-lineages) takes its name from Isaac Asimov. Its in-world expansion is **Autonomous Systems Integration, Mediation, and Operational Verification**.
+
 Noncanonical engineering research for one guarded horizontal indexing stage. The hypothesis is that an independent authorization controller can enforce a precisely specified motion restriction at a completely mediated interface, given bounded sensing and plant behavior.
 
 | Document | Contents |

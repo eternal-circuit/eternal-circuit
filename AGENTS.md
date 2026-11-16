@@ -1,16 +1,14 @@
 # Eternal Circuit — instructions for Codex and other repository agents
 
-## Binding two-gate editorial constitution (read before any creative task)
+## Editorial workflow and scientific veto
 
-**Required:** [Scientific realism policy](canon/REALISM_POLICY.md), [agent roles](agents/README.md), [orchestrator runbook](agents/RUNBOOK.md), and [frontier research standards](research/FRONTIER_SOURCES.md).
+**Required:** [Scientific realism policy](canon/REALISM_POLICY.md), [agent roles](agents/README.md), and [workflow routing](agents/RUNBOOK.md).
 
-- **Primary gate:** Scientific, computational, mathematical, and statistical realism has **absolute veto power**, including over ideas proposed by the author. Only an evidenced **PASS** on all indispensable mechanisms may advance; CONDITIONAL PASS, BLOCK, UNRESOLVED and missing review halt canon promotion. No human or agent may bypass this by fiat.
-- **Secondary gate:** Independent literary adversarial review follows science PASS. A revision changing a scientific mechanism reopens the science gate.
-- Author is the final creative authority **among scientifically cleared alternatives**, and must explicitly approve promotion to canon.
-- Frontier scouts may use X for early signals, but social posts, marketing demos and unreplicated claims are not evidence of feasibility or probability. See [research source policy](research/FRONTIER_SOURCES.md).
-- Create claim dossiers using [review template](research/reviews/TEMPLATE.md); ensure assumptions, source quality, units, quantitative likelihood, falsifiers, dates and disagreements are auditable.
-- **Fail closed:** no proof of review means no clearance; preserve historical manuscripts as-is pending an evidence-backed editorial revision.
-- These are agent instructions and review contracts, not an automatically deployed multi-agent service or CI branch protection.
+- **Universe and scientific canon:** Use the multi-agent workflow for consequential setting claims, including chronology, economics, demography, engineering, and technical specifications such as ASIMOV. Science retains absolute veto. An independently documented **PASS** clears only the claim and assumptions reviewed. Canon requires explicit author approval.
+- **Literary work:** Use the [literary workflow](agents/LITERARY_WORKFLOW.md) for outlines, scenes, prose and revision. Carry forward existing cleared constraints. Default to a writer and author review. Use a separate craft review when requested or useful for a major structural decision.
+- **When a draft changes the world:** Route only the new or materially changed factual premise through scientific review. Mark unresolved dependencies in draft and keep them out of canon until cleared. Routine changes to voice, dialogue, pacing and point of view can proceed within established constraints.
+- For new scientific claims, use the [frontier source policy](research/FRONTIER_SOURCES.md) and [claim dossier](research/reviews/TEMPLATE.md). Record evidence, assumptions, falsifiers and uncertainty. Preserve historical manuscripts.
+- These are operating instructions for agents. Separate reviewer contexts require explicit invocation.
 
 This repository is the long-lived, version-controlled collaboration space for **The Eternal Circuit**, an original speculative fiction universe. **The Divine Register is Book 1**, not the whole project.
 

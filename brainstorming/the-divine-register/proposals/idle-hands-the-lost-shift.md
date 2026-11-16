@@ -4,10 +4,10 @@
 
 ## Proposed late scene
 
-1. At the remote desk, the apprentice sees a familiar conveyor trip. The incident replay aligns a brief guarded load test with a frame of the bracket moving against its reference and the photoeye's signal dropping. The order of the checks is his. He waits for the controls to come up.
-2. The diagnostic entry already has its evidence attached. The core dispatcher checks it and opens an on-site repair order. The screen reads **Remote diagnosis complete**. The conveyor stays under site control. When the apprentice asks where the sequence came from, the fleet lead brings up the release record and points out his recorded sessions among the examples.
-3. The new roster is open beside the ticket. His usual four-hour overlap is missing from the next ordinary shift. The lead tells him they tried the slimmer roster in shadow and are trying it live for that block. Core dispatch and the site's technicians remain. The lead can call on funded overflow or reinstate the overlap. There is still work on his current shift.
-4. The apprentice could close the replay and leave the handoff as it stands. Instead he adds one thing he learned on his first repair: the bracket moves most under the loaded crate, so the local tech needs the loaded frame alongside the stopped inspection image. He sends the useful detail even though it makes the next person's job easier too. Before opening his next ticket, he asks whether he can have a copy of the hours actually posted.
+1. At the remote desk, the apprentice sees a familiar conveyor trip. By habit his hand moves toward the controller. The incident replay aligns a brief guarded load test with a frame of the bracket moving against its reference and the photoeye's signal dropping. He runs the clip back and checks the order. It is the sequence he used.
+2. The core dispatcher checks the attached evidence and opens an on-site repair order. The screen reads **Remote diagnosis complete**. The conveyor stays under site control. The fleet lead shows him the release record and points to his recorded sessions among the examples. He watches the check once more. There is a small satisfaction in seeing the evidence reach the right crew.
+3. Only then does he open the new roster. His usual four-hour block is absent. The lead says, “We’re trying Tuesday without the overlap.” At the drafting level, this is the first live block after shadow scheduling. Core dispatch and the site's technicians are on the rota, and Tuesday still lists paid overflow coverage under the trial.
+4. He could close the replay now. Instead he bookmarks the unloaded comparison in the existing clip for the local tech. The bracket holds still there and moves under load. He sends the comparison with the handoff so the technician can interpret the dip. Then he asks for an export of his posted hours. He has a use for the actual number when he gets home.
 
 ## Boundaries for drafting
 

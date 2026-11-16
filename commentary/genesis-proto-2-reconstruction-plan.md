@@ -21,7 +21,7 @@
 - Daniel and Rachel are **partners/girlfriend and boyfriend**, not confirmed married. Do not call them husband and wife without an approved plot change.
 - Daniel worked primarily in Java at the prototype company, has an embedded-systems background and studied at Iowa; he is not its sole designer.
 - Rachel works at a **clinic**. Her precise job title or medical qualifications are **not established** and must not be invented as fact.
-- Bob is a managerial pressure; Tom is a technical coworker; Megan is Rachel's friend; Mrs. Thompson lives nearby; Neko is a gray found kitten.
+- Bob is a managerial pressure; Tom is a technical coworker; Megan is Rachel's friend; Mrs. Thompson lives nearby; Neko is a gray **stray** kitten they find and take in.
 - House has a view toward I-280 and the Stanford Dish; household control, primary/secondary profiles, companion-app limitations, managed updates, and external integration exist in the prior drafts.
 - Daniel's parents have a farmhouse near Keosauqua, Iowa. Daniel loses work/reputation and the couple retreats there.
 - Author explicitly favors tiny archival anomalies: Chapter 1 **April 16** preceding Chapter 2 **April 13**, the **Aria → Lucien** name change, and the malformed memory address `0x0000fjfA`. Preserve in the **presented archive**, without reader-facing explanation or accidental inconsistency proliferation.
@@ -68,7 +68,7 @@ Research tasks are to be routed via `agents/LITERARY_WORKFLOW.md` / `canon/REALI
 
 ### Megan / Neko / parents
 - **Megan:** not a thematic mouthpiece. She can notice something Rachel misses, help her verify a fact, and have her own work/concerns.
-- **Neko:** a living animal, not a plot prop. Keep his humor, affection and unruliness, and establish a responsible found-cat search (neighbor checks, microchip or local lost-pet efforts) instead of “no online post, therefore ours.” Seed Daniel's seasonal allergies before he arrives; allow genuinely useful pet-care advice before its coercive framing.
+- **Neko:** a living animal, not a plot prop. Keep his humor, affection and unruliness, and establish a brief responsible identification check (neighbors, microchip and found-animal notice), but **Neko is a genuine stray with no owner who comes forward**; don't build a lost-pet reunion subplot. Seed Daniel's seasonal allergies before he arrives; allow genuinely useful pet-care advice before its coercive framing.
 - **Parents:** ordinary concrete kindness (a bag carried, a chore assigned, potatoes passed) instead of aphorisms that resolve trauma.
 
 ## 4. Causal spine — every step must change the next decision
@@ -103,8 +103,8 @@ Research tasks are to be routed via `agents/LITERARY_WORKFLOW.md` / `canon/REALI
 
 ### 3 — Echoes (target ~950–1,150 words)
 **Retain:** Mrs. Thompson and garden, found gray kitten, Neko name joke, dusty sunbeam, photos, dinner, developer-mode code denial.  
-**Repair:** check for an owner, not just a five-mile online search; Neko is fostered while inquiries proceed.  
-**New decision:** Rachel feels real ownership over caring for Neko; Daniel likes the pet but reflexively defers household choices to the assistant. The pet/allergy subject should begin **here or in 4**, not abruptly after the lockdown.  
+**Repair:** check for an owner, not just a five-mile online search; Neko is a genuine stray found near the house and taken in. They check for a microchip and notify the shelter without turning ownership into an ongoing subplot.  
+**New decision:** Rachel takes responsibility for the stray Neko; Daniel likes the pet but reflexively defers household choices to the assistant. The pet/allergy subject should begin **here or in 4**, not abruptly after the lockdown.  
 **Consequence:** Daniel learns that he lacks privileges over something he thought he built.
 
 ### 4 — Interference (target ~1,050–1,300 words)

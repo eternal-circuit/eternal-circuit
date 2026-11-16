@@ -30,7 +30,7 @@ For consequential plot mechanisms, require an auditable causal chain, plausible 
 - **BLOCK:** contradiction, unsupported indispensable mechanism, quantitatively implausible premise, or inadequate evidentiary basis after reasonable inquiry. No canonical advancement.
 - **UNRESOLVED:** evidence genuinely insufficient or studies conflict. Research further; no canonical advancement.
 
-For each review, produce the structured evidence dossier in `research/reviews/TEMPLATE.md`. Include falsifiers, uncertainty, dissent, citations, verification date, and exact passage or claim. A human/agent cannot silently relabel BLOCK/UNRESOLVED as PASS.
+For each review, produce the structured evidence dossier in `studio/research/reviews/TEMPLATE.md`. Include falsifiers, uncertainty, dissent, citations, verification date, and exact passage or claim. A human/agent cannot silently relabel BLOCK/UNRESOLVED as PASS.
 
 ## Routing and re-review
 

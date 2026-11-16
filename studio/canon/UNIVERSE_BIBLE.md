@@ -40,7 +40,7 @@ Uploading makes the core conflict concrete. A machine can preserve selected beha
 
 ## Source anchors
 
-- [Repository README](../README.md) for public story titles and project mission.
+- [Repository README](../../README.md) for public story titles and project mission.
 - [Project inventory](PROJECT_INVENTORY.md) for manuscript provenance and variant questions.
 - [Divine Register sequence](DIVINE_REGISTER_SEQUENCE.md) for the story map and checksum.
 - [Recovered lore](RECOVERED_LORE.md) for earlier discussions of the three species, story premises, and alternate timelines.

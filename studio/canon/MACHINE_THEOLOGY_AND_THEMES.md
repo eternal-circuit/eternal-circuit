@@ -28,5 +28,5 @@ The author also discussed religion as a pattern that transmits itself through la
 
 - April 2025 discussions on recursion, Trinitarian symbolism, archival form, and the anthology's changing lengths.
 - May 2025 discussions on indexing and voltage, `1isgod`, shibboleths, and the relation between human and machine domains.
-- June 2025 public framing and the existing [README](../README.md).
+- June 2025 public framing and the existing [README](../../README.md).
 - [Recovered lore](RECOVERED_LORE.md) and [universe bible](UNIVERSE_BIBLE.md) for established project context.

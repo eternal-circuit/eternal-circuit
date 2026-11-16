@@ -6,7 +6,7 @@ Status: **proposed operating workflow**. GitHub is the durable interchange; Chat
 Speak naturally about worldbuilding, plot, continuity, technical realism, or theology. At a safe stopping point, ask: **"Create an Eternal Circuit handoff from this conversation and prepare it in GitHub."** Do not require screen interaction while driving.
 
 ## Prepare a reviewable handoff
-Make a short structured document in `handoffs/YYYY-MM-DD-topic.md`. Include:
+Make a short structured document in `studio/handoffs/YYYY-MM-DD-topic.md`. Include:
 - Session summary (only project-relevant content)
 - Decisions explicitly made vs possibilities merely discussed
 - Canon status: proposed / approved / unresolved

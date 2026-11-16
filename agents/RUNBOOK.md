@@ -40,3 +40,6 @@ source_reviewed_at: YYYY-MM-DD
 evidence_dossier: research/reviews/...
 ```
 Do not imply this YAML is an automated enforcement system. Real branch protection / CI remains a separate future implementation.
+
+## Mandatory durable research deposit
+Between Phases B and C, the scout/verifier/modeler must propose self-contained research notes under `research/notes/YYYY/`, using `research/TEMPLATE.md`, and update `research/index.md` in the same branch/PR. A verifier independently checks the note. The science adversary references the local note ID and commit/revision as well as primary sources. Link-only dossiers do not qualify. See `research/README.md`.

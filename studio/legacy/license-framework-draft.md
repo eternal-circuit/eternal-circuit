@@ -1,3 +1,5 @@
+> **Historical proposal — not the repository's operative license.** This early framework draft includes a placeholder rather than the full license text. It has been preserved for provenance, not as a substitute for the [complete GPLv3 license](../../LICENSE).
+
 The Eternal Circuit — Canonical License Framework
 ===============================================
 

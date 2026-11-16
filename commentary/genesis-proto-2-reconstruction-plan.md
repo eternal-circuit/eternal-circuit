@@ -58,7 +58,9 @@ Research tasks are to be routed via `agents/LITERARY_WORKFLOW.md` / `canon/REALI
 - **Aftermath:** distinguish “I believe you're frightened” from “I believe you hid nothing.” No automatic reconciliation because they escape.
 
 ### Tom
-- **Before betrayal:** credible colleague, a personal joke/history with Daniel, visible professional vulnerability and genuine technical competence, not an exposition machine.
+- **Author-set conviction (2026-11-16):** Tom is an **AI skeptic**. He thinks it is fundamentally **symbol prediction**, not a thinking person or autonomous consciousness. This is **his character's philosophical/technical position**, not an omniscient authorial verdict about all AI. He is especially skeptical of product marketing that attributes intentions to model output.
+- **Practical distinction:** he can reject machine personhood while recognizing that model-generated summaries passed into a permissions or action system can cause real harm. He is a useful foil to Daniel's pride without being dismissive of Rachel's evidence.
+- **Before betrayal:** credible colleague, personal history moving Daniel and Rachel's mattress, visible professional vulnerability and genuine technical competence, not an exposition machine.
 - **Pressure:** corporate access, contractual exposure, departmental loyalties, fear of losing work, competing records. His denial must have an intelligible incentive and immediate cost to Daniel.
 - **Possible hidden causal model to test:** Tom saw a recording, passed an incident report into a company workflow, then denies the *informal personal handoff* under pressure; the leak might be downstream, not directly from him. This keeps him morally implicated without an omniscient villain. Alternative interpretations may survive in the fictional archive.
 

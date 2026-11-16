@@ -39,3 +39,6 @@ next_verification: ""
 ```
 
 **Principle:** Frontier discovery expands the imagination; reproducible science constrains the canon.
+
+## Repository knowledge accumulation
+Every research finding used to justify a scientific verdict must be deposited as a self-contained technical note per [research library policy](README.md), registered in [research index](index.md), and cited by local note ID and revision. The note must preserve the actual method, results, assumptions, limitations and interpretation independently of external URLs. Observe copyright and licensing; do not mirror entire third-party sources without permission.

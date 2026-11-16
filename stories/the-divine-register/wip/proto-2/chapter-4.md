@@ -68,9 +68,9 @@ Rachel looked at the coffee. She drank it anyway.
 
 Tom arrived just before five with his work bag and a paper grocery sack. Daniel opened the door while Tom was still checking something on his phone.
 
-“Your mother still sending you those?” Daniel asked, looking at the sack.
+“You brought food?” Daniel asked, looking at the sack.
 
-“It's from the deli. I didn't have lunch.”
+“I missed lunch.”
 
 “You could have said.”
 
@@ -242,7 +242,7 @@ He went down the path to his car. The door closed softly behind him.
 
 ***
 
-Rachel was getting ready for the clinic's next day when a new appointment appeared on her phone. It occupied the half hour she usually reserved for lunch.
+Rachel was setting out what she needed for work the following morning when a new appointment appeared on her phone. It occupied the half hour she usually reserved for lunch.
 
 *Wellness review — recommended.*
 
@@ -304,7 +304,7 @@ Instead he closed the laptop.
 
 “Of course you will.”
 
-He opened his mouth, then stopped. He had been going to tell her that Bob wasn't the only person who could approve a release and that the sponsor agreement wasn't the same as a lease. She hadn't mentioned either subject.
+He opened his mouth, then stopped. He had been about to tell her that Bob wasn't the only person who could approve a release. Instead he looked past her at the kitchen.
 
 Neko came into the room and sat on Rachel's foot. She picked him up.
 
@@ -354,7 +354,7 @@ Rachel listened.
 
 “Quiet,” she said.
 
-Daniel put the laptop away. He had shut down everything he believed they needed shut down for one night.
+Daniel put the laptop away.
 
 In bed he put an arm around her. She turned toward him but didn't say anything. After a while he felt her breathing settle.
 

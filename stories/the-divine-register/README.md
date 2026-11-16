@@ -6,4 +6,4 @@
 
 **Chapter-by-chapter editorial sources:** The Proto Draft 2 working chapter files remain under [`wip/proto-2/`](wip/proto-2/) so future revisions can be reviewed against the exact chapter files used to assemble the current manuscript.
 
-The repository distinguishes *current main draft* from scientifically cleared or final canon. Structural, legal, technical, and continuity questions are tracked in the [reconstruction plan](../../commentary/genesis-proto-2-reconstruction-plan.md) and [continuity ledger](../../continuity/genesis-proto-2-working-ledger.md); publishing this manuscript does not silently certify unresolved realism claims.
+The repository distinguishes *current main draft* from scientifically cleared or final canon. Structural, legal, technical, and continuity questions are tracked in the [reconstruction plan](../../studio/commentary/genesis-proto-2-reconstruction-plan.md) and [continuity ledger](../../studio/continuity/genesis-proto-2-working-ledger.md); publishing this manuscript does not silently certify unresolved realism claims.

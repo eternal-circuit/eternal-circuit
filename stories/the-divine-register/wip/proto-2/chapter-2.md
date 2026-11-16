@@ -272,7 +272,7 @@ Rachel pushed her plate away. The food was good, and she'd been hungry when she 
 
 Daniel added a screenshot and submitted the ticket. He showed her the confirmation number.
 
-She wrote it on the paper calendar, beneath the plumber's appointment.
+She wrote it on the back of the plumber's repair slip, beneath the part number.
 
 “That's not necessary,” Daniel said. “It'll stay in the system.”
 
@@ -288,4 +288,4 @@ The faucet worked. He let it run long enough to rinse the containers, then turne
 
 Rachel wanted to tell him she was grateful for the leak detector. She also wanted him to understand why gratitude wasn't the same as permission. She couldn't find a way to say both without beginning their conversation again.
 
-So she put the confirmation number in the kitchen drawer with the tape measure and the two forks they hadn't found a proper place for yet.
+So she folded the repair slip around the ticket number and put it in the kitchen drawer beside the tape measure. The two forks were still there.

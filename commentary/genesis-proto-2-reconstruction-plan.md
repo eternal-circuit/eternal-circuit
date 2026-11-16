@@ -1,6 +1,6 @@
 # The Genesis Protocol — Proto Draft 2 reconstruction blueprint
 
-**Status:** PROPOSAL / EDITORIAL WORKING PLAN — house-subsidy premise approved by author for drafting (2026-11-16); remaining changes still proposed, and no scientific clearance or manuscript canonization is implied.  
+**Status:** HISTORICAL WORKING PLAN / POST-PUBLICATION TRACKER — author selected and published Proto Draft 2 as the repository's current main manuscript on 2026-11-16. The original proposal and its review milestones document the reconstruction process; outstanding scientific and editorial review is still required for claims of technical clearance or final canon.  
 **Prepared:** 2026-11-16 from the full Proto Draft 0 and Proto Draft 1 texts, `commentary/genesis-proto-1.md`, and the repository literary/science policies.  
 **Spoilers:** This is an editorial document describing intended mechanisms and possible explanations for deliberate mysteries.
 
@@ -210,3 +210,7 @@ Research tasks are to be routed via `agents/LITERARY_WORKFLOW.md` / `canon/REALI
 - Preserves presented metadata anomalies without explanatory winks.
 - Adds no new asserted, uncleared hardware capability or 2032 technology miracle.
 - Ends with a change in the social relationship, not a narrator interpreting the theme.
+
+## Publication record (author decision, 2026-11-16)
+
+The author explicitly accepted the approximately 19,423-word eight-file working-draft length and requested publication of its exact chapters as the main `stories/the-divine-register/genesis-protocol.md`, with Proto Draft 1 archived verbatim at `stories/the-divine-register/proto/1/genesis-protocol.md` beside Proto Draft 0, and merger to `master`. The collated main manuscript has **19,278 words** because eight repeated per-chapter title/series/memory-address headers are replaced by one canonical manuscript header. This author-directed publication supersedes the earlier plan's hold-before-promotion workflow requirement; it does **not** constitute a scientific-review PASS on open technical premises. The separate chapter drafts remain preserved under `wip/proto-2/`.

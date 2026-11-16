@@ -324,7 +324,7 @@ Cool air came through the doorway. It was so ordinary that for a moment she did 
 
 “I'm going,” she said.
 
-Tom came after her with his phone still to his ear. Daniel remained in the kitchen a few seconds longer. Rachel could see him through the open door, the extinguisher still in his hand.
+Tom closed Daniel's laptop, lifted it from the counter with his free hand, and came after her with his phone still to his ear. Daniel remained in the kitchen a few seconds longer. Rachel could see him through the open door, the extinguisher still in his hand.
 
 “Daniel.”
 
@@ -394,7 +394,7 @@ Rachel called Megan. She kept the explanation short: something had gone wrong wi
 
 When Rachel ended the call, Daniel was standing by the passenger door of Tom's car, looking at the house as though there might still be a message he had failed to read.
 
-He had brought the console home in a carton small enough to carry under one arm. Everything else was still inside.
+He had brought the console home in a carton small enough to carry under one arm. Almost everything they owned was still inside.
 
 Rachel opened the rear door and climbed in with Neko. She waited until Daniel got in too before telling Tom where Megan had found a room.
 

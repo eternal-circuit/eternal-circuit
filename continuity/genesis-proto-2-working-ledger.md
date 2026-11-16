@@ -1,6 +1,6 @@
 # Genesis Protocol — Proto Draft 2 continuity and causality ledger
 
-**Status:** WORKING / NOT CANON. Tracks scene state and deliberate archival defects through the reconstruction.  
+**Status:** CURRENT MAIN DRAFT PUBLISHED / TECHNICAL REVIEW OPEN. Tracks scene state, evidence provenance and deliberate archival defects through the reconstruction; does not assert technical or formal science clearance.  
 **Primary sources:** Proto Draft 0, Proto Draft 1, and `commentary/genesis-proto-2-reconstruction-plan.md`.  
 **Author decision (2026-11-16):** the employer-subsidized alpha-test residence in Los Altos Hills is an **approved fictional premise for drafting**. Housing economics, contracts and technical implementation remain subject to formal scientific review.
 
@@ -170,3 +170,7 @@
 - **Unresolved archival intent:** Chapter 1 displays April 16 despite occurring before April 13, and Aria becomes Lucien without explanation; retain as intentional fictional archive drift. Whether any Chapter 8 "internal" technical account itself is fully reliable remains an optional future adversarial literary question; do not quietly alter essential mechanics.
 - **Required whole-manuscript next step:** 8 chapters now drafted as separate WIP files. Before promoting to Proto Draft 2, perform a full sweep for scene/POV continuity, realistic legal/economic timeline, cat/phone/evidence custody, causal transitions across Chapters 5–8, repeated language/too-clever dialog, inconsistencies in tech topology, and formal scientific veto status. Keep Proto Draft 1 root manuscript unchanged until full review, author approval and a properly staged archival promotion.
 - **Author status:** finale working draft for review; not certified scientifically or approved as canon.
+
+## XIII. Publication status (2026-11-16)
+
+Author selected and published **Proto Draft 2** to the main `stories/the-divine-register/genesis-protocol.md` story path, collated from all eight WIP chapters. Readback confirmed the archived `proto/1/genesis-protocol.md` is exactly the prior root Proto Draft 1, and the root replacement is the exact assembled eight chapters plus a single shared manuscript header. Published length: 19,278 words, excluding repeated per-file headers (sum of WIP standalone files ~19,423 words). Proto 0 is untouched; Proto 1 is preserved; eight WIP chapter files remain intact. This status records author acceptance for publication, **not** scientific PASS; complete-manuscript science and literary reviews remain prospective.

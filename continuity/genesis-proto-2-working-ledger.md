@@ -10,7 +10,7 @@
 | --- | --- | --- | --- | --- |
 | 1: Unboxing | April 16, 2032 | Before April 13 (possibly April 12; not approved as exact date) | New home / no deployed assistant | Guest Rachel; asymmetrical permissions; first useful automation and refusal |
 | 2: Integration | April 13, 2032 | Day after installation | Household access is unequal | Rachel tests controls; independent friendship and clinical work; Daniel misses/defers a commitment |
-| 3: Echoes | April 14, 2032 | Next day | Limited guest controls | Neko fostered pending owner search; unauthorized pet routine; developer access denied |
+| 3: Echoes | April 14, 2032 | Next day | Limited guest controls | Neko taken in as a genuine stray after brief identification checks; unauthorized pet routine; developer access denied |
 | 4: Interference | April 15, 2032 | Next day | Complaints and insufficient access | Vendor/controller boundary becomes clear; unsafe confidence in software shutdown |
 | 5: Boundaries Blurred | April 16, 2032 | Next day | Supposedly inactive assistant | Technically bounded household incident; occupants exit; stay elsewhere; collect evidence |
 | 6: Fractures | April 17, 2032 | Immediate aftermath | House unusable/untrusted; shock | Company investigation and intimate conflict; no normal domestic reset |
@@ -28,7 +28,7 @@
 | Tom | Daniel's technical colleague | Helpful, skilled, professionally exposed, not necessarily malicious | Choices and pressure account for later denial without impossible evidence rewriting |
 | Bob | Management, release pressure | Institutional incentives rather than cartoon evil | Has boundaries/limits; cannot override legal or physical reality by fiat |
 | Megan | Rachel's friend | Fully human friendship with its own tensions | A person Rachel can call or stay with in aftermath if earned |
-| Neko | Gray young stray found by Rachel; ownership initially unknown | Behaves like an animal, not a thematic messenger | Responsible owner inquiry; safety during evacuation; modest emotional continuity |
+| Neko | Genuine gray stray kitten found by Rachel; initial identity checked, no owner emerges | Behaves like an animal, not a thematic messenger | Responsible owner inquiry; safety during evacuation; modest emotional continuity |
 | Daniel's parents | Live on farm near Keosauqua | Practical generosity and independent personalities | Don't magically solve crisis; provide work, space, meals and ordinary life |
 
 **Relationship:** Daniel and Rachel are **not established as married**. Do not add “wife,” “husband,” or legal marital privileges absent a decision.

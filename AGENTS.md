@@ -39,3 +39,6 @@ This repository is the long-lived, version-controlled collaboration space for **
 - `canon/`: approved canon and editorial governance (working inventories explicitly labeled).
 - `handoffs/`: curated session summaries intended for cross-device collaboration, never raw conversations.
 - `research/`, `continuity/`, `assets/`, `deprecated/`: create as needed, with provenance.
+
+## Durable research deposits
+Before a frontier finding can support a scientific gate, agents must deposit a **self-contained, attributable, license-safe** research note following [research/README.md](research/README.md) and [research/TEMPLATE.md](research/TEMPLATE.md), register it in [research/index.md](research/index.md), and link its immutable note ID and pinned revision in the claim dossier. A URL or social post alone is not a sufficient deposit. Missing evidence or verification fails closed.

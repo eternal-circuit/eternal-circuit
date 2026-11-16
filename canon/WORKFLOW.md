@@ -11,7 +11,7 @@ Make a short structured document in `handoffs/YYYY-MM-DD-topic.md`. Include:
 - Decisions explicitly made vs possibilities merely discussed
 - Canon status: proposed / approved / unresolved
 - Sources or links, uncertainties, and technical claims needing verification
-- Proposed repository edits and the next Codex task
+- Proposed repository edits, the next Codex task, and its route in the [agent runbook](../agents/RUNBOOK.md)
 - Publication classification: public-safe / private / needs review
 
 Use a branch and PR for changes to a public repo. Do not commit raw personal audio/transcripts. Ask for review before making public any content that might be private or unpublished.

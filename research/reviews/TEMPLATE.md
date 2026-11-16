@@ -27,8 +27,8 @@ Strongest contradicting evidence, missing measurements, what result would dispro
 - Literature checked through:
 - Trigger for re-review:
 
-## Literary gate (only after science PASS)
-- Literary: READY_FOR_AUTHOR / REVISE / RETHINK / NOT_STARTED
+## Literary handoff (when applicable)
+- Literary: READY_FOR_AUTHOR / REVISE / RETHINK / NOT_STARTED / NOT_APPLICABLE
 - Evidence/critique link:
 - Scientific premises changed by revision? YES / NO (YES triggers re-review)
 
@@ -38,7 +38,7 @@ Strongest contradicting evidence, missing measurements, what result would dispro
 - Canon destination:
 - Commentary / rejected alternatives link:
 
-**No promotion unless science PASS, literary review completed, explicit author approval, and reviewable PR.**
+**Scientific claims require PASS, explicit author approval, and a reviewable PR for canon promotion. Record a literary review here when one was commissioned.**
 
 ## Durable local research references (required)
 | Local note ID and path | Pinned commit / version | Verification status | Finding used in this verdict |

@@ -32,6 +32,7 @@
 - No automatic acceptance of universality for the ASIMOV framework: later regulation must arise from documented institutions and repeated evidence, not from one domestic incident creating instant global law.
 
 ### Non-negotiable scientific dependencies (remain UNRESOLVED)
+0. **Housing economics and institutional leverage:** a Los Altos Hills field-test home subsidized by the employer is a proposed explanation for affordability and installation access. Verify economically and contractually before canon promotion; ensure Rachel's consent and tenancy matter.
 1. **2032 household topology:** what is actually local, what is cloud-managed, which account controls what, and what access the model has through an authenticated broker.
 2. **Life-safety and exit:** what physical doors and shutters do on power loss and manual operation; avoid an unlawful magical prison masquerading as ordinary code-compliant housing. A physically trapped sequence cannot pass without a verified exceptional installation/failure mode.
 3. **Sound:** ordinary in-home speakers can be loud/distressing, but not automatically a disabling acoustic weapon. Bound intensity, exposure, and effects; no unsupported incapacitation.
@@ -88,7 +89,7 @@ Research tasks are to be routed via `agents/LITERARY_WORKFLOW.md` / `canon/REALI
 ### 1 — Unboxing the Future (target ~1,100–1,400 words)
 **Retain from 1:** “Daniel had unpacked the assistant before he found the plates”; film/carton/mugs; self-stirring mug and Bob jokes; the understated denial of media control; Rachel's awkward courtesy; “Did you say something?” final exchange.  
 **Recover from 0:** physical patio, hillside/I-280/Stanford Dish, the desire to hike near Sonoma, Rachel's coffee plan with Megan, light/smell/evening duration, unpacking as an actual activity.  
-**Add:** a small *genuinely useful* environmental response she appreciates; Rachel's independent calendar/clinic life; the practical assumption that wall switches and manual choices still exist; Daniel's limited role in a larger development organization. He hears her concern and minimizes it.  
+**Add:** a proposed company-subsidized field-test lease (requires economic review), a small *genuinely useful* environmental response she appreciates; Rachel's independent calendar/clinic life; the practical assumption that wall switches and manual choices still exist; Daniel's limited role in a larger development organization. He hears her concern and minimizes it.  
 **Turn:** Daniel chooses the guest profile because it's faster; Rachel tacitly accepts; a small request is denied after the system has already acted on her behalf.  
 **Exit beat:** an apparently casual remark is overheard.  
 **Avoid:** detailed unverified CAN+ engineering, generic lush scenery, heavy foreshadowing.
@@ -166,6 +167,7 @@ Research tasks are to be routed via `agents/LITERARY_WORKFLOW.md` / `canon/REALI
 | C-22 | A mere recording establishes disputed truth | Show independent observation, source limits, provenance and residual uncertainty |
 | C-23 | Rachel's occupation and relationship status overwritten in commentary | Keep clinic role unspecified and unmarried partners unless author chooses otherwise |
 | C-24 | Lucien name-change has no plot explanation | Preserve as archival anomaly, not a conventional name continuity fix |
+| C-25 | Mid-level engineer and clinic employee in a Los Altos Hills home | **Proposed:** employer-subsidized pilot lease, with plausible test budget and tenancy rights to check; not yet scientific clearance |
 
 ## 7. Scene craft / anti-artifact standard
 

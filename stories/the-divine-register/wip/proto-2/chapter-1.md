@@ -59,7 +59,7 @@ Rachel examined the empty counter behind it. “Does she unpack?”
 
 “I remember washing it.”
 
-He smiled. He liked her jokes about the gadgets, partly because they were funny and partly because they let him defend something he enjoyed defending.
+He smiled and found another edge of plastic to peel.
 
 The house already had connected lights, heating, locks, and exterior shades. A contractor had been there the previous afternoon. Daniel had followed him from room to room, asking questions until the man began answering without looking up. Now a thin cable ran from the device to a connection behind the counter.
 
@@ -147,7 +147,7 @@ By late afternoon the counter was usable. Rachel washed the plates while Daniel 
 
 “That part is nice.”
 
-He accepted the distinction. She wished he would accept it as readily in other matters.
+He nodded, still looking at the light.
 
 On the patio the air smelled faintly of warm wood and eucalyptus. Rachel had brought out two mugs of tea. She showed Daniel photographs of a trail Megan wanted them to try near Sonoma. There was a footbridge and a long descent toward a creek; the pictures were mostly trees and one photograph Megan had taken of her own boots.
 

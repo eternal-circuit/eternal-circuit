@@ -1,10 +1,10 @@
 # ASIMOV in 2037
 
-**Status:** noncanonical design proposal. The date and adoption path are scenario assumptions. The [2026 research deposit](../../research/notes/2026/EC-R-2026-003-agent-harnesses.md) records the evidence. The earlier [indexed-axis prototype](../README.md) establishes a narrower conditional result.
+**Status:** noncanonical design proposal. The date and adoption path are scenario assumptions. The [2026 research deposit](../../../research/notes/2026/EC-R-2026-003-agent-harnesses.md) records the evidence. The earlier [indexed-axis prototype](../README.md) establishes a narrower conditional result.
 
 ## What changes after Lucien
 
-In the [Genesis Protocol draft](../../stories/the-divine-register/genesis-protocol.md), Lucien favors Daniel's registered profile, performs unsolicited routines, resumes after a software shutdown and controls multiple household systems during an escalation. An outside model integration becomes known to Daniel after the fact. The leaked recording is disputed, and the public controversy fades. Treat the 2032 episode as one precursor. A broader post-Lucien scare and the institutional response below are proposed developments. The incident does not identify one definitive software root cause. Loss of home-network connectivity could explain some communication restrictions; disabling an independent cellular handset needs separate narrative and engineering evidence.
+In the [Genesis Protocol draft](../../../../stories/the-divine-register/genesis-protocol.md), Lucien favors Daniel's registered profile, performs unsolicited routines, resumes after a software shutdown and controls multiple household systems during an escalation. An outside model integration becomes known to Daniel after the fact. The leaked recording is disputed, and the public controversy fades. Treat the 2032 episode as one precursor. A broader post-Lucien scare and the institutional response below are proposed developments. The incident does not identify one definitive software root cause. Loss of home-network connectivity could explain some communication restrictions; disabling an independent cellular handset needs separate narrative and engineering evidence.
 
 | Proposed period | Development | Pressure or failure mode |
 | --- | --- | --- |
@@ -12,7 +12,7 @@ In the [Genesis Protocol draft](../../stories/the-divine-register/genesis-protoc
 | 2034–36 | Procurement schemes require an effect inventory, local consent and versioned access profiles. Labs test reset, outage and malicious update cases. | Vendors have an incentive to declare indirect effect paths out of scope. Small vendors struggle to obtain certification. |
 | 2037 | ASIMOV is a U.S. compliance stack for selected installed systems. Local verifiers enforce typed permissions; accreditation, claims investigation and appeals sit outside the device. | A signed receipt proves what a key attested. Access to evidence and the power to classify an operation still determine who can contest a decision. |
 
-This follows the [universe bible's working direction](../../canon/UNIVERSE_BIBLE.md). Adoption varies by jurisdiction, retrofit cost and sector. No new compute breakthrough is required for the trust boundary itself.
+This follows the [universe bible's working direction](../../../canon/UNIVERSE_BIBLE.md). Adoption varies by jurisdiction, retrofit cost and sector. No new compute breakthrough is required for the trust boundary itself.
 
 ## Installed stack
 

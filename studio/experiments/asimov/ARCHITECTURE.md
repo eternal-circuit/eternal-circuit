@@ -44,7 +44,7 @@ The static prototype policy can be compiled into firmware with protected outer l
 | HSM | Offline firmware/policy signing and authorization under controlled key custody. FIPS 140-3 applies to cryptographic modules. | Module validation does not establish correct policy or key-holder decisions. Keep signing out of the live motion loop. |
 | TEE | Optional isolation for provisioning, sensitive host data or telemetry. | Shared SoC, debug, power, DMA/peripherals, availability and trusted I/O require platform-specific arguments. A host enclave is insufficient as the sole motion authority. |
 
-The component classes exist today. The full controller-to-physical-envelope argument, security/safety co-assurance, quantified independence and reliable evolution of the safety specification remain development and validation work. Original documents and versions are recorded in the [research deposit](../research/notes/2026/EC-R-2026-002-asimov-indexed-axis.md).
+The component classes exist today. The full controller-to-physical-envelope argument, security/safety co-assurance, quantified independence and reliable evolution of the safety specification remain development and validation work. Original documents and versions are recorded in the [research deposit](../../research/notes/2026/EC-R-2026-002-asimov-indexed-axis.md).
 
 ## Next bench build
 

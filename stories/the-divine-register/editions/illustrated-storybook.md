@@ -4,7 +4,7 @@ A 32-page illustrated abridgment that Michael Pass created for an AI class. The 
 
 | Edition | Where to read |
 | --- | --- |
-| Working manuscript | [Genesis Protocol Markdown](../genesis-protocol.md) |
+| Working manuscript · Proto Draft 1 | [Genesis Protocol Markdown](../genesis-protocol.md) |
 | Historical prototype | [Proto Draft 0 PDF](https://github.com/eternal-circuit/eternal-circuit/releases/tag/divine-register-proto-draft-0) |
 | Illustrated class edition | Original PDF prepared for a separate GitHub release, pending publication approval |
 

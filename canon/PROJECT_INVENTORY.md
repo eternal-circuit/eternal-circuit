@@ -11,14 +11,14 @@
 
 | Role | Path and findings |
 | --- | --- |
-| Editable draft | [Genesis Protocol Markdown](../stories/the-divine-register/genesis-protocol.md) mirrors the eight chapters, front matter, and editorial notes of Proto Draft 0. |
-| Transcription baseline | [Full eight-chapter text](../stories/the-divine-register/genesis-protocol.0b00000000) preserves the original extraction and byte offsets. |
+| Editable draft | [Genesis Protocol Markdown](../stories/the-divine-register/genesis-protocol.md) contains Proto Draft 1, a full eight-chapter prose revision. The [draft archive](../stories/the-divine-register/proto/README.md) preserves Proto Draft 0 with its original front matter and editorial notes. |
+| Transcription baseline | [Full eight-chapter text](../stories/the-divine-register/proto/0/genesis-protocol.0b00000000) preserves the original extraction and byte offsets. |
 | Historical full-text copy | [Root anthology text](<../The Divine Register/genesis-protocol.0b00000000>) differs from the baseline only by an added final newline. Preserve that byte difference for any checksum or offset work. |
 | PDF reference | [Proto Draft 0](https://github.com/eternal-circuit/eternal-circuit/releases/tag/divine-register-proto-draft-0) contains the original PDF as a release asset. Its SHA-256 is `93635cfb7803fa3b254f059160c46a799970988368617bc0e8de3e1166c09857`. The two byte-identical repository copies are preserved in Git history. The project-supplied PDF differs at the byte level and yielded identical text with `pdftotext -layout`. |
 | Illustrated class edition | [Storybook edition](../stories/the-divine-register/editions/illustrated-storybook.md) records the separate 32-page illustrated abridgment and its planned release. |
 | Standalone Chapter 1 variant | [Chapter 1 Markdown](<../The Divine Register/Genesis Protocol: 0b00000000/Genesis_Protocol_Chapter_1.md>) ends before the full draft’s Chapter 1 ending. It adds ASCII illustrations and has cleaner readings such as “coffee” where the full text reads “coaee.” Consult it during transcription and verify variant readings against the PDF. |
 
-The Markdown uses the baseline’s paragraph breaks and the PDF’s chapter headings and dates. A word-by-word comparison against the text layer covered the disclaimer and all eight chapters. The transcription expands typographic ligatures, repairs malformed `ff` words such as `coaee` and `oaice`, restores the dash in “different—deeper,” and joins the soft line break in “reentered.” The front matter was checked visually. The cover artwork and three illustration pages at the end are available in the PDF.
+The archived Proto Draft 0 Markdown uses the baseline’s paragraph breaks and the PDF’s chapter headings and dates. A word-by-word comparison against the text layer covered the disclaimer and all eight chapters. The transcription expands typographic ligatures, repairs malformed `ff` words such as `coaee` and `oaice`, restores the dash in “different—deeper,” and joins the soft line break in “reentered.” The front matter was checked visually. The cover artwork and three illustration pages at the end are available in the PDF.
 
 Use Markdown for manuscript edits. Attach approved PDF snapshots to versioned GitHub Releases. Preserve the historical text for byte-offset work.
 

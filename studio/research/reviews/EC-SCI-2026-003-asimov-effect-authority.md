@@ -1,7 +1,7 @@
 # EC-SCI-2026-003 — Effect authority in the proposed 2037 ASIMOV stack
 
 - **Status:** SCIENCE_UNRESOLVED for the integrated deployment.
-- **Target:** Noncanonical 2037 scenario, [stack](../../asimov/2037/README.md) and [protocol](../../asimov/2037/PROTOCOL.md).
+- **Target:** Noncanonical 2037 scenario, [stack](../../experiments/asimov/2037/README.md) and [protocol](../../experiments/asimov/2037/PROTOCOL.md).
 - **Reviewed design and evidence revision:** `7d054e19ec0d0cd7c37cdc91016aab3405db9766`. Follow-up text captures the reviewer's clarifications on fencing, permit issuance and checkpoint cadence.
 - **Date:** 2026-11-16.
 - **Reviewer:** Separate Scientific Adversary context with shared model family and workspace. No hardware test, implementation audit or full independent evidence-fidelity review.
@@ -16,7 +16,7 @@ One endpoint can bind mutation and budget debit to a unique scoped effect ID in 
 | --- | --- | --- |
 | [EC-R-2026-003](../notes/2026/EC-R-2026-003-agent-harnesses.md), pinned `7d054e19ec0d0cd7c37cdc91016aab3405db9766` | Primary source synthesis and original race model, DRAFT | Harness reports explain current practices. They do not establish complete effect coverage. |
 | [EC-R-2026-002](../notes/2026/EC-R-2026-002-asimov-indexed-axis.md), pinned `15fcaa8c82aaf8d606740985f7c4aaaf093fd12e` | Primary hardware-source synthesis, DRAFT | Architecture building blocks and their limited evidence |
-| [Race checker](../../asimov/2037/check_commit.py), pinned `7d054e19ec0d0cd7c37cdc91016aab3405db9766` | Exhaustive search of 30 schedules | One endpoint and effect ID. Cross-resource and persistence semantics are assumed. |
+| [Race checker](../../experiments/asimov/2037/check_commit.py), pinned `7d054e19ec0d0cd7c37cdc91016aab3405db9766` | Exhaustive search of 30 schedules | One endpoint and effect ID. Cross-resource and persistence semantics are assumed. |
 
 ## Quantitative audit
 

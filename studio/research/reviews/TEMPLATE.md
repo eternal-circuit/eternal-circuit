@@ -45,4 +45,4 @@ Strongest contradicting evidence, missing measurements, what result would dispro
 | --- | --- | --- | --- |
 | | | | |
 
-A link-only source ledger is not sufficient for scientific PASS. Deposit self-contained findings in `research/notes/` and register them in `research/index.md` first.
+A link-only source ledger is not sufficient for scientific PASS. Deposit self-contained findings in `studio/research/notes/` and register them in `studio/research/index.md` first.

@@ -48,5 +48,5 @@ Canon status **PROPOSED**. Author approval pending. The existing outline and oth
 
 | Note and artifact | Pinned revision | Status |
 | --- | --- | --- |
-| [EC-R-2026-004](../notes/2026/EC-R-2026-004-idle-hands-lost-shift.md), [executable](../models/idle-hands/queue_model.py) | Scientific review packet `d8c5837a01aeb620692c319e3a3bd800dbe89996` | DRAFT research with independent reproduction. CPython 3.13.3, `python3 research/models/idle-hands/queue_model.py`. |
+| [EC-R-2026-004](../notes/2026/EC-R-2026-004-idle-hands-lost-shift.md), [executable](../models/idle-hands/queue_model.py) | Scientific review packet `d8c5837a01aeb620692c319e3a3bd800dbe89996` | DRAFT research with independent reproduction. CPython 3.13.3, `python3 studio/research/models/idle-hands/queue_model.py`. |
 | EC-R-2026-004 source-fidelity clarification | `a84b722dfa75e78dd71ebe69a27f1adad3f55156` | Primary-source links and supervisor scope clarified. Model unchanged. |

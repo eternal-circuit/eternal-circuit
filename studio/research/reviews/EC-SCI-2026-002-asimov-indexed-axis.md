@@ -17,7 +17,7 @@ Only the mediator may commit a ±1 mm stroke after checking sample validity and 
 | --- | --- | --- | --- |
 | [NIST SP 800-160 v1r1, §D.4.2](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-160v1r1.pdf) | 2022 | Primary guidance independently rechecked | Reference-validation design criteria. No evidence about this actuator or prototype. |
 | [HSE Control systems, Independence](https://www.hse.gov.uk/comah/sragtech/techmeascontsyst.htm) | Undated, checked 2026-11-16 | Regulator guidance independently rechecked | Dependencies include shared utilities, installation and maintenance. No measured common-cause rate. |
-| [Local checker](../../asimov/formal/check.py) and [tests](../../asimov/tests/test_asimov.py) | 2026-11-16 | Original model and executed code | Independent rerun, finite abstraction only. |
+| [Local checker](../../experiments/asimov/formal/check.py) and [tests](../../experiments/asimov/tests/test_asimov.py) | 2026-11-16 | Original model and executed code | Independent rerun, finite abstraction only. |
 
 ## Quantitative audit and falsifiers
 
@@ -42,7 +42,7 @@ C1 and C2 pass only at their stated abstraction boundaries. The architecture as 
 
 ## Canon decision
 
-Author approval pending. Research feature branch `research/asimov-reference-prototype`. No canon destination proposed.
+Author approval pending. Research feature branch `studio/research/asimov-reference-prototype`. No canon destination proposed.
 
 ## Durable local research references
 

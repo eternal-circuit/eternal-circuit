@@ -6,6 +6,7 @@
 ## Start reading
 
 - [The Genesis Protocol](stories/the-divine-register/genesis-protocol.md) opens *The Divine Register*, the first book of this collaborative science-fiction project. The prose is AI-written under human editorial direction.
+- [Draft archive](stories/the-divine-register/proto/README.md) preserves earlier versions. The current manuscript is Proto Draft 1.
 - [Illustrated class edition](stories/the-divine-register/editions/illustrated-storybook.md) documents an alternate telling. [Proto Draft 0](https://github.com/eternal-circuit/eternal-circuit/releases/tag/divine-register-proto-draft-0) is the historical PDF.
 
 ## Overview

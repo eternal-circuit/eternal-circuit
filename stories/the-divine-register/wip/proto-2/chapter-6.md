@@ -94,7 +94,7 @@ Rachel looked at him. He had not been the one to try the handle.
 
 Evelyn thanked them for clarifying.
 
-She also said the company's pilot housing coordinator had been notified. The test-house subsidy would continue while the incident was reviewed. Lodging expenses could be submitted for reimbursement. No one was asking them to surrender the house, and no one was promising how long the arrangement would continue.
+Daniel asked where to send the motel receipts and whether Cerebral would continue subsidizing the house if the pilot was suspended. Evelyn said the company's pilot housing coordinator had been notified. The test-house subsidy would continue while the incident was reviewed, and lodging expenses could be submitted for reimbursement. No one was asking them to surrender the house, and no one was promising how long the arrangement would continue.
 
 When the call ended, Daniel put his head back against the wall.
 

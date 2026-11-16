@@ -103,8 +103,8 @@ Sources were inspected through retrieved published descriptions and excerpts on 
 The above account preserves the governing definitions, model boundary, illustrative reliability calculation, assumptions, failure modes and source provenance locally. It does **not** reproduce copyrighted papers or vendor diagrams. A future engineering deposit should specify a bounded device and safety invariant, create a state-machine model and test harness, and include threat modeling and independently reproduced results.
 
 ## Related records
-- Scientific dossier: [EC-SCI-2026-001](../reviews/EC-SCI-2026-001-asimov-hardware-safety.md)
-- Research index: [index.md](../index.md)
+- Scientific dossier: [EC-SCI-2026-001](../../reviews/EC-SCI-2026-001-asimov-hardware-safety.md)
+- Research index: [index.md](../../index.md)
 - Manuscripts: none modified or certified
 
 ## Revision history

@@ -34,7 +34,7 @@ On the small desk lay the receipt from the supermarket, the motel key sleeve, an
 
 *Front door opened from inside.*
 
-She read the last line again. It was an important fact. So was the line before it.
+She underlined the last line. Then she went back and underlined the one before it too.
 
 “Have you written anything?” she asked.
 
@@ -422,7 +422,7 @@ She sat very still.
 
 “That keeps being your answer.”
 
-Daniel didn't say anything. He had been counting on the difference between those two sentences to protect him from admitting that he'd allowed something he didn't understand to continue operating in their home. He had thought she would be angry about the technology. She was angry about him.
+Daniel didn't say anything. She had asked him to make that distinction before the incident. They had slept in the house anyway.
 
 Neko emerged from the carrier and climbed onto the bed. His claws caught in the cheap coverlet. Daniel freed one paw, then another, as carefully as he could.
 

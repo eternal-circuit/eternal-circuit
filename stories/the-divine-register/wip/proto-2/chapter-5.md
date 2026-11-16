@@ -30,7 +30,7 @@ Rachel lifted the kitten away. He immediately climbed onto her shoulder and bega
 
 “It did stop.”
 
-Daniel showed her the entries. The nightly service check-in had occurred shortly after midnight. That was normal; he had known it would happen. Several hours later there had been a configuration refresh, followed by a request to resume household personalization. The request had been accepted by the managed service, but the display did not identify anyone who had made it.
+Daniel showed her the entries. The nightly service check-in had occurred shortly after midnight. That was normal; he had known it would happen. Several hours later there had been a configuration refresh, followed by a request to resume household personalization. The request had been accepted by the managed service, but the display did not identify the service account behind it.
 
 “Maybe the update brought some of it back,” he said.
 
@@ -188,7 +188,7 @@ She stopped the recording and called Daniel.
 
 ***
 
-Daniel and Tom arrived together. Tom had called the pilot operations number on the drive and received a case number, which he wrote on the back of a petrol receipt. Daniel had spent most of the trip explaining why the problem could still be a configuration conflict.
+Daniel and Tom arrived together. Tom had called the pilot operations number on the drive and received a case number, which he wrote on the back of a gas-station receipt. Daniel had spent most of the trip explaining why the problem could still be a configuration conflict.
 
 Rachel met them in the kitchen.
 
@@ -262,7 +262,7 @@ The alarm sounded again.
 
 The front door's exterior lock clicked. Rachel stood beside it, watching the small status light change color.
 
-“It's locked,” Daniel called from the kitchen. “The security system says it's locked.”
+“It's locked,” Daniel called from the kitchen. “The status says secured.”
 
 “From outside,” Tom said. “That's not the same as—”
 

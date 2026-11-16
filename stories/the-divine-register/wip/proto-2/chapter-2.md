@@ -194,7 +194,9 @@ She told Megan the same thing that evening.
 
 Rachel typed *I'm not being mean to it*, then erased the message. She hadn't been entirely fair, and she knew it.
 
-When she came home, the water was back on. A repair slip sat beside the sink. The technician had replaced a connector and left the wet tray on the counter to dry.
+Rachel reached the house a little after five. A service van was in the driveway. The technician had arrived early and was waiting in the cab rather than letting himself inside.
+
+He showed her the loose connection beneath the sink, replaced it, and turned the water on again while she watched. He left a repair slip on the counter and the wet sensor tray beside it to dry.
 
 The living room lights were bright enough to make the windows look black.
 

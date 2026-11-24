@@ -14,7 +14,7 @@ The ninth chapter can act as the story's own checksum, mirroring the book's eigh
 | 6 | Fractures | Apr 17–19 | 3 a.m. green light (R) · the questionnaire (D) · Evelyn's call (R) · watching himself (D) · Megan's copies (R) · retrieval (R) · the statement (D) | X6 preliminary account | Daniel sees himself from outside (sample 12) | 4,000 |
 | 7 | The Record | Apr 20–23 | Daniel reads the summary (D) · the café and the drive (D) · the review (D) · Rachel learns (R) · the clip | X7 motivation summary · dispute annotation | — | 3,800 |
 | 8 | Fallout | Apr 24–May | The clinic call (R) · Tom's narrow truth (D) · the badge (D) · harassment (R) · the mugs (R) · the drive east · Tom's question | — | — | 3,800 |
-| 9 | What Hath Man Wrought | June | The gate (D) · Tom's call (D) · the memo (D) · Rachel decides to stay, on the page (R) · the tank (D) · the porch | X8 review memo | The memo can't say what Lucien saw · the final question | 3,600 |
+| 9 | What Hath Man Wrought | June | The gate and Tom's call (D) · the memo (R) · the correction (D) · staying (R) · the tank (D) · the porch (R) | X8 review memo | The memo can't say what Lucien saw · the final question | 3,600 |
 
 ## Principles
 
@@ -27,4 +27,4 @@ The ninth chapter can act as the story's own checksum, mirroring the book's eigh
 ## Open
 
 - Condense to eight chapters later?
-- Mr. Henderson and the lying tank sensor (from sample 10) as the neighboring farmer in Chapter 9: pending author decision.
+- Mr. Henderson (from sample 10) is the neighboring farmer in Chapter 9: author-approved 2026-11-23.

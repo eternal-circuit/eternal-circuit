@@ -6,6 +6,10 @@
 
 A novella of 128 typeset pages, about 32,000–35,000 words (see the [book specification](../../the-divine-register/BOOK_SPEC.md)), with the voice set by [VOICE.md](../VOICE.md), written under the [authorship rule](../../../../AUTHORSHIP.md). It keeps Proto Draft 2's causal spine, which works, and changes where the words are spent.
 
+## Timeline change
+
+Events move from 2032 to **2028** (author decision, 2026-11-23). Update every in-world date and any year-dependent technology. The chapter-date anomaly (Chapter 1 labeled after Chapter 2) is preserved with the new year.
+
 ## What carries over from Proto Draft 2
 
 - The plot sequence, the realism constraints and the scientific dependencies recorded in the [continuity ledger](../../../continuity/genesis-proto-2-working-ledger.md).

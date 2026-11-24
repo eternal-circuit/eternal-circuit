@@ -80,3 +80,20 @@ Continue the interview, then update the cards, voice bible and brief for Proto D
 - `studio/experiments/asimov/2037/README.md` currently says the 2032 controversy "fades" and treats Lucien as one precursor among several. Revise it to match the author's direction that Lucien was the first backlash.
 - Research task: a cosmological timeline (eras, the cosmic horizon, Landauer cost against temperature).
 - Research task: the 2030s technology landscape (LLMs, agent harnesses, vision-language-action models for robots, robot safety standards) for *Idle Hands*.
+
+## Addendum: technology timeline (same session)
+
+**Decision:** match the real-world technology timeline as closely as possible, using reasonable projections. Rule of thumb: bring software forward and keep hardware conservative. The author notes that his 2025 draft undersold the pace of AI.
+
+| Year | Story event | Basis (checked November 2026) |
+| --- | --- | --- |
+| **2028** | *The Genesis Protocol*: the Lucien incident (moved from 2032) | LLM home assistants (Alexa+, Gemini for Home) already build automations from plain language |
+| 2028 | Robotaxis common in large Sunbelt metros; early volume of industrial humanoids; a few teleoperation-assisted home robots | Waymo in 14 US cities with more than 4,000 vehicles (Sept 2026); humanoids mostly in pilots |
+| 2029–2031 | Response to the Lucien shock: insurers and builders demand independent exits and local off-switches, then standards | The repo's ASIMOV 2037 path, moved about four years earlier |
+| ~2032 | The ASIMOV stack becomes a US compliance regime. ASIMOV certification is what makes androids deployable at scale | Interact Analysis puts the humanoid commercial turning point in 2032 |
+| **~2035** | *Idle Hands* | Forecasts: 0.25–0.4 million humanoids per year by 2030 (Goldman Sachs, JPMorgan); more than 700,000 shipments in 2035 (Interact) |
+| 2040s | General-purpose household androids become ordinary | Bank of America: "the household humanoid is a 2040s story" |
+
+The binary nod is kept through record IDs (`0b…`), not the year. An optional archive-label mismatch (a "2032" label) was offered and not adopted.
+
+**Follow-ups:** update the Proto Draft 3 dates; move `studio/experiments/asimov/2037/` to the new timeline; recheck the timeline against real events every year.

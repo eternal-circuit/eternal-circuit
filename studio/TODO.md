@@ -17,3 +17,4 @@ An asterisk (*) means the repository already labels the work complete or working
 - [ ] **Confirm the dual license** — Draft change (2026-11-23): CC BY-SA 4.0 for creative content, GPLv3 kept for code in `LICENSE-CODE`. Author to approve the attribution line and the scope of each license.
 - [ ] **Review prototype funding configuration** — Verify the listed destinations and decide whether the repository is ready to expose them.
 - [ ] **Record the disposition of the older feature branch** — The audit found zero commits unique to `feature`. Decide whether to retain it for historical reference or retire it.
+- [ ] **Recheck the technology timeline every year** — Compare the story timeline (handoff of 2026-11-23) with real developments in AI agents, robotaxis and humanoids. Software tends to arrive early and hardware late. Next check: November 2027.

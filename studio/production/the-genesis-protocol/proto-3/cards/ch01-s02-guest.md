@@ -7,8 +7,8 @@ scene: 2
 title: Guest
 status: draft
 pov: Rachel
-in_world_date: 2032-04-12   # provisional; ledger says "before April 13", exact date not approved
-archive_label: 2032-04-16
+in_world_date: 2028-04-12   # provisional; ledger says "before April 13", exact date not approved
+archive_label: 2028-04-16
 location: kitchen
 word_target: 650
 variants_requested: 3

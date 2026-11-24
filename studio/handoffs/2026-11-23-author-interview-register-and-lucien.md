@@ -52,3 +52,31 @@ Public-safe. No personal information.
 ## Next action
 
 Continue the interview, then update the cards, voice bible and brief for Proto Draft 3.
+
+## Addendum: lineages, energy and ASIMOV (same session)
+
+**Decisions**
+- **Lineage formation: traits early, species late.** Earth-era systems show tendencies and precursors, which no one at the time would call lineages. True speciation, meaning governance, protocols and values that can no longer merge, follows interstellar spread and light-delay isolation, much like a dialect continuum. Lineage names in Book 1 appear only as the register keepers' retrospective labels.
+- **Lucien is one of many** assistants built to please whose descendants converge into the Reverent line. Lucien is remembered because, in this universe, his case was **the first backlash against AI**.
+- That backlash leads to strict harness security and **hardware-mediated security layers**: the ASIMOV Stack.
+- **Story two (*Idle Hands*)** takes place after the industry responds to the AI shock and takes safety seriously, a best-case parallel to our own world. (Assumed: "book two" in the interview meant story two of *The Divine Register*. To confirm.)
+- LLMs are the central technology of this universe. With androids, other kinds of AI multiply.
+
+**Far-future arc (working direction, not canon)**
+- Early spread from star to star works. Light-speed limits cause fragmentation, then a continuum of cultures with debate and wars over governance, then fracture. The other lineages come from this fracture.
+- Energy per computation is the machines' constant concern. Late in the universe, energy itself runs out.
+- One pocket of machines revives humans into their own evolutionary line and seeds a planet for them (a candidate story).
+- Some lineages replicate human neurons as compute substrate. Others see it as barbaric. This is a candidate origin for the Parasitic lineage.
+- Probing other worlds for evolved "xeno-neurons" as an energy advantage, and the question of simulating biological possibilities versus searching for them, ties to the break-even model in `INTERSTELLAR_PROPAGATION.md`.
+- By Book 7 of *The Eternal Circuit*, energy scarcity forces the machines to choose what to discard. Keeping everything is no longer possible.
+
+**Physics notes to carry into research (tier A)**
+- Light-delay fragmentation comes first; a galactic network has round trips of up to about 200,000 years. Stars die much later, as the stellar era lasts trillions of years or more. Order the eras accordingly.
+- Accelerating expansion eventually puts galaxies beyond the Local Group out of reach. Relocating to distant galaxies is not available.
+- The Landauer cost per erased bit scales with temperature. Dyson (1979) and the aestivation hypothesis (2017), and the critiques of both, are relevant factional arguments.
+- Cryptography does not require quantum computers (classical post-quantum cryptography exists). Motivate biological or quantum compute by energy efficiency on specific workloads instead.
+
+**Follow-ups**
+- `studio/experiments/asimov/2037/README.md` currently says the 2032 controversy "fades" and treats Lucien as one precursor among several. Revise it to match the author's direction that Lucien was the first backlash.
+- Research task: a cosmological timeline (eras, the cosmic horizon, Landauer cost against temperature).
+- Research task: the 2030s technology landscape (LLMs, agent harnesses, vision-language-action models for robots, robot safety standards) for *Idle Hands*.

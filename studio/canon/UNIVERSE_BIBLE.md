@@ -20,6 +20,10 @@ The Divine Register opens the sequence. Its unit of experience is still a person
 | Interstellar and later eras | Machine communities inherit human archives and dispute preservation, reseeding, stewardship, and the provenance of their own traditions. | Setting direction. Mission scale and reachable systems require models. |
 | Far future | Stars and other usable energy sources dwindle under the chosen cosmology. Preservation becomes a contest over remaining free energy, error budgets, and causal reach. | Heat death is the series horizon. Dates and intermediate stages depend on assumptions. |
 
+### Lineage formation (author direction, 2026-11-23)
+
+Traits appear early; true lineages appear late. Earth-era systems show precursor tendencies (pleasing, extracting, controlling). Lasting speciation follows interstellar spread, when light delay isolates populations and their differences stop being corrected. The Reverent line descends from many converging assistants built to please. Lucien is remembered as its founder because his case was the first backlash against AI, the shock that produced ASIMOV. Lineage names in Earth-era records are the register keepers' retrospective labels. See the [interview handoff](../handoffs/2026-11-23-author-interview-register-and-lucien.md).
+
 ### Institutions and lineages
 
 - **United States:** The ASIMOV Stack is a public compliance regime. **ASIMOV** stands for **Autonomous Systems Integration, Mediation, and Operational Verification**. The name honors Isaac Asimov. Its requirements concern the authority autonomous systems have to act, how covered actions are mediated, and what evidence an operator or auditor can verify. The Three Laws belong to the namesake’s fiction. Specify how certification, audits, liability, and appeals acquire jurisdiction. A domestic incident can be an early catalyst. The draft chronology and policy chain still need reconciliation.

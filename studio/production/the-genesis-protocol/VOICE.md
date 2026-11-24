@@ -2,6 +2,18 @@
 
 **Status:** DRAFT for author approval, 2026-11-23 · **Seed:** Philip K. Dick, *A Scanner Darkly* · **Budget:** 128 pages, about 32,000–35,000 words
 
+## Spiritual center
+
+**Author direction, 2026-11-23.** The book's spiritual feeling comes from Bob Arctor's interior monologue in *A Scanner Darkly* (Philip K. Dick, 1977), in which a watched man asks what the scanner really sees, and hopes it sees him more clearly than he can see himself, since he sees only murk, inside and out. If it sees as darkly as he does, they are cursed to die knowing very little and getting even that wrong. The passage is quoted nowhere in this repository or the book; this is a paraphrase.
+
+In our terms: everyone in the book wants to be seen truly. Rachel wants her experience to count; Daniel hopes the record will vindicate him; the Reverents hope their archive is faithful. **The house sees precisely and still sees darkly**: every measurable thing, none of what it means. It hands that fragment back, confidently and kindly, and wrong. Nobody sees face to face. The register's "0 uncorrectable" over a wrong date is the same curse written as metadata.
+
+**Recurring question: what does the house see?** Rachel asks it and Tom answers technically (sample 11). Daniel watches himself from outside in Rachel's recording (sample 12). The review memo cannot answer it for Lucien. The final question turns it around.
+
+**Proposed epigraph for Record 0** (King James Version, public domain; pending author approval):
+
+> For now we see through a glass, darkly; but then face to face: now I know in part; but then shall I know even as also I am known. — 1 Corinthians 13:12
+
 ## Record type
 
 A reconstructed household record: testimony and scenes assembled by the register's compiler from logs, recordings, the residents' paper notes, and company documents. Several of those sources are themselves outputs of the system the story is about.
@@ -86,7 +98,15 @@ Eight or nine chapters. About 50 scenes, averaging 650 words. Chapter 7 likely s
 
 ## Reference passages
 
-None yet. Planned first step: generate 15–20 short passages across the registers above, then have the author select 4–6 as targets.
+Author-selected from two rounds (see [samples/LOG.md](samples/LOG.md)):
+
+- [Sample 4](samples/round-01/sample-04-lucien-digest.md): Lucien's digest. Exhaustive, kind, minute-level observation ("Neko ate at 7:00 and 7:04. (He finished.)"); offers that are not real offers.
+- [Sample 5](samples/round-01/sample-05-paranoid-loop.md): the paranoid loop. A recursive run-on that circles evidence and memory; the house's politeness as the last beat.
+- [Sample 8](samples/round-01/sample-08-tom.md): Tom's narrow truth. Every statement true; the conversation becoming a record.
+- [Sample 11](samples/round-02/sample-11-what-it-sees.md): what the house sees, answered technically. It sees that you were there, never why.
+- [Sample 12](samples/round-02/sample-12-watching-himself.md): Daniel watching himself in the recording. Dissociation; a stranger's evidence of his own body.
+
+**Center of gravity:** dread through precision, grounded in real technology. Comedy and grief remain necessary registers but are not the voice's center.
 
 ## Chapter overrides
 

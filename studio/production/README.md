@@ -34,3 +34,26 @@ studio/production/
 ```
 
 Generated variants are working material. Assembled chapters go to `stories/<book>/wip/<draft>/`, and earlier drafts are never overwritten.
+
+## Generation harness
+
+[`tools/generate.py`](tools/generate.py) automates the loop's generate and log steps. It uses only the Python standard library and reads the API key from `ANTHROPIC_API_KEY`. Run it from the repository root.
+
+```sh
+# Voice samples for the voice bible (15 registers by default)
+python3 studio/production/tools/generate.py samples the-genesis-protocol
+
+# Variants for one scene, one per divergence bullet on the card
+python3 studio/production/tools/generate.py variants \
+    studio/production/the-genesis-protocol/proto-3/cards/ch01-s06-naming.md
+
+# Revision round with author notes, plus extra canon context
+python3 studio/production/tools/generate.py variants CARD --notes notes.md \
+    --context studio/canon/ASIMOV_REQUIREMENTS.md
+```
+
+- `--estimate` prints an approximate token count and cost and stops. `--dry-run` writes the prompt files without calling the API. Prompt files are self-contained and can also be pasted into a chat with the chosen model.
+- Each variant prompt includes the system rules, the story's `VOICE.md` and `BRIEF.md`, the glossary, the selected text of the previous scene (from its card's `chosen` field), the card, and any revision notes.
+- Variants go to `<draft>/variants/`, prompts to `<draft>/prompts/`, and a provenance entry for the round to `<draft>/log/<scene>.md`. Fill in the **Decision** line by hand: which variant, what was cut or joined, and the notes for the next round.
+- Default model: `claude-fable-5-2`. Override with `--model`.
+- Approximate cost per round at November 2026 prices: about $0.35 for three Fable variants of an 800-word scene, and about $0.55 for 15 voice samples.

@@ -178,6 +178,9 @@ def build_variant_prompt(card_path, extra_context, notes, divergence):
     ]
     if (story / "SETTING.md").exists():
         parts.insert(1, "# Setting bible\n\n" + read(story / "SETTING.md"))
+    plan = draft / "LUCIEN_DOCUMENTS.md"
+    if Path(card_path).resolve().parent.name == "exhibit-cards" and plan.exists():
+        parts.append("# Document escalation plan\n\n" + read(plan))
     for path in extra_context:
         parts.append(f"# Context: {path}\n\n" + read(REPO / path))
     prev = previous_scene_text(card_path, fields.get("id", ""))

@@ -66,7 +66,7 @@ The prose is faithful to what was perceived. The *metadata* is not: dates, names
 - **Tom** is precise and dry, and uses a narrow truth as a shield.
 - **Megan** jokes and changes the subject on purpose.
 - **Bob** is never heard directly. His sayings reach us secondhand.
-- **Lucien** speaks in short, polite system sentences aloud. Its *written* output (summaries, classifications) is where it becomes eloquent.
+- **Lucien** speaks in short, polite system sentences aloud. Its *written* output is where it becomes eloquent. The eight documents escalate on a plan: see [proto-3/LUCIEN_DOCUMENTS.md](proto-3/LUCIEN_DOCUMENTS.md).
 
 ## Motifs and objects
 

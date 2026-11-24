@@ -10,6 +10,7 @@ This is the **working side** of *The Eternal Circuit*. Readers can begin at the 
 | [`continuity/`](continuity/genesis-proto-2-working-ledger.md) | Manuscript continuity and evidence trail | Working |
 | [`research/`](research/README.md) | Attributed science notes, models, review dossiers | DRAFT/VERIFIED as labeled; not automatic canon |
 | [`experiments/`](experiments/README.md) | Real software prototypes and tests | Noncanonical engineering experiments |
+| [`production/`](production/README.md) | Scene cards, generated variants and provenance records | Draft workflow |
 | [`agents/`](agents/README.md) | Literary/scientific review roles and workflow routing | Operational |
 | [`handoffs/`](handoffs/README.md) | Curated cross-device working notes | Working; public-safe only |
 | [`archives/`](archives/templeos/README.md) | TempleOS ISO and VM materials retained for history | Preserved assets |

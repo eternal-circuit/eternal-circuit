@@ -44,7 +44,7 @@ The project's scientific standard is rigorous: no faster-than-light transport, n
 
 Contributions and thoughtful criticism are welcome, especially in fiction editing, scientific modeling, continuity, accessible editions, and reproducible software experiments.
 
-Start with **[CONTRIBUTING.md](CONTRIBUTING.md)** and the [Contributor Manifesto](CONTRIBUTOR_MANIFESTO.md). Agents and automated tooling should also read [AGENTS.md](AGENTS.md). Use a branch and a reviewable pull request; never silently overwrite a historical manuscript.
+Start with **[CONTRIBUTING.md](CONTRIBUTING.md)** and the [Contributor Manifesto](CONTRIBUTOR_MANIFESTO.md). Agents and automated tooling should also read [AGENTS.md](AGENTS.md). The project's prose is model-generated under a human-directed [authorship rule](AUTHORSHIP.md) (draft). Use a branch and a reviewable pull request; never silently overwrite a historical manuscript.
 
 ## Preservation, licensing, and attribution
 

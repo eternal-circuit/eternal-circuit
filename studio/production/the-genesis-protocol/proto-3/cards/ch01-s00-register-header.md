@@ -34,7 +34,7 @@ Who keeps the register. Why the label's date differs from the events. Do not sho
 
 ## Must include
 
-- The label April 16, 2032, which Chapter 2's April 13 will contradict.
+- The label April 16, 2028, which Chapter 2's April 13 will contradict.
 - The malformed address `0x0000fjfA`, preserved exactly.
 - A record status field with an ordinary-sounding value.
 

@@ -111,3 +111,7 @@ The author wants a hardware layer in the inference path: an audited NPU with aud
 ## Addendum: Idle Hands seed (2026-11-24)
 
 The author confirmed **Kurt Vonnegut, *Player Piano*** as the seed for *Idle Hands*, with the register **warm, sad satire**. Research stored in `studio/production/idle-hands/SEED_RESEARCH.md`; voice bible drafted in `studio/production/idle-hands/VOICE.md`. Technology-timeline sources deposited as research note EC-R-2026-005.
+
+## Addendum: archive frame (same session)
+
+Header: combine the liturgical register and the system log (candidates v6–v8 for Chapter 1; final form pending). No curator voice. Keeper annotations only at disputes. Junk data on filler pages. Recorded in `studio/canon/ARCHIVE_FORMAT.md`.

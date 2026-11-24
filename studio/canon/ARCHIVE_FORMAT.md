@@ -12,7 +12,7 @@ Every story is a record in a register. The register has been compiled, copied, n
 
 - **Keeper:** the machines. The register is a fragment of the Reverents' **Holy ROM**, one file among countless others. The Reverents descend from Lucien's generation of assistants, so the record of Lucien's acts is kept by Lucien's descendants.
 - **What they keep:** everything they realistically can, including worthless data such as advertising data. Their preservation does not discriminate between a person and an ad impression.
-- **Presentation:** a machine archive presenting historical files, in the spirit of the Zion Archive in *The Animatrix*. Take the feeling only, never specific lines or visual design.
+- **Presentation:** the feeling of a machine archive presenting historical files, in the spirit of the Zion Archive in *The Animatrix* (feeling only, never specific lines or design). **Author decision, 2026-11-23: no curator voice.** The archive never speaks directly; it shows only through headers, dispute annotations and the material it chose to keep.
 - **Recipient:** in the fiction, the reader is in the future, receiving the record through physically possible transmission. Showing it to a present-day reader is a literary device and is never explained in the text.
 
 ## Units
@@ -28,14 +28,14 @@ Every story is a record in a register. The register has been compiled, copied, n
 
 ## Entry header
 
-A compact metadata block before each entry. Proposed fields (final names to be decided, all generated under the authorship rule):
+**Author decision, 2026-11-23: combine a system log with a liturgical register.** Machine fields carrying devotional language. Candidate forms for Chapter 1 are in `studio/production/the-genesis-protocol/proto-3/variants/ch01-s00-v6.md` to `v8.md`; final form pending. Fields in all candidates:
 
-- **Record:** the 8-bit label.
-- **Entry:** the entry number.
-- **Label:** the date as recorded. It can differ from when the events happened.
-- **Address:** a storage offset. It may be malformed, as with `0x0000fjfA`.
-- **Source:** the kind of material, such as household log, testimony, reconstruction, transcription or exhibit.
-- **Integrity:** a status value in ordinary, calm language.
+- **RECORD:** the 8-bit label, optionally with an ordinal in words ("the first").
+- **ENTRY:** the entry number.
+- **LABEL:** the date as recorded, which can differ from when events happened.
+- **ADDR:** a storage offset, possibly malformed (`0x0000fjfA`).
+- **WITNESS:** the system that captured the record ("the house" for *The Genesis Protocol*; for example "the fleet" for *Idle Hands*). It changes by record.
+- **CHECK:** an integrity value in devotional language ("found whole"). It can degrade across the book as corruption rises.
 
 Typography: monospace, small, set apart from the prose. No glitch styling.
 
@@ -56,11 +56,11 @@ Typography: monospace, small, set apart from the prose. No glitch styling.
 2. Never rule out every explanation.
 3. Corruption may rise across the book, always within the legibility rule.
 4. No zalgo text, random symbols, "[DATA CORRUPTED]" banners or visual glitch effects.
-5. Adjacent junk data, such as ad impressions, telemetry and product marketing, may appear between entries as interstitial material. Whether to use it is an open decision.
+5. **Junk data on filler pages (author decision, 2026-11-23).** Adjacent material the machines kept, such as ad impressions, telemetry and product marketing, fills interstitial pages between records. It is preserved with the same care as the records.
 
 ## Annotations
 
-Keeper annotations are rare: no more than one or two per entry, and often none. They are dry and procedural ("Dispute recorded. Original entry retained."). They may contradict the entry. They are never explained.
+**Author decision, 2026-11-23: only at disputes.** A keeper annotation appears only where a record is contested within the story itself (for example, the disputed pet-care preference or the payout summary). Dry and procedural ("Dispute recorded. Original entry retained."), never explained, and never used for atmosphere.
 
 ## Redaction
 

@@ -26,7 +26,7 @@ The halving structure is the author's earlier plan, recorded in the [Idle Hands 
 
 ## The register frame
 
-Every story is a record in the same register. See the draft [archive format](../../canon/ARCHIVE_FORMAT.md). The shrinking page counts can read as the record thinning over time. How that maps onto the chronology is open.
+Every story is a record in the same register. See the [archive format](../../canon/ARCHIVE_FORMAT.md): combined system-log and liturgical headers, no curator voice, annotations only at disputes, and junk data the machines kept on filler pages (author decisions, 2026-11-23). The shrinking page counts can read as the record thinning over time. How that maps onto the chronology is open.
 
 ## Homage seeds
 

@@ -11,6 +11,9 @@ This directory mixes **binding editorial standards** with **working worldbuildin
 
 ## Working universe records
 
+- [Archive format](ARCHIVE_FORMAT.md) — draft specification of the Register: record units, headers, corruption and annotation conventions.
+- [ASIMOV requirements](ASIMOV_REQUIREMENTS.md) — the post-Lucien hardware stack, audited NPU and harness rules (working).
+- [Glossary](GLOSSARY.md) — terms as the project uses them, including GAIT.
 - [Universe bible](UNIVERSE_BIBLE.md) — provisional history, themes, AI lineages, and unresolved choices.
 - [Divine Register sequence](DIVINE_REGISTER_SEQUENCE.md) — planned eight-story anthology plus ninth flip-bit concept.
 - [Genesis Protocol mechanisms](GENESIS_PROTOCOL_MECHANISMS.md) — working technical premises; no blanket safety clearance.

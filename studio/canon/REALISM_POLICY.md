@@ -8,6 +8,20 @@ Scope includes the Eternal Circuit universe, all books and editions. Existing ma
 2. **Literary judgment governs the story.** The [literary workflow](../agents/LITERARY_WORKFLOW.md) evaluates dramatic integrity, character, language, thematic honesty and reader trust. A cleared factual premise can be carried into multiple drafts within its reviewed scope.
 3. **The author** decides what to use and explicitly approves canon. The scientific veto continues to apply to each material premise.
 
+## Proportionality
+
+Match the review to the stakes. The full workflow is for claims that set the world's rules.
+
+| Tier | What it covers | Review |
+| --- | --- | --- |
+| **A. Setting premises** | New technologies, regulations, economic or demographic mechanisms, era chronology, interstellar engineering | Full workflow: research note, claim dossier, independent science verdict |
+| **B. Scene mechanics** | How a premise already reviewed behaves in a specific scene, such as what a 2032 door lock does when power is cut | Canon keeper check plus one recorded science check in the story's continuity ledger. No dossier unless the check fails or the mechanism is pivotal and new |
+| **C. Texture** | Everyday present-day facts, places, procedures and objects | The writer checks them. Fix errors when found; no formal review |
+
+For far-future eras, realism means physical bounds (energy, light delay, thermodynamics, error budgets), not forecasting. A story ten thousand years out needs consistent physics, not a dossier on its institutions.
+
+The author's literary veto is equal in standing to the science veto. Prose that is correct but lifeless is not finished.
+
 ## Standard of evidence
 
 The goal is **scientifically possible AND reasonably probable under clearly stated conditions, from the contemporary frontier of established science and credible research**. A bare absence of disproof is insufficient. A spectacularly unlikely sequence does not become plausible merely because each individual step is physically allowed.

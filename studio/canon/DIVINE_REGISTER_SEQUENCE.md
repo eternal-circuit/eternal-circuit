@@ -19,6 +19,10 @@ The binary convention below records the verified first label and proposes a cons
 
 Each story should stand on its own. Across the sequence, recognizable benefits of automation accumulate into losses that institutions can measure only partially. A household's notion of help becomes an institution's definition of compliance. A person's damaged record becomes a contested inheritance.
 
+## Page budget and voice seeds
+
+The draft [book specification](../production/the-divine-register/BOOK_SPEC.md) records the author's plan to give each story half the pages of the one before it (128, 64, 32 … 1), with the checksum on the final page, for 256 pages in total. Only the first two stories have confirmed titles. Later slots, the chronology and the book's ending are undecided.
+
 ## Ninth checksum / flip bit
 
 The author's present direction places a ninth, deuterocanonical checksum or flip bit beside the eight main bits. It can change the reader's interpretation of earlier records while leaving the main sequence legible on its own. Earlier plans differ on whether the appendage belongs directly after this anthology or elsewhere in the larger chronology. Keep its numbering, point of view, and placement open.

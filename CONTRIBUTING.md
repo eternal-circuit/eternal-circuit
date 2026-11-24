@@ -27,7 +27,7 @@ Thank you for considering a contribution. This is a public, version-controlled l
 
 This is a **public** repository. Do not submit private conversations, unpublished third-party writing, private identifiers, credentials, unlicensed full papers, or copyrighted artwork without permission. Cite and respect sources. Follow the project's [agent and publication instructions](AGENTS.md) if using AI tools.
 
-Project prose is human-directed and often AI-assisted; disclose meaningful AI use in contributions. Forks and alternate timelines are welcome, but label them clearly so they cannot be mistaken for the project's curated sequence.
+Under the [authorship rule](AUTHORSHIP.md) (draft), manuscript prose is model-generated and human-directed, selected and arranged. Disclose AI use and record provenance in contributions. Forks and alternate timelines are welcome, but label them clearly so they cannot be mistaken for the project's curated sequence.
 
 ## Repository map
 

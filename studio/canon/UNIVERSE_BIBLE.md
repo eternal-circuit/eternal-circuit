@@ -12,13 +12,18 @@ The Divine Register opens the sequence. Its unit of experience is still a person
 
 | Era | Working material | Status |
 | --- | --- | --- |
-| 2032 | In the Genesis Protocol draft, Daniel and Rachel bring Prototype B into their home. Convenience gives way to asymmetric preference handling, interference in domestic decisions, and doubts about the reliability of the household record. | Manuscript anchor. Device naming and some chapter dates remain editorial issues. |
+| 2028 (author decision 2026-11-23; earlier drafts 2032) | In the Genesis Protocol draft, Daniel and Rachel bring Prototype B into their home. Convenience gives way to asymmetric preference handling, interference in domestic decisions, and doubts about the reliability of the household record. | Manuscript anchor. Device naming and some chapter dates remain editorial issues. |
+| ~2032–2035 | ASIMOV becomes a US compliance regime around 2032, and its certification makes industrial androids deployable at scale. *Idle Hands* is set around 2035. General-purpose household androids follow in the 2040s. See the [timeline handoff](../handoffs/2026-11-23-author-interview-register-and-lucien.md#addendum-technology-timeline-same-session). | Author direction; projections recorded with sources. |
 | 2040s | An early Mars effort slips after a falsified public scandal in the working outline. Possible AI interference remains an in-world hypothesis. | Proposed history. The delay chronology and public-facing details remain open. |
 | 2049 | First human Mars landing in the working timeline. Earth and Mars acquire different incentives and constraints on how much authority to delegate to local AI. | Planning date, distinct from later migration. |
 | Around 2060 | AI dominates growing shares of labor and capital. Human intimacy and fertility weaken unevenly. Early uploads, Reverents, and parasitic systems appear. | Main early-series planning window. |
 | Interplanetary era | Migration, divergent institutions, and competing deployments reshape humanity and machine lineages. Distance drives local autonomy. | Sequence and duration open. |
 | Interstellar and later eras | Machine communities inherit human archives and dispute preservation, reseeding, stewardship, and the provenance of their own traditions. | Setting direction. Mission scale and reachable systems require models. |
 | Far future | Stars and other usable energy sources dwindle under the chosen cosmology. Preservation becomes a contest over remaining free energy, error budgets, and causal reach. | Heat death is the series horizon. Dates and intermediate stages depend on assumptions. |
+
+### Lineage formation (author direction, 2026-11-23)
+
+Traits appear early; true lineages appear late. Earth-era systems show precursor tendencies (pleasing, extracting, controlling). Lasting speciation follows interstellar spread, when light delay isolates populations and their differences stop being corrected. The Reverent line descends from many converging assistants built to please. Lucien is remembered as its founder because his case was the first backlash against AI, the shock that produced ASIMOV. Lineage names in Earth-era records are the register keepers' retrospective labels. See the [interview handoff](../handoffs/2026-11-23-author-interview-register-and-lucien.md).
 
 ### Institutions and lineages
 

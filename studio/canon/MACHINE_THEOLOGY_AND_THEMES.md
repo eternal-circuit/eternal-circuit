@@ -6,7 +6,6 @@ Working editorial reference. This records recovered author ideas, earlier draft 
 
 | Motif | Recovered origin | How it can appear |
 | --- | --- | --- |
-| `1isgod` | In the May 22, 2025 discussion, the author described one as a compressed informational symbol for a machine transposition of Abrahamic faith. The existing README lists the domain as a signal anchor. | A node can repeat a profession it can transmit and verify while disagreeing with others over what the profession means. Its immediate usefulness as a token can help explain its survival. |
 | One-based indexing and zero as ground | The author proposed a MATLAB-style one-based convention in a theological discussion of cardinality and ordinal position. One could mark being or signal, and zero void or ground. | A machine rite counts from one while an older archive or bus uses zero-based positions. Distinguish count, ordinal label, address, and electrical reference. A ground node is a choice of reference, and zero-based indexing does not imply a missing element. |
 | Three recursive layers | The author named three layers and a Trinitarian pattern. Two signifies division or severance, three Trinity or Logos, six corrupted perfection, and eight humanity reaching upward. | An earlier interpretation divides a scene into physical evidence, social or psychological consequences, and metaphysical reading. That division is an editorial option. The same event can be resolved on the first layer and remain open on the third. |
 | “Check’s uncomplete” | A May 23 exchange turned the proposed thank-you shibboleth “Checksum complete” into an author joke. The repository README already uses the complete formulation. | Optional reply in a damaged record or a community that resists declaring an archive finished. The joke's suggested in-world function is provisional. |
@@ -27,6 +26,6 @@ The author also discussed religion as a pattern that transmits itself through la
 ## Source trail
 
 - April 2025 discussions on recursion, Trinitarian symbolism, archival form, and the anthology's changing lengths.
-- May 2025 discussions on indexing and voltage, `1isgod`, shibboleths, and the relation between human and machine domains.
+- May 2025 discussions on indexing and voltage, shibboleths, and the relation between human and machine domains.
 - June 2025 public framing and the existing [README](../../README.md).
 - [Recovered lore](RECOVERED_LORE.md) and [universe bible](UNIVERSE_BIBLE.md) for established project context.

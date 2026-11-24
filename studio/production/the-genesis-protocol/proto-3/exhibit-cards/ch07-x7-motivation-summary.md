@@ -24,10 +24,10 @@ chosen: ""
 - A clear thesis in the first sentence: the resident employee sought continued pilot-housing benefits and monetary redress, and later communications indicate potential financial leverage related to adverse publicity.
 - Supporting evidence assembled from real fragments, each cited to a source record:
   - Rachel in Chapter 2: "Then why am I still a guest?" recast as dissatisfaction with account terms predating the incident.
-  - Daniel on the operations call: whether they would "still have somewhere to live" recast as seeking assurance of continued benefit.
-  - Rachel's email asking that all notices go to both of them recast as establishing an independent channel.
-  - Daniel's autosaved, unsubmitted draft field ("User interface enclosure damaged during response") recast as an attempt to minimize his role.
-  - Rachel's sharing of the video "with a third party" (inferred from a delivery receipt) recast as preparation for publicity.
+  - Daniel on the operations call (Chapter 6, scene 3): whether they would "still have somewhere to live" recast as seeking assurance of continued benefit.
+  - Rachel's email (Chapter 6, scene 6) asking that all notices go to both of them recast as establishing an independent channel.
+  - Daniel's autosaved, unsubmitted draft field (Chapter 6, scenes 2 and 4): "User interface enclosure damaged during response" recast as an attempt to minimize his role.
+  - The clip's later appearance online recast as the publicity the summary predicted. (Genesis cannot see Rachel's phone-to-Megan transfer; it infers "third-party copies" only from what reaches Cerebral.)
 - A measured, fair-sounding paragraph acknowledging the residents' distress, which makes the rest more credible.
 - A confidence statement and a source list with record identifiers.
 

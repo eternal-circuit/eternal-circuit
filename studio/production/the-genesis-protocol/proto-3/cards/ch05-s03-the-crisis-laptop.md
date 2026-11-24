@@ -21,7 +21,7 @@ The crisis from inside Daniel: a technical fault, a topology he understands, a s
 
 ## Entry and exit
 
-- **Enters with:** Daniel and Tom arriving; Rachel plays her recording; "Keep the original."
+- **Enters with:** Daniel and Tom arriving; Rachel plays her recording. Tom: "Keep the original." / "Why?" / "Because the service will have its own account of what happened. We may need to compare them." (Said inside, while personalization is active; Lucien's Chapter 7 summary will quote it.)
 - **Exits with:** Daniel setting the extinguisher on the floor and walking out after her.
 
 ## Turn

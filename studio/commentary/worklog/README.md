@@ -7,4 +7,4 @@ Use a short account of what changed, why key decisions were made, and what remai
 At the daily close, check repository activity and public-safe handoffs for the date. If an entry already exists, add only verified missing work to the same file. Use a branch and reviewable pull request. Exclude worklog-only maintenance from the activity that triggers an entry.
 
 - [2026-11-16](2026-11-16.md) — ASIMOV prototype, 2037 stack, *Idle Hands* pilot and workflow revision
-- [2026-11-23](2026-11-23.md) — Proto Draft 3 groundwork, the Register, the authorship rule, ASIMOV and CAN+
+- [2026-11-23](2026-11-23.md) — Proto Draft 3 groundwork: the Register, authorship rule, ASIMOV and CAN+, real-hash headers, voice samples, and all scene cards

@@ -57,3 +57,14 @@ python3 studio/production/tools/generate.py variants CARD --notes notes.md \
 - Variants go to `<draft>/variants/`, prompts to `<draft>/prompts/`, and a provenance entry for the round to `<draft>/log/<scene>.md`. Fill in the **Decision** line by hand: which variant, what was cut or joined, and the notes for the next round.
 - Default model: `claude-fable-5-2`. Override with `--model`.
 - Approximate cost per round at November 2026 prices: about $0.35 for three Fable variants of an 800-word scene, and about $0.55 for 15 voice samples.
+
+## Voice statistics
+
+[`tools/voice_stats.py`](tools/voice_stats.py) measures sentence rhythm, dialogue share, repeated gestures and common machine-prose signatures for any set of files, optionally beside Proto Draft 2's baseline:
+
+```sh
+python3 studio/production/tools/voice_stats.py --baseline \
+    studio/production/the-genesis-protocol/proto-3/variants/ch01-s06-v*.md
+```
+
+Use it when choosing between variants. It is a guide to the author's judgment, not a score.

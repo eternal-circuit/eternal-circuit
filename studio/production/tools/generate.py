@@ -57,7 +57,8 @@ Rules:
 - Follow the card's purpose, turn, withheld material and forbidden moves exactly. What is withheld must stay withheld.
 - Homage seeds shape technique only. Never quote or closely imitate the seed author's sentences, characters, invented terms or plots.
 - Never reproduce dialogue, subtitles, lyrics or text from any existing work, including works referenced in the scene.
-- Avoid stock phrasing and any sentence that states the theme.
+- Avoid stock phrasing and any sentence that states the theme. Avoid default machine-prose habits: "it wasn't X, it was Y" constructions, tidy triplets, summarizing closing lines, decorative adjectives, frequent em dashes, and phrases such as "the weight of", "something shifted", "a flicker of", "palpable", "unspoken".
+- Vary sentence rhythm with the character's state of mind, as the voice bible's rhythm targets describe. Long sentences are allowed and often needed.
 - Stay within about 10% of the word target."""
 
 

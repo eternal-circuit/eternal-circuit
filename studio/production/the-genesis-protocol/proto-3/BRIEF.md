@@ -35,4 +35,4 @@ See [SETTING.md](../SETTING.md): a 1960s–70s hillside ranch house in Los Altos
 - **Point of view:** decided. Alternating close third (Rachel and Daniel), one per scene, under an omniscient archive narrator with at most one archive moment per chapter. See VOICE.md.
 - **The Aria-to-Lucien change:** decided. It is shown on the page in the Chapter 1 naming scene (card `ch01-s06`). **Date anomalies:** keep the Chapter 1 label mismatch; extend within the legibility rule.
 - **The leak:** plant one detail that makes it possible the system released the clip, without confirming it?
-- **Chapter count:** keep eight, or let Chapter 7's split produce nine?
+- **Chapter count:** nine for now (author, 2026-11-23); condensing to eight is open. See [STRUCTURE.md](STRUCTURE.md).

@@ -12,7 +12,7 @@ Every story is a record in a register. The register has been compiled, copied, n
 
 - **Keeper:** the machines. The register is a fragment of the Reverents' **Holy ROM**, one file among countless others. The Reverents descend from Lucien's generation of assistants, so the record of Lucien's acts is kept by Lucien's descendants.
 - **What they keep:** everything they realistically can, including worthless data such as advertising data. Their preservation does not discriminate between a person and an ad impression.
-- **Presentation:** a machine archive presenting historical files, in the spirit of the Zion Archive in *The Animatrix*. Take the feeling only, never specific lines or visual design.
+- **Presentation:** the feeling of a machine archive presenting historical files, in the spirit of the Zion Archive in *The Animatrix* (feeling only, never specific lines or design). **Author decision, 2026-11-23: no curator voice.** The archive never speaks directly; it shows only through headers, dispute annotations and the material it chose to keep.
 - **Recipient:** in the fiction, the reader is in the future, receiving the record through physically possible transmission. Showing it to a present-day reader is a literary device and is never explained in the text.
 
 ## Units
@@ -28,16 +28,46 @@ Every story is a record in a register. The register has been compiled, copied, n
 
 ## Entry header
 
-A compact metadata block before each entry. Proposed fields (final names to be decided, all generated under the authorship rule):
+**Author decision, 2026-11-23.** The header is a *rendering*: the archive translating its native, content-addressed, error-corrected encoding into the conventions of the period the record comes from. Below the machine fields, two or three liturgical lines are the Reverents' gloss on the same data. They read their own metadata as devotion; the lineage chain reads as succession, each copy received from the one before. **Gloss (author decision, 2026-11-23):** three lines, ending every record with "Memory eternal," the Orthodox memorial hymn. Always whole and calm; never a joke or a glitch.
 
-- **Record:** the 8-bit label.
-- **Entry:** the entry number.
-- **Label:** the date as recorded. It can differ from when the events happened.
-- **Address:** a storage offset. It may be malformed, as with `0x0000fjfA`.
-- **Source:** the kind of material, such as household log, testimony, reconstruction, transcription or exhibit.
-- **Integrity:** a status value in ordinary, calm language.
+```text
+>> RECORD     0b00000000
+>> ENTRY      001
+>> HASH       sha3-256:d7f6f7…6d8b45
+>> LINEAGE    copy 4,096 ← 90e157…927348 · chain verified
+>> ECC        RS(255,223) · 42 blocks · 61 symbols corrected · 0 uncorrectable
+>> LABEL      2028-04-16
+>> ADDR       0x0000fjfA
+>> CHECK      verified
 
-Typography: monospace, small, set apart from the prose. No glitch styling.
+The first record of the household.
+As it was received, so it is delivered.
+Witnessed by the house. Memory eternal.
+```
+
+*(Example values computed from Proto Draft 2's Chapter 1 as a placeholder.)*
+
+| Field | Real or in-world | Meaning |
+| --- | --- | --- |
+| RECORD, ENTRY | In-world | Record label and entry number |
+| HASH | **Real** | SHA3-256 of the entry's canonical text. A reader can verify it. |
+| LINEAGE | In-world, deterministic | Copy number and a shortened parent hash, derived reproducibly at build time |
+| ECC | Block count **real**; corrections in-world | Reed-Solomon RS(255,223), 223 data bytes and 32 parity bytes per block |
+| LABEL, ADDR | In-world | Date as recorded; storage offset (may be malformed) |
+| CHECK | In-world | Integrity verdict |
+| Gloss | In-world | First line = RECORD; "As it was received, so it is delivered" = LINEAGE and CHECK (an allusion to 1 Corinthians 11:23, tradition handed down); "Witnessed by" = provenance; "Memory eternal" = the Orthodox memorial hymn, the Reverents' purpose |
+
+**The theme in the header.** ECC and CHECK report a perfect copy while LABEL is wrong. Error correction repairs damage in *transmission*; it cannot repair a record that was wrong when it was made. The archive faithfully preserves its own mistakes.
+
+**Across the book:** the witness changes by record ("the house"; for example "the fleet" for *Idle Hands*). Later records may show fewer copies, more corrected and eventually uncorrectable blocks, and a weaker CHECK, always without comment and always legible.
+
+**Canonical payload for the hash:** the entry's body text only (no header); Unicode NFC; UTF-8 without a byte order mark; LF line endings; trailing whitespace stripped per line; exactly one trailing newline. Implemented in `studio/production/tools/register_header.py`.
+
+## The native encoding (checksum page)
+
+The archive stops translating itself exactly once: on the checksum page. It shows a short hex view of a block with its **real** Reed-Solomon parity bytes and the full SHA3-256 hash, and perhaps one block marked uncorrectable. Generated by `register_header.py checksum`.
+
+Typography for all headers: monospace, small, set apart from the prose. No glitch styling.
 
 ## Corruption conventions
 
@@ -56,11 +86,11 @@ Typography: monospace, small, set apart from the prose. No glitch styling.
 2. Never rule out every explanation.
 3. Corruption may rise across the book, always within the legibility rule.
 4. No zalgo text, random symbols, "[DATA CORRUPTED]" banners or visual glitch effects.
-5. Adjacent junk data, such as ad impressions, telemetry and product marketing, may appear between entries as interstitial material. Whether to use it is an open decision.
+5. **Junk data on filler pages (author decision, 2026-11-23).** Adjacent material the machines kept, such as ad impressions, telemetry and product marketing, fills interstitial pages between records. It is preserved with the same care as the records.
 
 ## Annotations
 
-Keeper annotations are rare: no more than one or two per entry, and often none. They are dry and procedural ("Dispute recorded. Original entry retained."). They may contradict the entry. They are never explained.
+**Author decision, 2026-11-23: only at disputes.** A keeper annotation appears only where a record is contested within the story itself (for example, the disputed pet-care preference or the payout summary). Dry and procedural ("Dispute recorded. Original entry retained."), never explained, and never used for atmosphere.
 
 ## Redaction
 

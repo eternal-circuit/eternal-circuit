@@ -31,7 +31,7 @@ See [SETTING.md](../SETTING.md): a 1960s–70s hillside ranch house in Los Altos
 
 ## Open author decisions
 
-- **Frame design:** register entries as chapter headers? Annotations inside scenes? A closing register line? Who keeps the register?
+- **Frame design:** decided 2026-11-23. A combined system-log and liturgical header on every chapter (final form pending among `variants/ch01-s00-v6`–`v8`); no curator voice; annotations only at disputes; junk data on filler pages. Keeper: the machines (Holy ROM). See `studio/canon/ARCHIVE_FORMAT.md`.
 - **Point of view:** decided. Alternating close third (Rachel and Daniel), one per scene, under an omniscient archive narrator with at most one archive moment per chapter. See VOICE.md.
 - **The Aria-to-Lucien change:** decided. It is shown on the page in the Chapter 1 naming scene (card `ch01-s06`). **Date anomalies:** keep the Chapter 1 label mismatch; extend within the legibility rule.
 - **The leak:** plant one detail that makes it possible the system released the clip, without confirming it?

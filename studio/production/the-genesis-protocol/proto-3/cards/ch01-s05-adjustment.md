@@ -42,12 +42,12 @@ Whether Aria recorded or summarized the remark. Do not resolve it.
 
 ## Forbidden moves
 
-Do not end on an ominous line from the narrator. "Understood." or a register annotation is the last thing.
+Do not end on an ominous line from the narrator. This is no longer the chapter's last scene; scene 6 follows.
 
 ## Divergence
 
 - v1: ends on "Understood."
-- v2: ends on a one-line register annotation after the scene, if the frame allows it
+- v2: ends as Daniel's call ends and the office door opens
 - v3: ends on Rachel at the glass, looking in
 
 ## Voice

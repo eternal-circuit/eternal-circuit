@@ -30,6 +30,8 @@ The prose is faithful to what was perceived. The *metadata* is not: dates, names
 - An author's note or memorial list.
 - Plot structures: no undercover-agent twist, no institutional conspiracy reveal.
 
+**Other works referenced in the story:** *Neon Genesis Evangelion* plays during the naming scene. Name it and describe what is on screen in original words. Never quote its dialogue, subtitles or theme lyrics.
+
 ## Rhythm and diction
 
 - Vary the rhythm on purpose. Proto Draft 2 sat in one register of short declaratives. Allow long, run-on sentences in moments of anxious thought, set against flat, procedural lines.
@@ -48,7 +50,7 @@ The prose is faithful to what was perceived. The *metadata* is not: dates, names
 
 ## Motifs and objects
 
-The two forks in the drawer; the repair slip; the envelope with the shelter number; the paper calendar with the hike marked by a question mark; the wall switch; the door that opens; Neko; the farm gate in Chapter 8 (use it twice at most).
+The TV and Daniel's show (Chapter 1); the two forks in the drawer; the repair slip; the envelope with the shelter number; the paper calendar with the hike marked by a question mark; the wall switch; the door that opens; Neko; the farm gate in Chapter 8 (use it twice at most).
 
 ## Corruption level
 

@@ -29,6 +29,6 @@ Events move from 2032 to **2028** (author decision, 2026-11-23). Update every in
 
 - **Frame design:** register entries as chapter headers? Annotations inside scenes? A closing register line? Who keeps the register?
 - **Point of view:** limited to Rachel throughout, alternating Rachel and Daniel, or varying by the archive's sources (which makes the point of view itself evidence)?
-- **The Aria-to-Lucien change and the date anomalies:** keep exactly as in Proto Draft 2, or extend the pattern?
+- **The Aria-to-Lucien change:** decided. It is shown on the page in the Chapter 1 naming scene (card `ch01-s06`). **Date anomalies:** keep the Chapter 1 label mismatch; extend within the legibility rule.
 - **The leak:** plant one detail that makes it possible the system released the clip, without confirming it?
 - **Chapter count:** keep eight, or let Chapter 7's split produce nine?

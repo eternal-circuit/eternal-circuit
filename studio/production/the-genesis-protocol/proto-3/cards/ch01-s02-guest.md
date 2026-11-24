@@ -35,10 +35,11 @@ That "for now" will never be revisited. The reader should not be told.
 ## Must include
 
 - "I detect an unfamiliar presence."
-- The device is named Aria in this chapter only.
+- The product is called Aria. It stays "Aria" until scene 6.
 - No iOS app. Bob has an Android. "Bob can come over and turn my lights on."
 - Daniel's face when the experiment works on the first try.
 - Rachel's reflexive "Thank you," and Daniel's pleased glance.
+- The setup offers to personalize the assistant with a name. Daniel defers it ("later"). This sets up scene 6.
 
 ## Forbidden moves
 

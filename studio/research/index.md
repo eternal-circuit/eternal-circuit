@@ -8,6 +8,7 @@ This is the durable catalogue of research records. **A note is not a canon fact.
 | [EC-R-2026-002](notes/2026/EC-R-2026-002-asimov-indexed-axis.md) | Bounded authorization and envelope invariant for a single indexed axis | DRAFT | Model/software review 2026-11-16 | [EC-SCI-2026-002](reviews/EC-SCI-2026-002-asimov-indexed-axis.md) |
 | [EC-R-2026-003](notes/2026/EC-R-2026-003-agent-harnesses.md) | Agent harnesses, durable execution and effect authority | DRAFT | Source inspection 2026-11-16 | [EC-SCI-2026-003](reviews/EC-SCI-2026-003-asimov-effect-authority.md) |
 | [EC-R-2026-004](notes/2026/EC-R-2026-004-idle-hands-lost-shift.md) | Learned conveyor diagnosis and a paid overlap shift | DRAFT | Source inspection and synthetic model 2026-11-16 | [EC-SCI-2026-004](reviews/EC-SCI-2026-004-idle-hands-lost-shift.md) |
+| [EC-R-2026-005](notes/2026/EC-R-2026-005-technology-timeline-2026.md) | State of home AI, robotaxis and humanoid robots, November 2026 | DRAFT | Web sources accessed 2026-11-24 | Story technology timeline (handoff 2026-11-23) |
 
 ## How to add a note
 

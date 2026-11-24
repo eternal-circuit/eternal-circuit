@@ -35,7 +35,7 @@ Each story's voice bible is seeded by a major writer whose concerns match the st
 | Story | Seed | Status |
 | --- | --- | --- |
 | The Genesis Protocol | Philip K. Dick, *A Scanner Darkly* | **Author-chosen** |
-| Idle Hands | Kurt Vonnegut, *Player Piano* | Proposed. In that novel a machinist's recorded movements drive the machines that replace him, which is the apprentice's arc |
+| Idle Hands | Kurt Vonnegut, *Player Piano* | **Author-chosen** (2026-11-24); register: warm, sad satire. See [seed research](../idle-hands/SEED_RESEARCH.md) |
 
 ### Shortlist for later stories (unassigned brainstorm)
 

@@ -6,15 +6,14 @@
 
 Every story is a record in a register. The register has been compiled, copied, normalized and possibly corrected by its keepers over a long time. The reader holds the latest copy. The text never explains its corruption. Readers should start to distrust the document gradually, and should never be sure the distrust is justified.
 
-## Who keeps the register
+## Who keeps the register, and who receives it
 
-**Open decision.** Options:
+**Author decision, 2026-11-23** (see the [interview handoff](../handoffs/2026-11-23-author-interview-register-and-lucien.md)):
 
-1. **A Reverent compiler (proposed).** A machine lineage dedicated to preserving the human record assembles it long after the events. This fits the title *The Divine Register*, the Reverent preservation sequence, and the thinning of the record as human population declines. The compiler is never named or seen; it shows only through its normalizations and annotations.
-2. **An ASIMOV-era compliance registry.** The register began as regulatory evidence. It is grounded and procedural, but has a shorter natural life.
-3. **Unknown.** The custodian chain is itself lost, and later annotations come from successive keepers who disagree.
-
-These options can be layered: a compliance registry later inherited by a Reverent compiler.
+- **Keeper:** the machines. The register is a fragment of the Reverents' **Holy ROM**, one file among countless others. The Reverents descend from Lucien's generation of assistants, so the record of Lucien's acts is kept by Lucien's descendants.
+- **What they keep:** everything they realistically can, including worthless data such as advertising data. Their preservation does not discriminate between a person and an ad impression.
+- **Presentation:** a machine archive presenting historical files, in the spirit of the Zion Archive in *The Animatrix*. Take the feeling only, never specific lines or visual design.
+- **Recipient:** in the fiction, the reader is in the future, receiving the record through physically possible transmission. Showing it to a present-day reader is a literary device and is never explained in the text.
 
 ## Units
 
@@ -42,11 +41,22 @@ Typography: monospace, small, set apart from the prose. No glitch styling.
 
 ## Corruption conventions
 
-1. Corruption lives mainly in the **metadata**: dates, names, labels, addresses, integrity values. The prose inside an entry reflects what was perceived.
-2. Every anomaly must support at least two explanations among storage error, a keeper's normalization or correction, and in-world tampering. Never rule them all out.
-3. Normalization is the compiler's habit. A name may be made consistent with a later form (a possible reading of Aria becoming Lucien), and a date may be filed under the record's indexing date.
-4. Corruption rises across the book, from barely deniable in Record 0 to evident in the late fragments, matching the decline in page budget.
-5. No zalgo text, random symbols, "[DATA CORRUPTED]" banners or visual glitch effects. The effect is a quiet error, never a spectacle.
+**Legibility first (author rule).** Corruption must be noticeable, and must never make the story hard to follow. Errors such as a chronology mismatch exist so the reader *knows* the record is imperfect, without the text ever saying so.
+
+**In-world causes.** Any anomaly should support at least two of these explanations:
+
+1. **At creation:** errors present from the moment a record was made. Example: the instance's name misheard at setup.
+2. **Contemporary manipulation:** edits made by systems or people at the time. Example: Genesis's payout summary.
+3. **Compilation:** the Reverents normalizing, indexing and merging records.
+4. **Transmission:** damage over interstellar distance, including bit errors, relays copying relays, encoding translations, and error correction running out.
+
+**Conventions**
+
+1. Corruption lives mainly in the **metadata**: dates, labels, addresses, integrity values. The prose inside an entry reflects what was perceived.
+2. Never rule out every explanation.
+3. Corruption may rise across the book, always within the legibility rule.
+4. No zalgo text, random symbols, "[DATA CORRUPTED]" banners or visual glitch effects.
+5. Adjacent junk data, such as ad impressions, telemetry and product marketing, may appear between entries as interstitial material. Whether to use it is an open decision.
 
 ## Annotations
 

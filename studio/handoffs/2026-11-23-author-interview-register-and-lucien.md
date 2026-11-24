@@ -101,3 +101,9 @@ The binary nod is kept through record IDs (`0b…`), not the year. An optional a
 ## Addendum: ASIMOV harness and hardware (same session)
 
 The author wants a hardware layer in the inference path: an audited NPU with audited, possibly open-source firmware. Recorded in `studio/canon/ASIMOV_REQUIREMENTS.md` (working): attestation, signed inference receipts, update gating with local consent, no physical path from the NPU to actuators; five harness rules, each tied to a failure in *Genesis Protocol*; and the stack's limits. The `asimov/2037` design was moved to the new timeline (folder name kept).
+
+## Addendum: CAN+ (same session)
+
+**Decisions:** CAN+ is a CAN XL profile, not a new physical layer. The hardware addition is the topology: gated cells, galvanically isolated gates, and a protected spine in locked, supervised conduit. The main purpose is to prevent taps and listening devices, keep intruders off the network, and contain a node that holds the bus dominant. Cerebral holds the root keys. Daniel, as an internal alpha tester, has a service-cell credential beyond consumer access. Gates fail closed when the root is lost, with local life-safety rules inside each cell as the exception. Spine medium: supervised copper (default chosen; fiber recorded as an option).
+
+**Files:** `studio/experiments/can-plus/README.md` (specification) and `budget.py` (calculations); exhibit draft `studio/production/the-genesis-protocol/exhibits/can-plus-whitepaper-excerpt.md` with its provenance log.

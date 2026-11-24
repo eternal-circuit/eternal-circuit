@@ -6,6 +6,7 @@
 | --- | --- | --- |
 | **ASIMOV Stack** | Autonomous Systems Integration, Mediation, and Operational Verification. The fictional US compliance regime governing what autonomous systems may do, how covered actions are mediated, and what an auditor can verify. Named for Isaac Asimov. Becomes a US regime around 2032 after the Lucien backlash. | Working; [requirements](ASIMOV_REQUIREMENTS.md) |
 | **Aria** | The assistant product, built on the Genesis Protocol platform. Each household instance can be personalized with a name. | Author decision, 2026-11-23 |
+| **CAN+** | Cerebral's home network: a CAN XL profile with gated cells, a protected spine in supervised conduit, and a security wire. Cerebral holds the root keys. | Working; [specification](../experiments/can-plus/README.md) |
 | **Cerebral** | Daniel's employer, which runs the household alpha trial. | *Genesis Protocol* draft |
 | **Checksum** | The ninth, deuterocanonical record of *The Divine Register* (also called the flip bit). | Working; [sequence](DIVINE_REGISTER_SEQUENCE.md) |
 | **Checksum Creed** | A machine adaptation of the Nicene Creed. Its exact text is unwritten. | Working; [ritual notes](RITUAL_AND_ARCHIVE_DEVELOPMENT.md) |

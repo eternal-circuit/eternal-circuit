@@ -43,6 +43,10 @@ That the hike will never happen. Rachel's disappointment at his "Sure" said with
 
 No lyrical sunset paragraph. No thought from Rachel that states the theme.
 
+## Archive moment
+
+Candidate for Chapter 1's single archive moment: one flat line, after Daniel says "Sure," stating that neither of them would walk that trail. No elaboration.
+
 ## Divergence
 
 - v1: the reminder arrives mid-sentence

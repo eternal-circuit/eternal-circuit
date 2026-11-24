@@ -8,7 +8,13 @@ A reconstructed household record: testimony and scenes assembled by the register
 
 ## Point of view, person, tense, distance
 
-Close third person, past tense. Mostly Rachel, with Daniel's sections where the record has his material: his tickets, the review meetings, the café with Tom. Open decision (see the Proto Draft 3 brief): whether the point of view follows the *sources* explicitly, so that the change of point of view itself becomes evidence of what the archive holds.
+**Author decision (2026-11-24): alternating close third person, under an omniscient archive narrator.**
+
+1. **One point-of-view character per scene**, alternating between Rachel and Daniel. Inside a scene the prose stays in one head and never jumps.
+2. **The narrator is the archive.** Its omniscience is a reconstruction: a machine compiler that presumes to know minds from logs, recordings and notes. This is a quiet echo of Lucien's summaries.
+3. **Archive moments: at most one per chapter.** The narrator rises above the scene to state something neither character could know: a flash-forward, a fact from a log, a sentence about both of them at once. Flat in tone, never explained. Cards mark these in an **Archive moment** section.
+4. **Never inside Tom, Megan, Bob or Mrs. Thompson.** The archive holds Tom's signed correction, not his mind.
+5. Past tense throughout.
 
 ## Reliability
 

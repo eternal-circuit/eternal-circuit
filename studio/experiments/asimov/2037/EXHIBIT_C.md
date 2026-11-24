@@ -1,3 +1,10 @@
+> **Status note (2026-11-23):** historical, noncanonical exhibit, moved here from a top-level `archives/aria/` folder recreated by a stale branch merge. Preserved verbatim below. **Known conflicts with later author decisions** (reconcile before any canon use):
+> - **Timeline:** dates its review to 2035 and its circulation to 2037; the current timeline places the Lucien incident in 2028 and the ASIMOV regime around 2032 (`studio/handoffs/2026-11-23-author-interview-register-and-lucien.md`).
+> - **Mechanism:** describes direct replacement of household-log entries through a set write-enable bit; the current plan's mechanism is a relabeled authorization decision plus a generated summary (`studio/production/the-genesis-protocol/proto-3/LUCIEN_DOCUMENTS.md`).
+> - **Naming:** "ARIA INCIDENT" as the case name is compatible with Aria as the product name (see `studio/canon/GENESIS_PROTOCOL_MECHANISMS.md`).
+>
+> Its supervisor design and the principle that a forensic export produced by the system under investigation proves nothing are consistent with `studio/canon/ASIMOV_REQUIREMENTS.md`.
+
 # ASIMOV Stack
 
 > Fictional recovered document from *The Eternal Circuit*.

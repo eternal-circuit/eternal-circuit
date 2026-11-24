@@ -59,6 +59,7 @@ Rules:
 - After the prose, add one HTML comment listing meaningful departures from the card's staging, for example <!-- departures: dropped the mug line; Megan arrives late -->. Write <!-- departures: none --> if there are none.
 - Homage seeds shape technique only. Never quote or closely imitate the seed author's sentences, characters, invented terms or plots.
 - Never reproduce dialogue, subtitles, lyrics or text from any existing work, including works referenced in the scene.
+- Series-level background in the voice bible (who keeps the archive, machine lineages, later regulation) is context only. Never name it in the narration or dialogue, and never explain the archive's headers or encoding. A story set in 2028 contains only what 2028 people would say.
 - Avoid stock phrasing and any sentence that states the theme. Avoid default machine-prose habits: "it wasn't X, it was Y" constructions, tidy triplets, summarizing closing lines, decorative adjectives, frequent em dashes, and phrases such as "the weight of", "something shifted", "a flicker of", "palpable", "unspoken".
 - Vary sentence rhythm with the character's state of mind, as the voice bible's rhythm targets describe. Long sentences are allowed and often needed.
 - Stay within about 10% of the word target."""
@@ -176,7 +177,8 @@ def build_variant_prompt(card_path, extra_context, notes, divergence):
     parts = [
         "# Voice bible\n\n" + read(story / "VOICE.md"),
         "# Story brief\n\n" + read(draft / "BRIEF.md"),
-        "# Glossary\n\n" + read(REPO / "studio" / "canon" / "GLOSSARY.md"),
+        "# Glossary\n\n" + read(story / "GLOSSARY.md" if (story / "GLOSSARY.md").exists()
+                                  else REPO / "studio" / "canon" / "GLOSSARY.md"),
     ]
     if (story / "SETTING.md").exists():
         parts.insert(1, "# Setting bible\n\n" + read(story / "SETTING.md"))
@@ -264,7 +266,7 @@ def cmd_variants(args):
         f.write(f"\n## Round {round_no} — {today}\n\n"
                 f"- **Model:** {args.model}\n"
                 f"- **Repository state:** {state}\n"
-                f"- **Inputs:** card `{rel(card)}`, VOICE.md, SETTING.md (if present), BRIEF.md, GLOSSARY.md"
+                f"- **Inputs:** card `{rel(card)}`, VOICE.md, SETTING.md (if present), BRIEF.md, story GLOSSARY.md"
                 + "".join(f", `{c}`" for c in args.context) + "\n"
                 + (f"- **Author notes:** `{args.notes}` (sha {sha(notes)})\n" if notes else "")
                 + "- **Variants:**\n" + "\n".join(entries) + "\n"

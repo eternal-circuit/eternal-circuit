@@ -1,6 +1,6 @@
 # Idle Hands — voice bible
 
-**Status:** STUB, 2026-11-23. Seed proposed in [BOOK_SPEC.md](../the-divine-register/BOOK_SPEC.md), pending author approval. · **Register ID:** `0b00000001` · **Seed:** Kurt Vonnegut, *Player Piano* · **Budget:** 64 pages, about 16,000–17,500 words
+**Status:** STUB, 2026-11-23. Seed is a proposal in [BOOK_SPEC.md](../the-divine-register/BOOK_SPEC.md), pending author approval. · **Register ID:** `0b00000001` · **Seed:** Kurt Vonnegut, *Player Piano* · **Budget:** 64 pages, about 16,000–17,500 words
 
 ## Record type
 

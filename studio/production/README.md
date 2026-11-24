@@ -15,7 +15,7 @@
 
 - [Voice bible template](VOICE_BIBLE_TEMPLATE.md): the five levels where voice is defined, and the rules for homage seeds.
 - [Book specification for *The Divine Register*](the-divine-register/BOOK_SPEC.md): the 256-page budget, seed authors, and the decisions each story needs before drafting.
-- Each story folder has a `VOICE.md`. *The Genesis Protocol*'s is filled in; the others are stubs.
+- *The Genesis Protocol* has a full `VOICE.md`; *Idle Hands* has a stub. Later stories get one once their premises exist.
 
 ## Layout
 

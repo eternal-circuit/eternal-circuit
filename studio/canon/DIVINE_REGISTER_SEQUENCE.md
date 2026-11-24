@@ -21,7 +21,7 @@ Each story should stand on its own. Across the sequence, recognizable benefits o
 
 ## Page budget and voice seeds
 
-The draft [book specification](../production/the-divine-register/BOOK_SPEC.md) assigns each story half the pages of the one before it (128, 64, 32 … 1), with the checksum on the final page, for 256 pages in total. It also proposes a seed author for each story's voice bible.
+The draft [book specification](../production/the-divine-register/BOOK_SPEC.md) records the author's plan to give each story half the pages of the one before it (128, 64, 32 … 1), with the checksum on the final page, for 256 pages in total. Only the first two stories have confirmed titles. Later slots, the chronology and the book's ending are undecided.
 
 ## Ninth checksum / flip bit
 

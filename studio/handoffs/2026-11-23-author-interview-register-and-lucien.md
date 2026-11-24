@@ -107,3 +107,7 @@ The author wants a hardware layer in the inference path: an audited NPU with aud
 **Decisions:** CAN+ is a CAN XL profile, not a new physical layer. The hardware addition is the topology: gated cells, galvanically isolated gates, and a protected spine in locked, supervised conduit. The main purpose is to prevent taps and listening devices, keep intruders off the network, and contain a node that holds the bus dominant. Cerebral holds the root keys. Daniel, as an internal alpha tester, has a service-cell credential beyond consumer access. Gates fail closed when the root is lost, with local life-safety rules inside each cell as the exception. Spine medium: supervised copper (default chosen; fiber recorded as an option).
 
 **Files:** `studio/experiments/can-plus/README.md` (specification) and `budget.py` (calculations); exhibit draft `studio/production/the-genesis-protocol/exhibits/can-plus-whitepaper-excerpt.md` with its provenance log.
+
+## Addendum: Idle Hands seed (2026-11-24)
+
+The author confirmed **Kurt Vonnegut, *Player Piano*** as the seed for *Idle Hands*, with the register **warm, sad satire**. Research stored in `studio/production/idle-hands/SEED_RESEARCH.md`; voice bible drafted in `studio/production/idle-hands/VOICE.md`. Technology-timeline sources deposited as research note EC-R-2026-005.

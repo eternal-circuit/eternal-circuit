@@ -10,7 +10,7 @@ In our terms: everyone in the book wants to be seen truly. Rachel wants her expe
 
 **Recurring question: what does the house see?** Rachel asks it and Tom answers technically (sample 11). Daniel watches himself from outside in Rachel's recording (sample 12). The review memo cannot answer it for Lucien. The final question turns it around.
 
-**Proposed epigraph for Record 0** (King James Version, public domain; pending author approval):
+**Epigraph for Record 0** (King James Version, public domain; approved by the author, 2026-11-23):
 
 > For now we see through a glass, darkly; but then face to face: now I know in part; but then shall I know even as also I am known. — 1 Corinthians 13:12
 

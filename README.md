@@ -16,7 +16,7 @@ A software engineer brings an experimental home assistant into the house he shar
 
 **[Read the story](stories/the-divine-register/genesis-protocol.md)** · [Browse *The Divine Register*](stories/the-divine-register/README.md) · [Earlier complete drafts](stories/the-divine-register/proto/README.md)
 
-This is the **current author-selected main manuscript**. It is not a claim that every speculative mechanism has independently passed the project's scientific review.
+This is the **current author-selected main manuscript**. **Proto Draft 3 is in development** with a revised timeline (2028), a new opening and a new structure; its plan lives in [`studio/production/the-genesis-protocol/`](studio/production/the-genesis-protocol/). Until it is selected, Proto Draft 2 remains the version to read. It is not a claim that every speculative mechanism has independently passed the project's scientific review.
 
 ## The larger series
 

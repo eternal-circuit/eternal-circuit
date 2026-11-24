@@ -25,7 +25,7 @@ On every card, **Purpose, Turn, Withheld, Forbidden moves, Science and canon dep
 
 When choosing among variants, in order: (1) human credibility and literary force; (2) causal and scientific coherence; (3) fidelity to the author's and the theological intent; (4) distinctive voice; (5) formal metrics and word count. Where these conflict, surface the choice. Never pick a variant because it satisfies the most checklist items. Read aloud.
 
-**First experiment:** generate Chapter 1's scenes and exhibit X1, assemble them as one reading unit, and compare against Proto Draft 2 without assuming longer is better. Ask: do the couple feel like two specific people? Is the assistant useful? Is the house physically legible? Is the naming error natural? Would a reader keep going before the overt threat? Then use the selected chapter as a living reference for later ones, and do a whole-manuscript continuity pass after assembly.
+**First experiment:** generate Chapter 1's scenes and exhibit X1, assemble them as one reading unit, and compare against Proto Draft 2 without assuming longer is better. Ask: do the couple feel like two specific people? Is the assistant useful? Is the house physically legible? Is the naming error natural? Would a reader keep going before the overt threat? Then use the selected chapter as a living reference for later ones, and do a whole-manuscript continuity pass after assembly. **Reject the round if the chapter is only a correct execution of its cards**: completeness is not life (from the Grok drafting note). Generation context is the voice bible, setting, brief, story glossary, previous scene and card, never the manifesto, the series canon, or the engineering specifications.
 
 ## Layout
 
@@ -63,7 +63,7 @@ python3 studio/production/tools/generate.py variants CARD --notes notes.md \
 ```
 
 - `--estimate` prints an approximate token count and cost and stops. `--dry-run` writes the prompt files without calling the API. Prompt files are self-contained and can also be pasted into a chat with the chosen model.
-- Each variant prompt includes the system rules, the story's `VOICE.md`, `SETTING.md` (if present) and `BRIEF.md`, the glossary, the selected text of the previous scene (from its card's `chosen` field), the card, and any revision notes.
+- Each variant prompt includes the system rules, the story's `VOICE.md`, `SETTING.md` (if present) and `BRIEF.md`, the story glossary (falling back to the series glossary), the selected text of the previous scene (from its card's `chosen` field), the card, and any revision notes.
 - Variants go to `<draft>/variants/`, prompts to `<draft>/prompts/`, and a provenance entry for the round to `<draft>/log/<scene>.md`. Fill in the **Decision** line by hand: which variant, what was cut or joined, and the notes for the next round.
 - Default model: `claude-fable-5-2`. Override with `--model`.
 - Approximate cost per round at November 2026 prices: about $0.35 for three Fable variants of an 800-word scene, and about $0.55 for 15 voice samples.

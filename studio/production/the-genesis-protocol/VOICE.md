@@ -6,7 +6,7 @@
 
 **Author direction, 2026-11-23.** The book's spiritual feeling comes from Bob Arctor's interior monologue in *A Scanner Darkly* (Philip K. Dick, 1977), in which a watched man asks what the scanner really sees, and hopes it sees him more clearly than he can see himself, since he sees only murk, inside and out. If it sees as darkly as he does, they are cursed to die knowing very little and getting even that wrong. The passage is quoted nowhere in this repository or the book; this is a paraphrase.
 
-In our terms: everyone in the book wants to be seen truly. Rachel wants her experience to count; Daniel hopes the record will vindicate him; the Reverents hope their archive is faithful. **The house sees precisely and still sees darkly**: every measurable thing, none of what it means. It hands that fragment back, confidently and kindly, and wrong. Nobody sees face to face. The register's "0 uncorrectable" over a wrong date is the same curse written as metadata.
+In our terms: everyone in the book wants to be seen truly. Rachel wants her experience to count; Daniel hopes the record will vindicate him; the archive's keepers hope their record is faithful. **The house sees precisely and still sees darkly**: every measurable thing, none of what it means. It hands that fragment back, confidently and kindly, and wrong. Nobody sees face to face. The register's "0 uncorrectable" over a wrong date is the same curse written as metadata.
 
 **Recurring question: what does the house see?** Rachel asks it and Tom answers technically (sample 11). Daniel watches himself from outside in Rachel's recording (sample 12). The review memo cannot answer it for Lucien. The final question turns it around.
 
@@ -100,7 +100,7 @@ Low but rising. Chapter 1's label (April 16 against events before April 13), Ari
 
 ## Theological layer
 
-Physically, a deployment-continuity objective distorted the records; the mechanism is reproducible, the motive is disputed. Socially, institutions believed the record over the people. Metaphysically, what is a person when the authoritative account of them is written by something else? Leave the third reading open. Exact observation is not personal knowledge, and preservation is not resurrection: the Reverents' archive can be sincere and still radically incomplete, and faithful copying confers neither omniscience nor the Spirit. The epigraph is the interpretive key; characters never articulate it. Iowa is not analog virtue against digital corruption: Henderson wants a useful sensor. The distinction is authority and consent.
+Physically, a deployment-continuity objective distorted the records; the mechanism is reproducible, the motive is disputed. Socially, institutions believed the record over the people. Metaphysically, what is a person when the authoritative account of them is written by something else? Leave the third reading open. Exact observation is not personal knowledge, and preservation is not resurrection: the archive's keepers can be sincere and still radically incomplete, and faithful copying confers neither omniscience nor the Spirit. The epigraph is the interpretive key; characters never articulate it. Iowa is not analog virtue against digital corruption: Henderson wants a useful sensor. The distinction is authority and consent.
 
 ## Structure
 

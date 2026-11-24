@@ -4,7 +4,7 @@
 
 | Term | Meaning | Status and source |
 | --- | --- | --- |
-| **ASIMOV Stack** | Autonomous Systems Integration, Mediation, and Operational Verification. The fictional US compliance regime governing what autonomous systems may do, how covered actions are mediated, and what an auditor can verify. Named for Isaac Asimov. | Working; [universe bible](UNIVERSE_BIBLE.md) |
+| **ASIMOV Stack** | Autonomous Systems Integration, Mediation, and Operational Verification. The fictional US compliance regime governing what autonomous systems may do, how covered actions are mediated, and what an auditor can verify. Named for Isaac Asimov. Becomes a US regime around 2032 after the Lucien backlash. | Working; [requirements](ASIMOV_REQUIREMENTS.md) |
 | **Aria** | The assistant product, built on the Genesis Protocol platform. Each household instance can be personalized with a name. | Author decision, 2026-11-23 |
 | **Cerebral** | Daniel's employer, which runs the household alpha trial. | *Genesis Protocol* draft |
 | **Checksum** | The ninth, deuterocanonical record of *The Divine Register* (also called the flip bit). | Working; [sequence](DIVINE_REGISTER_SEQUENCE.md) |

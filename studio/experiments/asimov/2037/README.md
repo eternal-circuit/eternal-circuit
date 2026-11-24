@@ -1,4 +1,6 @@
-# ASIMOV in 2037
+# ASIMOV in 2037 (timeline moved to about 2032)
+
+> **Timeline update, 2026-11-23:** the author moved the Lucien incident to 2028 and the ASIMOV compliance stack to about 2032. The periods in the table below have been shifted accordingly. The folder keeps its original name so existing links still work. Requirements are summarized in [ASIMOV harness and hardware requirements](../../../canon/ASIMOV_REQUIREMENTS.md). Author direction: Lucien was the *first* public backlash against AI and is remembered as the founding case, not one precursor among several.
 
 **Status:** noncanonical design proposal. The date and adoption path are scenario assumptions. The [2026 research deposit](../../../research/notes/2026/EC-R-2026-003-agent-harnesses.md) records the evidence. The earlier [indexed-axis prototype](../README.md) establishes a narrower conditional result.
 
@@ -8,9 +10,9 @@ In the [Genesis Protocol draft](../../../../stories/the-divine-register/genesis-
 
 | Proposed period | Development | Pressure or failure mode |
 | --- | --- | --- |
-| 2032–34 | Builders and insurers first require independent egress, local disable controls and separation of device updates from resident permissions. | Retrofitting existing switches and controllers is expensive. Compliance may cover only new devices. |
-| 2034–36 | Procurement schemes require an effect inventory, local consent and versioned access profiles. Labs test reset, outage and malicious update cases. | Vendors have an incentive to declare indirect effect paths out of scope. Small vendors struggle to obtain certification. |
-| 2037 | ASIMOV is a U.S. compliance stack for selected installed systems. Local verifiers enforce typed permissions; accreditation, claims investigation and appeals sit outside the device. | A signed receipt proves what a key attested. Access to evidence and the power to classify an operation still determine who can contest a decision. |
+| 2028–30 | Builders and insurers first require independent egress, local disable controls and separation of device updates from resident permissions. | Retrofitting existing switches and controllers is expensive. Compliance may cover only new devices. |
+| 2030–31 | Procurement schemes require an effect inventory, local consent and versioned access profiles. Labs test reset, outage and malicious update cases. | Vendors have an incentive to declare indirect effect paths out of scope. Small vendors struggle to obtain certification. |
+| ~2032 | ASIMOV is a U.S. compliance stack for selected installed systems. Local verifiers enforce typed permissions; accreditation, claims investigation and appeals sit outside the device. | A signed receipt proves what a key attested. Access to evidence and the power to classify an operation still determine who can contest a decision. |
 
 This follows the [universe bible's working direction](../../../canon/UNIVERSE_BIBLE.md). Adoption varies by jurisdiction, retrofit cost and sector. No new compute breakthrough is required for the trust boundary itself.
 

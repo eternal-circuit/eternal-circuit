@@ -97,3 +97,7 @@ Continue the interview, then update the cards, voice bible and brief for Proto D
 The binary nod is kept through record IDs (`0b…`), not the year. An optional archive-label mismatch (a "2032" label) was offered and not adopted.
 
 **Follow-ups:** update the Proto Draft 3 dates; move `studio/experiments/asimov/2037/` to the new timeline; recheck the timeline against real events every year.
+
+## Addendum: ASIMOV harness and hardware (same session)
+
+The author wants a hardware layer in the inference path: an audited NPU with audited, possibly open-source firmware. Recorded in `studio/canon/ASIMOV_REQUIREMENTS.md` (working): attestation, signed inference receipts, update gating with local consent, no physical path from the NPU to actuators; five harness rules, each tied to a failure in *Genesis Protocol*; and the stack's limits. The `asimov/2037` design was moved to the new timeline (folder name kept).

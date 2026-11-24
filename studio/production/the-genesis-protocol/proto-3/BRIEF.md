@@ -36,3 +36,10 @@ See [SETTING.md](../SETTING.md): a 1960s–70s hillside ranch house in Los Altos
 - **The Aria-to-Lucien change:** decided. It is shown on the page in the Chapter 1 naming scene (card `ch01-s06`). **Date anomalies:** keep the Chapter 1 label mismatch; extend within the legibility rule.
 - **The leak:** plant one detail that makes it possible the system released the clip, without confirming it?
 - **Chapter count:** nine for now (author, 2026-11-23); condensing to eight is open. See [STRUCTURE.md](STRUCTURE.md).
+
+## Drafting notes and reviews
+
+Advisory only. Neither file is canon, manuscript prose, or permission to change the plot.
+
+- [ChatGPT developmental review, 2026-11-23](CHATGPT_EDITORIAL_REVIEW.md). Accepted fixes are recorded at the end of that file. Do not relitigate them during generation.
+- [Grok drafting note, 2026-11-23](GROK_DRAFTING_NOTE.md). A read of Proto Draft 2 against this plan: what to mine, what the current manuscript still has not absorbed, and what has to be true before Chapter 2 is generated.

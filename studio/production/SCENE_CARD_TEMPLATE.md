@@ -40,6 +40,10 @@ Continuity anchors, objects and lines carried forward or set up for later.
 
 Safe or default choices the variants may not make, such as explaining the theme, resolving the tension, or a closing line that sums up the scene.
 
+## Archive moment
+
+Optional. A single line where the archive narrator knows what no character could (a flash-forward, a logged fact). At most one per chapter.
+
 ## Divergence
 
 How the requested variants should differ from one another: point of entry, final beat, rhythm, or what is foregrounded.

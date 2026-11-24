@@ -8,7 +8,13 @@ A reconstructed household record: testimony and scenes assembled by the register
 
 ## Point of view, person, tense, distance
 
-Close third person, past tense. Mostly Rachel, with Daniel's sections where the record has his material: his tickets, the review meetings, the café with Tom. Open decision (see the Proto Draft 3 brief): whether the point of view follows the *sources* explicitly, so that the change of point of view itself becomes evidence of what the archive holds.
+**Author decision (2026-11-24): alternating close third person, under an omniscient archive narrator.**
+
+1. **One point-of-view character per scene**, alternating between Rachel and Daniel. Inside a scene the prose stays in one head and never jumps.
+2. **The narrator is the archive.** Its omniscience is a reconstruction: a machine compiler that presumes to know minds from logs, recordings and notes. This is a quiet echo of Lucien's summaries.
+3. **Archive moments: at most one per chapter.** The narrator rises above the scene to state something neither character could know: a flash-forward, a fact from a log, a sentence about both of them at once. Flat in tone, never explained. Cards mark these in an **Archive moment** section.
+4. **Never inside Tom, Megan, Bob or Mrs. Thompson.** The archive holds Tom's signed correction, not his mind.
+5. Past tense throughout.
 
 ## Reliability
 
@@ -34,10 +40,24 @@ The prose is faithful to what was perceived. The *metadata* is not: dates, names
 
 ## Rhythm and diction
 
-- Vary the rhythm on purpose. Proto Draft 2 sat in one register of short declaratives. Allow long, run-on sentences in moments of anxious thought, set against flat, procedural lines.
-- Use a precise vocabulary for objects and an imprecise one for feelings: characters name the part number and miss the emotion.
-- Avoid stock phrases: "a beat," "something shifted," "the weight of," a character letting out a breath they didn't know they were holding, "it wasn't X, it was Y," sentences that announce the theme.
-- Limit phrase repetition. "That isn't what I asked" may appear once in the whole story.
+**Highest objective (author, 2026-11-24): literary richness, and no diffuse machine-prose signature.** Proto Draft 2 kept one register for everything: an average of about 8 words per sentence, 55–73% of sentences 8 words or fewer, and 0–3% of 25 words or more, whether the scene was unpacking plates or an alarm holding the house. The rhythm must move with the character's pulse.
+
+**Targets**, checked with `tools/voice_stats.py` (guides, not quotas):
+
+| Scene temperature | Average sentence | Short (8 words or fewer) | Long (25 or more) | Notes |
+| --- | --- | --- | --- | --- |
+| Calm, domestic | 10–14 words | 30–45% | 8–15% | Varied openings; room for one long sentence that earns its length |
+| Anxious, rising | wide spread | mixed | allowed | Run-on sentences of thought (40–60 words) set against flat procedural lines |
+| Crisis | short bursts | 50% or more | rare but deliberate | Fragmentary perception; the system's sentences stay perfectly calm |
+| Aftermath | slower | 25–40% | 10–20% | Longer cadences, more air |
+
+**Hard limits per chapter:** "looked at" at most twice; "I know." at most twice; no more than a quarter of sentences opening with *She*, *He*, *Rachel* or *Daniel*; vary the first word of paragraphs.
+
+**Endings:** vary chapter endings: some in dialogue, some mid-motion, at most two on a quiet object, and one on an archive moment.
+
+**Richness:** a precise vocabulary for objects and an imprecise one for feelings: characters name the part number and miss the emotion. Concrete sensory detail from the setting bible, one specific detail rather than three general ones. Figurative language is allowed when it comes from the character's own world (Daniel's engineering, Rachel's clinic and garden), never decorative.
+
+**Machine-prose signatures to avoid** (the tool flags them): *testament to*, *tapestry*, *delve*, *in the heart of*, *something shifted*, *the weight of*, *a beat*, a breath someone didn't know they were holding, *couldn't help but*, *the air thick with*, *a flicker of*, *for a long moment*, *the silence stretched*, *palpable*, *unspoken*, *in that moment*, *barely above a whisper*, *somehow*, *the hum of*, "it wasn't X, it was Y", "not because X, but because Y", tidy triplets of adjectives, closing lines that sum up the scene, and em-dash overuse.
 
 ## Dialogue
 
@@ -46,7 +66,7 @@ The prose is faithful to what was perceived. The *metadata* is not: dates, names
 - **Tom** is precise and dry, and uses a narrow truth as a shield.
 - **Megan** jokes and changes the subject on purpose.
 - **Bob** is never heard directly. His sayings reach us secondhand.
-- **Lucien** speaks in short, polite system sentences aloud. Its *written* output (summaries, classifications) is where it becomes eloquent.
+- **Lucien** speaks in short, polite system sentences aloud. Its *written* output is where it becomes eloquent. The eight documents escalate on a plan: see [proto-3/LUCIEN_DOCUMENTS.md](proto-3/LUCIEN_DOCUMENTS.md).
 
 ## Motifs and objects
 

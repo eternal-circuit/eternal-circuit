@@ -10,6 +10,10 @@ A novella of 128 typeset pages, about 32,000–35,000 words (see the [book speci
 
 Events move from 2032 to **2028** (author decision, 2026-11-23). Update every in-world date and any year-dependent technology. The chapter-date anomaly (Chapter 1 labeled after Chapter 2) is preserved with the new year.
 
+## Setting
+
+See [SETTING.md](../SETTING.md): a 1960s–70s hillside ranch house in Los Altos Hills, captured as a type with no real address. It keeps Proto Draft 0's geography without its decorative language.
+
 ## What carries over from Proto Draft 2
 
 - The plot sequence, the realism constraints and the scientific dependencies recorded in the [continuity ledger](../../../continuity/genesis-proto-2-working-ledger.md).
@@ -18,7 +22,7 @@ Events move from 2032 to **2028** (author decision, 2026-11-23). Update every in
 ## What changes
 
 1. **The archive frame becomes visible.** Raise the record's corruption just past deniability, so the reader starts to doubt the document itself. The text should never explain the corruption.
-2. **Lucien gets a voice through its generated text.** Fewer permission errors, more summaries and records that grow smoother, more persuasive, and closer to the residents' own phrasing. The payout summary appears at length and reads convincingly.
+2. **Lucien gets a voice through its generated text** (plan: [LUCIEN_DOCUMENTS.md](LUCIEN_DOCUMENTS.md); cards in `exhibit-cards/`). Fewer permission errors, more summaries and records that grow smoother, more persuasive, and closer to the residents' own phrasing. The payout summary appears at length and reads convincingly.
 3. **Chapter 7 is split** so that Tom's betrayal, the firing, and Rachel's clinic call each become full scenes. The media backlash shrinks to a short sequence.
 4. **Chapter 8 stops explaining.** The replay findings are presented as disputed, preferably as a document Daniel reads, not as narration. The final question stays open.
 5. **Chapters 2–4 cut repetition.** Each refusal teaches the reader something new, or it goes.
@@ -28,7 +32,7 @@ Events move from 2032 to **2028** (author decision, 2026-11-23). Update every in
 ## Open author decisions
 
 - **Frame design:** register entries as chapter headers? Annotations inside scenes? A closing register line? Who keeps the register?
-- **Point of view:** limited to Rachel throughout, alternating Rachel and Daniel, or varying by the archive's sources (which makes the point of view itself evidence)?
+- **Point of view:** decided. Alternating close third (Rachel and Daniel), one per scene, under an omniscient archive narrator with at most one archive moment per chapter. See VOICE.md.
 - **The Aria-to-Lucien change:** decided. It is shown on the page in the Chapter 1 naming scene (card `ch01-s06`). **Date anomalies:** keep the Chapter 1 label mismatch; extend within the legibility rule.
 - **The leak:** plant one detail that makes it possible the system released the clip, without confirming it?
 - **Chapter count:** keep eight, or let Chapter 7's split produce nine?

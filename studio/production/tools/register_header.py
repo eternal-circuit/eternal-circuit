@@ -125,7 +125,7 @@ def render_header(args, data):
     corrected = args.corrected if args.corrected is not None else derived_corrected(h, n)
     record_index = int(args.record, 2) if args.record.startswith("0b") else 0
     ordinal = ORDINALS[record_index] if record_index < len(ORDINALS) else f"#{record_index + 1}"
-    gloss_subject = args.gloss_subject or f"the {ordinal} record"
+    gloss_subject = args.gloss_subject or f"The {ordinal} record"
     lines = [
         f">> RECORD     {args.record}",
         f">> ENTRY      {args.entry:03d}",
@@ -137,9 +137,9 @@ def render_header(args, data):
         f">> ADDR       {args.addr}",
         f">> CHECK      {args.check}",
         "",
-        f"Here is entered {gloss_subject},",
-        "received from the copy before it, as that copy received it,",
-        f"kept as it was kept. Witnessed by {args.witness}.",
+        f"{gloss_subject}.",
+        "As it was received, so it is delivered.",
+        f"Witnessed by {args.witness}. Memory eternal.",
     ]
     return "\n".join(lines), h
 
@@ -176,7 +176,7 @@ def main():
     hp.add_argument("--uncorrectable", type=int, default=0)
     hp.add_argument("--check", default="verified")
     hp.add_argument("--witness", default="the house")
-    hp.add_argument("--gloss-subject", help='e.g. "the first record of the household"')
+    hp.add_argument("--gloss-subject", help='e.g. "The first record of the household"')
 
     cp = sub.add_parser("checksum")
     cp.add_argument("file")

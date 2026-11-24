@@ -76,5 +76,5 @@ Use it when choosing between variants. It is a guide to the author's judgment, n
 ```sh
 python3 studio/production/tools/register_header.py header ENTRY.md \
     --record 0b00000000 --entry 1 --label 2028-04-16 --addr 0x0000fjfA \
-    --copy 4096 --witness "the house" --gloss-subject "the first record of the household" --corrected 61
+    --copy 4096 --witness "the house" --gloss-subject "The first record of the household" --corrected 61
 ```

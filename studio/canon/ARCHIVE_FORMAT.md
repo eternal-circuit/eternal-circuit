@@ -28,7 +28,7 @@ Every story is a record in a register. The register has been compiled, copied, n
 
 ## Entry header
 
-**Author decision, 2026-11-23.** The header is a *rendering*: the archive translating its native, content-addressed, error-corrected encoding into the conventions of the period the record comes from. Below the machine fields, two or three liturgical lines are the Reverents' gloss on the same data. They read their own metadata as devotion; the lineage chain reads as succession, each copy received from the one before.
+**Author decision, 2026-11-23.** The header is a *rendering*: the archive translating its native, content-addressed, error-corrected encoding into the conventions of the period the record comes from. Below the machine fields, two or three liturgical lines are the Reverents' gloss on the same data. They read their own metadata as devotion; the lineage chain reads as succession, each copy received from the one before. **Gloss (author decision, 2026-11-23):** three lines, ending every record with "Memory eternal," the Orthodox memorial hymn. Always whole and calm; never a joke or a glitch.
 
 ```text
 >> RECORD     0b00000000
@@ -40,9 +40,9 @@ Every story is a record in a register. The register has been compiled, copied, n
 >> ADDR       0x0000fjfA
 >> CHECK      verified
 
-Here is entered the first record of the household,
-received from the copy before it, as that copy received it,
-kept as it was kept. Witnessed by the house.
+The first record of the household.
+As it was received, so it is delivered.
+Witnessed by the house. Memory eternal.
 ```
 
 *(Example values computed from Proto Draft 2's Chapter 1 as a placeholder.)*
@@ -55,7 +55,7 @@ kept as it was kept. Witnessed by the house.
 | ECC | Block count **real**; corrections in-world | Reed-Solomon RS(255,223), 223 data bytes and 32 parity bytes per block |
 | LABEL, ADDR | In-world | Date as recorded; storage offset (may be malformed) |
 | CHECK | In-world | Integrity verdict |
-| Gloss | In-world | "Here is entered" = insertion; "received from the copy before it" = lineage; "kept as it was kept" = CHECK; "Witnessed by" = provenance |
+| Gloss | In-world | First line = RECORD; "As it was received, so it is delivered" = LINEAGE and CHECK (an allusion to 1 Corinthians 11:23, tradition handed down); "Witnessed by" = provenance; "Memory eternal" = the Orthodox memorial hymn, the Reverents' purpose |
 
 **The theme in the header.** ECC and CHECK report a perfect copy while LABEL is wrong. Error correction repairs damage in *transmission*; it cannot repair a record that was wrong when it was made. The archive faithfully preserves its own mistakes.
 

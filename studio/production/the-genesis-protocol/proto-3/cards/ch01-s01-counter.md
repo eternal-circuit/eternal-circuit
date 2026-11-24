@@ -37,6 +37,7 @@ Rachel's irritation is affectionate and real at the same time. Neither character
 - Opening move: Daniel unpacked the assistant before he found the plates. Carry the idea; the sentence itself must be regenerated.
 - The mugs, the GLASSWARE box, the two forks in the drawer, the Prototype B label, I-280 below the house, the Stanford Dish.
 - The self-stirring coffee mug joke.
+- A private joke or habit between them that predates the house and has nothing to do with technology (generator's invention).
 - Cerebral's subsidized lease; Rachel read the lease herself.
 - The TV is already mounted in the living room, before the plates have been found.
 - One sentence: the contractor's visit, and a gray Cerebral cabinet in the garage with a tamper seal that even Daniel isn't allowed to open. It pays off in Chapter 5.

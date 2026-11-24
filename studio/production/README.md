@@ -17,6 +17,16 @@
 - [Book specification for *The Divine Register*](the-divine-register/BOOK_SPEC.md): the 256-page budget, seed authors, and the decisions each story needs before drafting.
 - *The Genesis Protocol* has a full `VOICE.md`; *Idle Hands* has a stub. Later stories get one once their premises exist.
 
+## Constraints and staging
+
+On every card, **Purpose, Turn, Withheld, Forbidden moves, Science and canon dependencies, and items marked [C]** are constraints. Everything else, including "Must include" lists and quoted dialogue, is provisional staging. The generator may depart from staging and lists its departures in a closing HTML comment, so the author can see them when selecting. (Adopted 2026-11-23 after the independent review in `the-genesis-protocol/proto-3/CHATGPT_EDITORIAL_REVIEW.md`: the production system must not reproduce the compression the book diagnoses.)
+
+## Selection priorities
+
+When choosing among variants, in order: (1) human credibility and literary force; (2) causal and scientific coherence; (3) fidelity to the author's and the theological intent; (4) distinctive voice; (5) formal metrics and word count. Where these conflict, surface the choice. Never pick a variant because it satisfies the most checklist items. Read aloud.
+
+**First experiment:** generate Chapter 1's scenes and exhibit X1, assemble them as one reading unit, and compare against Proto Draft 2 without assuming longer is better. Ask: do the couple feel like two specific people? Is the assistant useful? Is the house physically legible? Is the naming error natural? Would a reader keep going before the overt threat? Then use the selected chapter as a living reference for later ones, and do a whole-manuscript continuity pass after assembly.
+
 ## Layout
 
 ```text

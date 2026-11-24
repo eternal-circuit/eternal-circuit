@@ -15,6 +15,8 @@ variants_requested: 3
 chosen: ""               # variant ID(s) once selected
 ---
 
+<!-- Constraints: Purpose, Turn, Withheld, Forbidden moves, Science and canon dependencies, and any [C] item. Everything else is provisional staging. -->
+
 ## Purpose
 
 What the scene must accomplish, in one or two sentences. Name the scene's real subject if it differs from the surface action.
@@ -34,7 +36,7 @@ What the scene must not say outright. What the reader should infer without being
 
 ## Must include
 
-Continuity anchors, objects and lines carried forward or set up for later.
+**Provisional staging, not a quota.** Continuity anchors, objects and target lines. Quoted dialogue is target phrasing. The generator keeps what serves the scene, changes or drops what doesn't, and flags meaningful departures. Mark any item that is truly required for causality or canon with **[C]**.
 
 ## Forbidden moves
 

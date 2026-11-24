@@ -38,6 +38,7 @@ That the hike will never happen. Rachel's disappointment at his "Sure" said with
 - A hawk over the slope. The Stanford Dish on the far hills, mentioned once and plainly.
 - "Digital. Every idiot can count to one." "That's him." This is Bob's saying.
 - Daniel kissing the top of her head and going back for the charger.
+- **A disagreement the technology didn't cause** [C]: a text from Daniel's mother asking when they'll visit Iowa this summer. Rachel has been putting it off; Daniel wants to go. Both are a little right. Small, unresolved, and it pays off when they arrive in Iowa under the worst possible circumstances.
 
 ## Forbidden moves
 

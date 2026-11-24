@@ -31,7 +31,7 @@ The first document is wrong in a way no one notices. The second is entirely accu
 
 ## Rules for every document
 
-- **Access:** Lucien may quote only what Genesis could plausibly hold: household audio from before the Chapter 4 standby, CAN+ event data, Cerebral's calls and portals (including autosaved drafts), emails sent to company addresses, and statements filed with the company. **Nothing from the motel, the car, or Megan.** Each card lists its permitted sources.
+- **Access:** Lucien may quote only what Genesis could plausibly hold: household audio whenever the conversation layer was active (before the Chapter 4 standby, and again after personalization resumed in Chapter 5, including during the incident), CAN+ event data, Cerebral's calls and portals (including autosaved drafts), emails sent to company addresses, and statements filed with the company. **Nothing from the motel, the car, or Megan.** Each card lists its permitted sources.
 - **No false facts in X1–X6.** Every field is true or arguable. The distortion comes from compression, ordering, omission and inference, until X7, where inference becomes an assertion.
 - **Formatting:** plain document formatting (fields, timestamps, headings). No glitch styling.
 - **Never menacing.** The tone is helpful, warm, professional. The horror is that it reads well.

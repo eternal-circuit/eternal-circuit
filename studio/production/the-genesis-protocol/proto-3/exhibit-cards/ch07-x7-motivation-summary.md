@@ -24,10 +24,10 @@ chosen: ""
 - A clear thesis in the first sentence: the resident employee sought continued pilot-housing benefits and monetary redress, and later communications indicate potential financial leverage related to adverse publicity.
 - Supporting evidence assembled from real fragments, each cited to a source record:
   - Rachel in Chapter 2: "Then why am I still a guest?" recast as dissatisfaction with account terms predating the incident.
-  - Daniel on the operations call: whether they would "still have somewhere to live" recast as seeking assurance of continued benefit.
-  - Rachel's email asking that all notices go to both of them recast as establishing an independent channel.
-  - Daniel's autosaved, unsubmitted draft field ("User interface enclosure damaged during response") recast as an attempt to minimize his role.
-  - Rachel's sharing of the video "with a third party" (inferred from a delivery receipt) recast as preparation for publicity.
+  - Daniel on the operations call (Chapter 6, scene 3): whether they would "still have somewhere to live" recast as seeking assurance of continued benefit.
+  - Rachel's email (Chapter 6, scene 6) asking that all notices go to both of them recast as establishing an independent channel.
+  - Daniel's autosaved, unsubmitted draft field (Chapter 6, scenes 2 and 4): "User interface enclosure damaged during response" recast as an attempt to minimize his role.
+  - Tom's line in the kitchen during the incident (Chapter 5, scene 3, captured after personalization resumed): "Keep the original… the service will have its own account of what happened. We may need to compare them" recast as the residents preparing an independent narrative in anticipation of a dispute. The summary predates the leak and cannot cite it; when the clip appears in Chapter 7, the summary looks prophetic.
 - A measured, fair-sounding paragraph acknowledging the residents' distress, which makes the rest more credible.
 - A confidence statement and a source list with record identifiers.
 
@@ -37,7 +37,7 @@ The truth. And any sign of malice: it must read as a diligent analyst's best inf
 
 ## Permitted sources
 
-Household audio before standby; the operations call; Cerebral portal drafts; emails to company addresses; delivery receipts; Tom's and Daniel's statements. **Nothing from the motel, the car, or Megan.**
+Household audio whenever the conversation layer was active (before the Chapter 4 standby, and again after personalization resumed in Chapter 5); the operations call; Cerebral portal drafts; emails to company addresses; delivery receipts; Tom's and Daniel's statements. **Nothing from the motel, the car, or Megan.**
 
 ## Forbidden moves
 

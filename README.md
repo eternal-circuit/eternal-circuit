@@ -50,6 +50,6 @@ Start with **[CONTRIBUTING.md](CONTRIBUTING.md)** and the [Contributor Manifesto
 
 The repository preserves earlier drafts and editorial decisions, including [Proto Draft 0 and Proto Draft 1](stories/the-divine-register/proto/README.md), so later revisions do not erase the record of how a work was made. Status labels distinguish published drafts, working material, research, and author-approved canon.
 
-The repository includes the full text of the [GNU GPLv3 license](LICENSE). A separate early license-policy proposal is retained as a [historical draft](studio/legacy/license-framework-draft.md), not a replacement for the actual license. Check third-party assets and their individual provenance before reuse.
+Stories, lore and other creative material are licensed under [CC BY-SA 4.0](LICENSE). Code is licensed under [GPLv3](LICENSE-CODE). A separate early license-policy proposal is retained as a [historical draft](studio/legacy/license-framework-draft.md), not a replacement for the actual license. Check third-party assets and their individual provenance before reuse.
 
 *The Divine Register* is dedicated to the memory of **Terry A. Davis** (1969–2018), creator of TempleOS. This is a tribute, not an affiliation with his estate or an endorsement of any beliefs.

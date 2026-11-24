@@ -1,6 +1,6 @@
 # Orchestrator runbook
 
-Read [AGENTS.md](../../AGENTS.md), the [project inventory](../canon/PROJECT_INVENTORY.md), the relevant canon, source notes and manuscript passages. Record the requested deliverable and publication classification. Choose the route by the decision the work needs to support.
+Read [AGENTS.md](../../AGENTS.md), the [project inventory](../canon/PROJECT_INVENTORY.md), the relevant canon, source notes and manuscript passages. Record the requested deliverable and publication classification. Choose the route by the decision the work needs to support. Size the review by the [proportionality tiers](../canon/REALISM_POLICY.md#proportionality): only tier A claims need the full universe workflow.
 
 ## Universe and scientific canon
 

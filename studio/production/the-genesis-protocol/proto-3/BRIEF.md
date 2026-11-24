@@ -4,7 +4,7 @@
 
 ## Goal
 
-A novella of about 25,000–30,000 words, written under the [authorship rule](../../../../AUTHORSHIP.md). It keeps Proto Draft 2's causal spine, which works, and changes where the words are spent.
+A novella of 128 typeset pages, about 32,000–35,000 words (see the [book specification](../../the-divine-register/BOOK_SPEC.md)), with the voice set by [VOICE.md](../VOICE.md), written under the [authorship rule](../../../../AUTHORSHIP.md). It keeps Proto Draft 2's causal spine, which works, and changes where the words are spent.
 
 ## What carries over from Proto Draft 2
 

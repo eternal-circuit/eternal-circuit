@@ -9,6 +9,7 @@
 - **When a draft has an unverified factual dependency:** Start a scoped universe task for the affected claim. Keep that dependency out of canon until resolved and continue other drafting. Routine craft changes can proceed using the existing verification.
 - **When research needs direction:** Use literary canon to identify relevant eras, settings, outcomes and open questions. The evidence and independent review determine the scientific verdict.
 - For new scientific claims, use the [frontier source policy](studio/research/FRONTIER_SOURCES.md) and [claim dossier](studio/research/reviews/TEMPLATE.md). Record evidence, assumptions, falsifiers and uncertainty. Preserve historical manuscripts.
+- **Proportionality:** scale review to the stakes using the [tiers in the realism policy](studio/canon/REALISM_POLICY.md#proportionality). Scene mechanics and texture do not need claim dossiers.
 - **Authorship rule (draft):** manuscript prose is model-generated and human-directed. See [AUTHORSHIP.md](AUTHORSHIP.md) and the scene-level [production workflow](studio/production/README.md). Never hand-edit surviving prose on the author's behalf; regenerate under instruction and log provenance.
 - These are operating instructions for agents. Separate reviewer contexts require explicit invocation.
 

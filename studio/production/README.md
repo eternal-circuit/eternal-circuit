@@ -11,6 +11,12 @@
 5. **Log.** The [provenance record](PROVENANCE.md) captures the inputs, variants and decision.
 6. **Assemble and review.** Chosen scenes are stitched into chapters. Continuity, science and literary reviewers run as in the literary workflow. The author holds the final veto on whether the result is alive.
 
+## Voice and book design
+
+- [Voice bible template](VOICE_BIBLE_TEMPLATE.md): the five levels where voice is defined, and the rules for homage seeds.
+- [Book specification for *The Divine Register*](the-divine-register/BOOK_SPEC.md): the 256-page budget, seed authors, and the decisions each story needs before drafting.
+- Each story folder has a `VOICE.md`. *The Genesis Protocol*'s is filled in; the others are stubs.
+
 ## Layout
 
 ```text
@@ -18,6 +24,8 @@ studio/production/
   README.md                  this workflow
   SCENE_CARD_TEMPLATE.md     copy for each scene
   PROVENANCE.md              logging format
+  <book-slug>/BOOK_SPEC.md   book-level design
+  <story-slug>/VOICE.md      story voice bible
   <story-slug>/<draft>/
     BRIEF.md                 story-level brief and open decisions
     cards/                   one card per scene, named chNN-sNN-<slug>.md

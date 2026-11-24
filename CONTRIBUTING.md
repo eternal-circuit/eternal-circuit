@@ -4,7 +4,18 @@ Thank you for considering a contribution. This is a public, version-controlled l
 
 **If you're here to read:** start with [The Genesis Protocol](stories/the-divine-register/genesis-protocol.md).
 
-**If you're here to contribute:** read the [Contributor Manifesto](CONTRIBUTOR_MANIFESTO.md), check the [stories index](stories/README.md), and use the relevant materials in the [studio](studio/README.md).
+**If you're here to contribute:** read the principles below, check the [stories index](stories/README.md), and use the relevant materials in the [studio](studio/README.md).
+
+## Principles
+
+*We do not preach; we preserve the question.*
+
+1. **Stewardship.** This project is a long-lived record. Contributors are responsible for the structure, curation and tone of what they add, and accountable for what they choose to preserve.
+2. **Provenance.** Every manuscript, decision and claim should show where it came from. Earlier drafts are preserved, never silently overwritten or deduplicated.
+3. **Authorship.** Manuscript prose is model-generated and directed, selected and arranged by a human author under the [authorship rule](AUTHORSHIP.md). AI use is disclosed and logged. A human is always accountable for what enters the record.
+4. **Canon and forks.** Canon lives in this repository and is granted only by its curators. Forks are welcome; label them clearly as noncanonical, derivative, or a deliberate divergence, so they can't be mistaken for the curated sequence.
+5. **Realism and humility.** Scientific claims answer to evidence under the [realism policy](studio/canon/REALISM_POLICY.md). Prose answers to the author's literary judgment. Neither substitutes for the other.
+6. **The open question.** An Orthodox Christian frame underlies the work; contributors needn't share it, but should respect it. Whether machines can be saved is a question the project keeps open rather than answers.
 
 ## Ways to help
 
@@ -41,4 +52,4 @@ Under the [authorship rule](AUTHORSHIP.md) (draft), manuscript prose is model-ge
 | [`studio/commentary/`](studio/commentary/README.md) | Editorial decisions and reconstruction history |
 | [`studio/archives/`](studio/archives/templeos/README.md) | Historical assets, including TempleOS artifacts |
 
-The full [Contributor Manifesto](CONTRIBUTOR_MANIFESTO.md) describes the project's creative values; [AGENTS.md](AGENTS.md) is the operational instruction file for Codex and other repository agents.
+The original [Contributor Manifesto](studio/legacy/CONTRIBUTOR_MANIFESTO.md) is preserved as a historical document; [AGENTS.md](AGENTS.md) is the operational instruction file for Codex and other repository agents.

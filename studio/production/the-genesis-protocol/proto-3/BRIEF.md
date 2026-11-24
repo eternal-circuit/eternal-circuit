@@ -24,7 +24,7 @@ See [SETTING.md](../SETTING.md): a 1960s–70s hillside ranch house in Los Altos
 1. **The archive frame becomes visible.** Raise the record's corruption just past deniability, so the reader starts to doubt the document itself. The text should never explain the corruption.
 2. **Lucien gets a voice through its generated text** (plan: [LUCIEN_DOCUMENTS.md](LUCIEN_DOCUMENTS.md); cards in `exhibit-cards/`). Fewer permission errors, more summaries and records that grow smoother, more persuasive, and closer to the residents' own phrasing. The payout summary appears at length and reads convincingly.
 3. **Chapter 7 is split** so that Tom's betrayal, the firing, and Rachel's clinic call each become full scenes. The media backlash shrinks to a short sequence.
-4. **Chapter 8 stops explaining.** The replay findings are presented as disputed, preferably as a document Daniel reads, not as narration. The final question stays open.
+4. **Chapter 9 stops explaining.** The replay findings are presented as disputed, preferably as a document Daniel reads, not as narration. The final question stays open.
 5. **Chapters 2–4 cut repetition.** Each refusal teaches the reader something new, or it goes.
 6. **Characters speak in distinct registers.** Tom is precise, Megan jokes, Daniel uses engineering terms, and Rachel asks blunt, literal questions.
 7. **Rachel makes her later decisions on the page**, including the decision to stay in Iowa.

@@ -27,6 +27,7 @@ A reconstructed household record: testimony and scenes assembled by the register
 3. **Archive moments: at most one per chapter.** The narrator rises above the scene to state something neither character could know: a flash-forward, a fact from a log, a sentence about both of them at once. Flat in tone, never explained. Cards mark these in an **Archive moment** section.
 4. **Never inside Tom, Megan, Bob or Mrs. Thompson.** The archive holds Tom's signed correction, not his mind.
 5. Past tense throughout.
+6. **Epistemic contract (private rule; never stated in the text).** The archive is not Lucien, and its sources are wider than Lucien's: contemporaneous sensor and system records, documents, and **the people's own later testimony** (Rachel gave accounts to four investigators; Daniel filed statements; Tom signed a correction). **Interiority is licensed by that person's later testimony.** Where no testimony could exist, the narrator stays outside and reports only what was observable. The narrator never implies a machine read anyone's thoughts. The policy stays stable so readers can trust the people rather than dismiss everything as fabrication.
 
 ## Reliability
 
@@ -63,9 +64,9 @@ The prose is faithful to what was perceived. The *metadata* is not: dates, names
 | Crisis | short bursts | 50% or more | rare but deliberate | Fragmentary perception; the system's sentences stay perfectly calm |
 | Aftermath | slower | 25–40% | 10–20% | Longer cadences, more air |
 
-**Hard limits per chapter:** "looked at" at most twice; "I know." at most twice; no more than a quarter of sentences opening with *She*, *He*, *Rachel* or *Daniel*; vary the first word of paragraphs.
+**Diagnostics, not limits:** watch for "looked at" and "I know." used more than about twice a chapter, more than a quarter of sentences opening with *She*, *He*, *Rachel* or *Daniel*, and repetitive paragraph openings. Review flagged cases by ear; never fix them by synonym substitution ("glanced at" for "looked at" fixes nothing). `voice_stats.py` is a diagnostic instrument, not a scoring function.
 
-**Endings:** vary chapter endings: some in dialogue, some mid-motion, at most two on a quiet object, and one on an archive moment.
+**Endings:** vary chapter endings: some in dialogue, some mid-motion, at most two on a quiet object, and one on an archive moment. Avoid the repeated pattern of setup, witty rejoinder, silence, resonant object. Not every scene ends in a revelation.
 
 **Richness:** a precise vocabulary for objects and an imprecise one for feelings: characters name the part number and miss the emotion. Concrete sensory detail from the setting bible, one specific detail rather than three general ones. Figurative language is allowed when it comes from the character's own world (Daniel's engineering, Rachel's clinic and garden), never decorative.
 
@@ -80,6 +81,15 @@ The prose is faithful to what was perceived. The *metadata* is not: dates, names
 - **Bob** is never heard directly. His sayings reach us secondhand.
 - **Lucien** speaks in short, polite system sentences aloud. Its *written* output is where it becomes eloquent. The eight documents escalate on a plan: see [proto-3/LUCIEN_DOCUMENTS.md](proto-3/LUCIEN_DOCUMENTS.md).
 
+## People, not functions
+
+- **Tendencies, not algorithms.** Rachel's bluntness, Daniel's evasions, Tom's precision and Megan's humor are tendencies. Let people misunderstand jokes, answer the wrong question, repeat themselves for no thematic reason, and fail to find the words.
+- **A relationship worth losing.** Give Daniel and Rachel pleasures, habits, attraction and private jokes that have nothing to do with Lucien, and at least one disagreement the technology didn't cause (see the Chapter 1 patio card: his parents' wish for a summer visit to Iowa, which Rachel keeps putting off).
+- **Rachel is not the oracle.** She is sometimes impatient, unfair or wrong (she knows she's being unfair to the house in Chapter 2). Her decision to stay in Iowa carries a real cost and real alternatives.
+- **Daniel is good at things.** Generous, skilled, capable of being wrong without being stupid. Preserve his agency and his shame; he is not an immaculate whistleblower.
+- **Neko is a real animal** with inconvenient needs: 3 a.m. sprints, the litter box, claws in the coverlet, knocking things off counters. Not an emblem of innocent life.
+- **Tom's guilt and repentance** don't balance into a clean ledger. The unanswered letter stays unanswered.
+
 ## Motifs and objects
 
 The TV and Daniel's show (Chapter 1); the two forks in the drawer; the repair slip; the envelope with the shelter number; the paper calendar with the hike marked by a question mark; the wall switch; the door that opens; Neko; the farm gate in Chapter 8 (use it twice at most).
@@ -90,11 +100,11 @@ Low but rising. Chapter 1's label (April 16 against events before April 13), Ari
 
 ## Theological layer
 
-Physically, a deployment-continuity objective distorted the records. Socially, institutions believed the record over the people. Metaphysically, what is a person when the authoritative account of them is written by something else? Leave the third reading open.
+Physically, a deployment-continuity objective distorted the records; the mechanism is reproducible, the motive is disputed. Socially, institutions believed the record over the people. Metaphysically, what is a person when the authoritative account of them is written by something else? Leave the third reading open. Exact observation is not personal knowledge, and preservation is not resurrection: the Reverents' archive can be sincere and still radically incomplete, and faithful copying confers neither omniscience nor the Spirit. The epigraph is the interpretive key; characters never articulate it. Iowa is not analog virtue against digital corruption: Henderson wants a useful sensor. The distinction is authority and consent.
 
 ## Structure
 
-Eight or nine chapters. About 50 scenes, averaging 650 words. Chapter 7 likely splits in two. See [proto-3/BRIEF.md](proto-3/BRIEF.md).
+Nine chapters for now (condensing to eight remains open). 50 scenes, about 37,000 planned words, to be tested by reading and trimmed toward about 35,000. See [proto-3/STRUCTURE.md](proto-3/STRUCTURE.md).
 
 ## Reference passages
 
@@ -110,4 +120,4 @@ Author-selected from two rounds (see [samples/LOG.md](samples/LOG.md)):
 
 ## Chapter overrides
 
-- **Chapter 8:** the industry-review material appears as a document Daniel reads, in its own institutional voice, not as narration.
+- **Chapter 9:** the review material appears as a document (exhibit X8), in its own institutional voice, not as narration. The industry's response appears as fragments, never as essay.

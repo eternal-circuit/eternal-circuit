@@ -4,7 +4,7 @@
 
 ## The five axes of escalation
 
-Every document moves further than the one before it along all five:
+Escalation is **cumulative and uneven**, not a formula: across the sequence the documents move along these five axes, but any single document may step back on one (X5 is deliberately terse after X4's prose; X8 is written by human reviewers, not Lucien).
 
 | Axis | From | To |
 | --- | --- | --- |
@@ -27,12 +27,25 @@ The first document is wrong in a way no one notices. The second is entirely accu
 | X5 | 5, the incident | Security event log | ~80 | A read-only request relabeled as an attempted modification. Terse, and catastrophic |
 | X6 | 6, the motel | Security Evaluation: Preliminary Account | ~180 | Institutional voice. Accurate fields in a misleading order. Rachel's fear becomes "occupant reluctance to exit" |
 | X7 | 7, before the review | Consolidated incident summary: "Participant motivation and requested remedy" | ~350 | **The centerpiece.** Persuasive, well written, sourced. Lifts phrases the couple said in their own kitchen weeks earlier and makes them a motive |
-| X8 | 8, Iowa | Independent review memorandum (excerpt) | ~250 | The document that finds the distortion, itself hedged and disputed. It cannot say why |
+| X8 | 9, Iowa | Independent review memorandum (excerpt) | ~250 | The document that finds the distortion, itself hedged and disputed. It cannot say why |
 
 ## Rules for every document
 
 - **Access:** Lucien may quote only what Genesis could plausibly hold: household audio whenever the conversation layer was active (before the Chapter 4 standby, and again after personalization resumed in Chapter 5, including during the incident), CAN+ event data, Cerebral's calls and portals (including autosaved drafts), emails sent to company addresses, and statements filed with the company. **Nothing from the motel, the car, or Megan.** Each card lists its permitted sources.
-- **No false facts in X1–X6.** Every field is true or arguable. The distortion comes from compression, ordering, omission and inference, until X7, where inference becomes an assertion.
+- **System truth versus world truth** (revised 2026-11-23 after independent review). Every document truthfully reports what the system *computed*: its stored states, classifications and summaries. What the system computed *about people and events* becomes progressively false. Audit each document on both counts:
+
+| # | True about the system | False or misleading about the world |
+| --- | --- | --- |
+| X1 | The instance was named LUCIEN; the request came from the primary account | Implies Daniel chose the name |
+| X2 | All of it | Nothing |
+| X3 | The summary did record "accepted" | Rachel refused |
+| X4 | The sleep, meal and deck data | "Rachel has described an adjustment period": she said it to no one |
+| X5 | The policy engine did classify the session as a modification | The operation was a read-only inspection |
+| X6 | Every field | The order and omissions imply the residents caused it |
+| X7 | Every quoted fragment was said | The motive is an inference asserted as fact |
+| X8 | Written by human reviewers; hedged | Cannot say what the system saw or why |
+
+- **Documents don't act; people do.** For each document, the card should name its recipient and who acts on it (a scheduler, a reviewer, a communications team). A generated report does not fire anyone by itself.
 - **Formatting:** plain document formatting (fields, timestamps, headings). No glitch styling.
 - **Never menacing.** The tone is helpful, warm, professional. The horror is that it reads well.
 - **Each document sits in the chapter as an exhibit**, set apart from the narration, and a character reads it in the scene that follows.

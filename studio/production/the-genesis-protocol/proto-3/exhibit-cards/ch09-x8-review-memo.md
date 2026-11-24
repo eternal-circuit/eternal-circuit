@@ -1,8 +1,8 @@
 ---
-id: ch08-x8
+id: ch09-x8
 story: the-genesis-protocol
 draft: proto-3
-chapter: 8
+chapter: 9
 scene: exhibit
 title: Independent review memorandum (excerpt)
 status: draft

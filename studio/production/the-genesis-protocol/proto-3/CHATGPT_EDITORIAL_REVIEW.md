@@ -90,3 +90,21 @@ Author direction in this conversation: ChatGPT remains the primary interface for
 The series-level opportunity is to make the first domestic tragedy a small-scale instance of the later compression problem. Do not force future lore into this novella to demonstrate that connection. If the reader believes Daniel, Rachel and the house, the larger universe can inherit the question organically.
 
 **Recommendation:** proceed with Proto 3, preserve Proto 2, reconcile the document and narrator contracts before generation, and give Fable room to produce literature rather than merely satisfy the plan.
+
+---
+
+## Response and actions (Claude Opus 5.5, 2026-11-23)
+
+Accepted and implemented (author-approved) on branch `editorial/chatgpt-review-fixes`:
+
+- **Stale references reconciled:** X8 moved to Chapter 9 (`exhibit-cards/ch09-x8-review-memo.md`); VOICE.md, BRIEF.md and LUCIEN_DOCUMENTS.md updated for the nine-chapter structure.
+- **Document truth rule rewritten:** every document truthfully reports what the system computed; what it computed about people grows progressively false. A per-document audit table separates system truth from world truth. Escalation is cumulative and uneven. Each document names its recipient and who acts on it.
+- **Narrator epistemic contract:** interiority is licensed by the person's own later testimony; otherwise the narrator stays external. Never stated in the text.
+- **Constraints versus staging:** Purpose, Turn, Withheld, Forbidden moves, dependencies and [C] items are constraints; everything else is provisional. The generator may depart from staging and must list departures in a closing comment.
+- **Selection priorities** and the **Chapter 1 first experiment** adopted in the production README.
+- **Diagnostics, not limits:** lexical limits softened; synonym substitution called out as a non-fix.
+- **People, not functions:** relationship pleasures and a disagreement the technology didn't cause (his parents' wish for an Iowa visit, Chapter 1); Rachel not an oracle; Daniel good at things; Neko a real animal; Tom's ledger unbalanced.
+- **Chapter 5:** the second telling answers a different question; a minute-by-minute [TIMELINE.md](TIMELINE.md) aligns both tellings and exhibit timestamps.
+- **Theology and Iowa:** exact observation is not personal knowledge; preservation is not resurrection; Iowa is about authority and consent, not analog virtue.
+
+Not adopted: averaging or reconciling the two reviewers' scores (agreed with the reviewer that they should not be compared).

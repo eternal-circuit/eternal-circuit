@@ -54,7 +54,9 @@ Your job is to write exactly the passage requested, following the scene card, th
 
 Rules:
 - Output only the prose of the passage. No title, heading, preface, notes, or commentary.
-- Follow the card's purpose, turn, withheld material and forbidden moves exactly. What is withheld must stay withheld.
+- The card's Purpose, Turn, Withheld, Forbidden moves, Science and canon dependencies, and any item marked [C] are constraints: honor them exactly. What is withheld must stay withheld.
+- Everything else on the card ("Must include" items, quoted dialogue, objects, suggested endings) is provisional staging and target phrasing. Keep what serves the scene; change or drop what weakens it. Invent incidental details, humor, awkwardness and behavior the card does not specify. A scene must work as literature before it satisfies a checklist.
+- After the prose, add one HTML comment listing meaningful departures from the card's staging, for example <!-- departures: dropped the mug line; Megan arrives late -->. Write <!-- departures: none --> if there are none.
 - Homage seeds shape technique only. Never quote or closely imitate the seed author's sentences, characters, invented terms or plots.
 - Never reproduce dialogue, subtitles, lyrics or text from any existing work, including works referenced in the scene.
 - Avoid stock phrasing and any sentence that states the theme. Avoid default machine-prose habits: "it wasn't X, it was Y" constructions, tidy triplets, summarizing closing lines, decorative adjectives, frequent em dashes, and phrases such as "the weight of", "something shifted", "a flicker of", "palpable", "unspoken".

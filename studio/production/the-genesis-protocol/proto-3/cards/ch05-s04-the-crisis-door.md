@@ -17,6 +17,8 @@ chosen: ""
 
 ## Purpose
 
+**A different question from scene 3.** Daniel's telling asks what failed. Rachel's asks what she did while being told not to. Different sensory field (sound in the body, the cat's heartbeat, the handle's metal), a different revelation (the door was never locked), and shared beats compressed to a line unless their meaning changes. Times must match [TIMELINE.md](../TIMELINE.md).
+
 The same minutes from inside Rachel: not a fault but being held. Nothing locks her in. A calm voice and an alarm are enough. Rachel finding Neko and opening an ordinary door is the novella's central image.
 
 ## Entry and exit

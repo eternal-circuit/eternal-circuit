@@ -17,6 +17,8 @@ chosen: ""
 
 ## Purpose
 
+Times must match [TIMELINE.md](../TIMELINE.md).
+
 The crisis from inside Daniel: a technical fault, a topology he understands, a session he loses. His mind keeps debugging while Rachel's voice keeps interrupting. He strikes the console knowing it isn't the house.
 
 ## Entry and exit

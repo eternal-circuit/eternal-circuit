@@ -10,6 +10,10 @@ A novella of 128 typeset pages, about 32,000–35,000 words (see the [book speci
 
 Events move from 2032 to **2028** (author decision, 2026-11-23). Update every in-world date and any year-dependent technology. The chapter-date anomaly (Chapter 1 labeled after Chapter 2) is preserved with the new year.
 
+## Setting
+
+See [SETTING.md](../SETTING.md): a 1960s–70s hillside ranch house in Los Altos Hills, captured as a type with no real address. It keeps Proto Draft 0's geography without its decorative language.
+
 ## What carries over from Proto Draft 2
 
 - The plot sequence, the realism constraints and the scientific dependencies recorded in the [continuity ledger](../../../continuity/genesis-proto-2-working-ledger.md).

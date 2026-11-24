@@ -53,7 +53,7 @@ python3 studio/production/tools/generate.py variants CARD --notes notes.md \
 ```
 
 - `--estimate` prints an approximate token count and cost and stops. `--dry-run` writes the prompt files without calling the API. Prompt files are self-contained and can also be pasted into a chat with the chosen model.
-- Each variant prompt includes the system rules, the story's `VOICE.md` and `BRIEF.md`, the glossary, the selected text of the previous scene (from its card's `chosen` field), the card, and any revision notes.
+- Each variant prompt includes the system rules, the story's `VOICE.md`, `SETTING.md` (if present) and `BRIEF.md`, the glossary, the selected text of the previous scene (from its card's `chosen` field), the card, and any revision notes.
 - Variants go to `<draft>/variants/`, prompts to `<draft>/prompts/`, and a provenance entry for the round to `<draft>/log/<scene>.md`. Fill in the **Decision** line by hand: which variant, what was cut or joined, and the notes for the next round.
 - Default model: `claude-fable-5-2`. Override with `--model`.
 - Approximate cost per round at November 2026 prices: about $0.35 for three Fable variants of an 800-word scene, and about $0.55 for 15 voice samples.

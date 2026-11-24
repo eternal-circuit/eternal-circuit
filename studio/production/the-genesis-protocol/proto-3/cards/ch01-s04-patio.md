@@ -9,7 +9,7 @@ status: draft
 pov: Rachel
 in_world_date: 2028-04-12   # provisional; ledger says "before April 13", exact date not approved
 archive_label: 2028-04-16
-location: patio, early evening
+location: back deck (orange clay tiles, citrus trees), early evening
 word_target: 600
 variants_requested: 3
 chosen: ""
@@ -21,7 +21,7 @@ Plant what they will lose: the Sonoma hike, Rachel's friendship with Megan, an e
 
 ## Entry and exit
 
-- **Enters with:** tea on the patio, eucalyptus, Megan's trail photos.
+- **Enters with:** tea on the deck, eucalyptus and citrus blossom, Megan's trail photos.
 - **Exits with:** Daniel on a call with Bob, and Rachel alone with a view that looks finished.
 
 ## Turn
@@ -35,7 +35,7 @@ That the hike will never happen. Rachel's disappointment at his "Sure" said with
 ## Must include
 
 - The Sonoma trail: footbridge, creek, Megan's photo of her own boots.
-- A hawk over the slope.
+- A hawk over the slope. The Stanford Dish on the far hills, mentioned once and plainly.
 - "Digital. Every idiot can count to one." "That's him." This is Bob's saying.
 - Daniel kissing the top of her head and going back for the charger.
 

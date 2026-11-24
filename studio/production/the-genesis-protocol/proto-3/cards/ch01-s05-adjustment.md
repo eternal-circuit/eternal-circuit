@@ -9,7 +9,7 @@ status: draft
 pov: Rachel
 in_world_date: 2028-04-12   # provisional; ledger says "before April 13", exact date not approved
 archive_label: 2028-04-16
-location: kitchen, then patio, evening
+location: kitchen, then back deck, evening
 word_target: 650
 variants_requested: 3
 chosen: ""

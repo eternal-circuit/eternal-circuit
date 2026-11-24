@@ -1,3 +1,5 @@
+> **Status note (2026-11-24):** historical document, retained verbatim below this notice. Superseded for contributors by the plain-language **Principles** in [CONTRIBUTING.md](../../CONTRIBUTING.md#principles), which keep its ideas (stewardship, labeled forks, human accountability, preserving the question) in the project's current register. Its voice now lives inside the fiction; see the draft keepers' charter in `studio/production/the-divine-register/exhibits/`.
+
 # CONTRIBUTOR_MANIFESTO.md
 
 ## The Eternal Circuit — Contributor Manifesto

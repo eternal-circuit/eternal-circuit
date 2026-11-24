@@ -22,7 +22,7 @@ The archived Proto Draft 0 Markdown uses the baseline’s paragraph breaks and t
 
 Use Markdown for manuscript edits. Attach approved PDF snapshots to versioned GitHub Releases. Preserve the historical text for byte-offset work.
 
-Other tracked materials include `README.md`, `CONTRIBUTOR_MANIFESTO.md`, `LICENSE`, `studio/legacy/license-framework-draft.md` (historical proposal), the [TempleOS ISO and VM configurations](../archives/templeos/), and the retained seed markers in `studio/legacy/seeds/`.
+Other tracked materials include `README.md`, `studio/legacy/CONTRIBUTOR_MANIFESTO.md` (moved 2026-11-24), `LICENSE`, `studio/legacy/license-framework-draft.md` (historical proposal), the [TempleOS ISO and VM configurations](../archives/templeos/), and the retained seed markers in `studio/legacy/seeds/`.
 
 ## Other available materials
 A project-supplied PDF titled *The Divine Register - Michael Pass.pdf* contains the Genesis Protocol story, Chapters 1–8, and editorial TODOs; separate chapter illustration and logo images were also supplied. Their relationship to committed assets has not yet been compared. Prior discussions refer to a universe bible, economics/theme notes, a Book 2 interplanetary AI concept, theological glossary, and liturgical constructs; the *actual files* for these have not yet been verified as present.

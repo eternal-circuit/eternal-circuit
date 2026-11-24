@@ -115,3 +115,5 @@ The author confirmed **Kurt Vonnegut, *Player Piano*** as the seed for *Idle Han
 ## Addendum: archive frame (same session)
 
 Header: combine the liturgical register and the system log (candidates v6–v8 for Chapter 1; final form pending). No curator voice. Keeper annotations only at disputes. Junk data on filler pages. Recorded in `studio/canon/ARCHIVE_FORMAT.md`.
+
+**Header chosen (v9):** v6's combined form with HASH (real SHA3-256 of the entry text), LINEAGE (copy number and parent hash) and ECC (Reed-Solomon RS(255,223)) fields, plus a lineage line in the liturgical gloss. The native encoding appears once, on the checksum page. Tool: `studio/production/tools/register_header.py`.

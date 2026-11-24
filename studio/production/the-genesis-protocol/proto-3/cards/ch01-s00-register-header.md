@@ -5,14 +5,14 @@ draft: proto-3
 chapter: 1
 scene: 0
 title: Register header
-status: draft
+status: selected
 pov: the archive
 in_world_date: 2028-04-12   # provisional; ledger says "before April 13", exact date not approved
 archive_label: 2028-04-16
 location: n/a
 word_target: 60
 variants_requested: 5
-chosen: ""
+chosen: "ch01-s00-v9"
 ---
 
 ## Purpose

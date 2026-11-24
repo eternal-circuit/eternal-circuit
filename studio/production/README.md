@@ -68,3 +68,13 @@ python3 studio/production/tools/voice_stats.py --baseline \
 ```
 
 Use it when choosing between variants. It is a guide to the author's judgment, not a score.
+
+## Register headers
+
+[`tools/register_header.py`](tools/register_header.py) renders a record's header with the **real SHA3-256** of its canonical text, a real Reed-Solomon block count, and deterministic in-world lineage values. `checksum` prints the native-encoding view for the checksum page with real RS(255,223) parity, and `verify` checks a file against a printed hash. Run it on the final assembled text of each entry at build time.
+
+```sh
+python3 studio/production/tools/register_header.py header ENTRY.md \
+    --record 0b00000000 --entry 1 --label 2028-04-16 --addr 0x0000fjfA \
+    --copy 4096 --witness "the house" --gloss-subject "the first record of the household" --corrected 61
+```

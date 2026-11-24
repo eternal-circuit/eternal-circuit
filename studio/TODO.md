@@ -18,3 +18,4 @@ An asterisk (*) means the repository already labels the work complete or working
 - [ ] **Review prototype funding configuration** — Verify the listed destinations and decide whether the repository is ready to expose them.
 - [ ] **Record the disposition of the older feature branch** — The audit found zero commits unique to `feature`. Decide whether to retain it for historical reference or retire it.
 - [ ] **Recheck the technology timeline every year** — Compare the story timeline (handoff of 2026-11-23) with real developments in AI agents, robotaxis and humanoids. Software tends to arrive early and hardware late. Next check: November 2027.
+- [ ] **Compute register headers at build time** — When an entry's text is final, run `studio/production/tools/register_header.py` so each printed HASH is the real SHA3-256 of that text. Any later edit changes the hash; rebuild headers last.

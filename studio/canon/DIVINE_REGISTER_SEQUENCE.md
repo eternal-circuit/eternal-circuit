@@ -25,7 +25,7 @@ The draft [book specification](../production/the-divine-register/BOOK_SPEC.md) r
 
 ## Ninth checksum / flip bit
 
-The author's present direction places a ninth, deuterocanonical checksum or flip bit beside the eight main bits. It can change the reader's interpretation of earlier records while leaving the main sequence legible on its own. Earlier plans differ on whether the appendage belongs directly after this anthology or elsewhere in the larger chronology. Keep its numbering, point of view, and placement open.
+The author's present direction places a ninth, deuterocanonical checksum or flip bit beside the eight main bits. It can change the reader's interpretation of earlier records while leaving the main sequence legible on its own. Earlier plans differ on whether the appendage belongs directly after this anthology or elsewhere in the larger chronology. Keep its numbering, point of view, and placement open. Its page is also where the archive shows its native encoding once: a hex view with real Reed-Solomon parity (see the [archive format](ARCHIVE_FORMAT.md#the-native-encoding-checksum-page)).
 
 A working premise has an AI choose irreversible self-sacrifice at a black hole on the strength of an unproven wormhole hypothesis. This is a proposed narrative event. The engineering record can establish approach, last contact, and limits on observation. Survival, transfer, and the meaning of the sacrifice stay uncertain. The theological resemblance can emerge from the choice and its cost.
 

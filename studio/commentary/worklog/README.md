@@ -8,3 +8,4 @@ At the daily close, check repository activity and public-safe handoffs for the d
 
 - [2026-11-16](2026-11-16.md) — ASIMOV prototype, 2037 stack, *Idle Hands* pilot and workflow revision
 - [2026-11-23](2026-11-23.md) — Proto Draft 3 groundwork: the Register, authorship rule, ASIMOV and CAN+, real-hash headers, voice samples, and all scene cards
+- [2026-11-24](2026-11-24.md) — Contributor principles, legacy manifesto preservation, and a draft keepers’ charter
